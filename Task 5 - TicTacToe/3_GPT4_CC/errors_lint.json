@@ -1,0 +1,6271 @@
+[{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/1.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "structure",
+		"target": {
+			"$mid": 1,
+			"path": "/structure/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Expected ENDMETHOD",
+	"source": "abaplint",
+	"startLineNumber": 1,
+	"startColumn": 1,
+	"endLineNumber": 1,
+	"endColumn": 43
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/1.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "types_naming",
+		"target": {
+			"$mid": 1,
+			"path": "/types_naming/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Bad TYPES naming, expected \"^TY_.+$\", got \"player_type\"",
+	"source": "abaplint",
+	"startLineNumber": 7,
+	"startColumn": 12,
+	"endLineNumber": 7,
+	"endColumn": 23
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/1.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "types_naming",
+		"target": {
+			"$mid": 1,
+			"path": "/types_naming/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Bad TYPES naming, expected \"^TY_.+$\", got \"board_type\"",
+	"source": "abaplint",
+	"startLineNumber": 8,
+	"startColumn": 12,
+	"endLineNumber": 8,
+	"endColumn": 22
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/1.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "avoid_use",
+		"target": {
+			"$mid": 1,
+			"path": "/avoid_use/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Avoid use of DEFAULT KEY",
+	"source": "abaplint",
+	"startLineNumber": 8,
+	"startColumn": 58,
+	"endLineNumber": 8,
+	"endColumn": 65
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/1.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "unnecessary_chaining",
+		"target": {
+			"$mid": 1,
+			"path": "/unnecessary_chaining/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Unnecessary chaining",
+	"source": "abaplint",
+	"startLineNumber": 47,
+	"startColumn": 9,
+	"endLineNumber": 47,
+	"endColumn": 10
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/1.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"IF\"",
+	"source": "abaplint",
+	"startLineNumber": 51,
+	"startColumn": 5,
+	"endLineNumber": 51,
+	"endColumn": 21
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/1.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "prefer_raise_exception_new",
+		"target": {
+			"$mid": 1,
+			"path": "/prefer_raise_exception_new/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Prefer RAISE EXCEPTION NEW to RAISE EXCEPTION TYPE",
+	"source": "abaplint",
+	"startLineNumber": 52,
+	"startColumn": 7,
+	"endLineNumber": 52,
+	"endColumn": 49
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/1.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"IF\"",
+	"source": "abaplint",
+	"startLineNumber": 56,
+	"startColumn": 5,
+	"endLineNumber": 56,
+	"endColumn": 42
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/1.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"ELSIF\"",
+	"source": "abaplint",
+	"startLineNumber": 58,
+	"startColumn": 5,
+	"endLineNumber": 58,
+	"endColumn": 45
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/1.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"ELSEIF\"",
+	"source": "abaplint",
+	"startLineNumber": 60,
+	"startColumn": 5,
+	"endLineNumber": 60,
+	"endColumn": 48
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/1.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "check_comments",
+		"target": {
+			"$mid": 1,
+			"path": "/check_comments/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Do not use end of line comments - move comment to previous row instead",
+	"source": "abaplint",
+	"startLineNumber": 60,
+	"startColumn": 49,
+	"endLineNumber": 60,
+	"endColumn": 66
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/1.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"DATA\"",
+	"source": "abaplint",
+	"startLineNumber": 68,
+	"startColumn": 5,
+	"endLineNumber": 68,
+	"endColumn": 63
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/1.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"DATA\"",
+	"source": "abaplint",
+	"startLineNumber": 69,
+	"startColumn": 5,
+	"endLineNumber": 69,
+	"endColumn": 63
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/1.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"IF\"",
+	"source": "abaplint",
+	"startLineNumber": 72,
+	"startColumn": 5,
+	"endLineNumber": 74,
+	"endColumn": 68
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/1.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "line_break_multiple_parameters",
+		"target": {
+			"$mid": 1,
+			"path": "/line_break_multiple_parameters/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Line break multiple parameters",
+	"source": "abaplint",
+	"startLineNumber": 84,
+	"startColumn": 49,
+	"endLineNumber": 84,
+	"endColumn": 52
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/1.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "line_break_multiple_parameters",
+		"target": {
+			"$mid": 1,
+			"path": "/line_break_multiple_parameters/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Line break multiple parameters",
+	"source": "abaplint",
+	"startLineNumber": 84,
+	"startColumn": 59,
+	"endLineNumber": 84,
+	"endColumn": 63
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/10.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "types_naming",
+		"target": {
+			"$mid": 1,
+			"path": "/types_naming/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Bad TYPES naming, expected \"^TY_.+$\", got \"player_type\"",
+	"source": "abaplint",
+	"startLineNumber": 7,
+	"startColumn": 11,
+	"endLineNumber": 7,
+	"endColumn": 22
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/10.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "types_naming",
+		"target": {
+			"$mid": 1,
+			"path": "/types_naming/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Bad TYPES naming, expected \"^TY_.+$\", got \"board_type\"",
+	"source": "abaplint",
+	"startLineNumber": 8,
+	"startColumn": 11,
+	"endLineNumber": 8,
+	"endColumn": 21
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/10.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "abapdoc",
+		"target": {
+			"$mid": 1,
+			"path": "/abapdoc/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Missing ABAP Doc for method get_state ()",
+	"source": "abaplint",
+	"startLineNumber": 21,
+	"startColumn": 13,
+	"endLineNumber": 21,
+	"endColumn": 22
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/10.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"METHODS\"",
+	"source": "abaplint",
+	"startLineNumber": 28,
+	"startColumn": 5,
+	"endLineNumber": 32,
+	"endColumn": 49
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/10.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"METHODS\"",
+	"source": "abaplint",
+	"startLineNumber": 28,
+	"startColumn": 5,
+	"endLineNumber": 38,
+	"endColumn": 29
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/10.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"x_count\"",
+	"source": "abaplint",
+	"startLineNumber": 48,
+	"startColumn": 5,
+	"endLineNumber": 48,
+	"endColumn": 46
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/10.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"o_count\"",
+	"source": "abaplint",
+	"startLineNumber": 49,
+	"startColumn": 5,
+	"endLineNumber": 49,
+	"endColumn": 46
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/10.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_yoda_conditions",
+		"target": {
+			"$mid": 1,
+			"path": "/no_yoda_conditions/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "No Yoda conditions",
+	"source": "abaplint",
+	"startLineNumber": 51,
+	"startColumn": 29,
+	"endLineNumber": 51,
+	"endColumn": 50
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/10.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "prefer_raise_exception_new",
+		"target": {
+			"$mid": 1,
+			"path": "/prefer_raise_exception_new/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Prefer RAISE EXCEPTION NEW to RAISE EXCEPTION TYPE",
+	"source": "abaplint",
+	"startLineNumber": 52,
+	"startColumn": 7,
+	"endLineNumber": 52,
+	"endColumn": 49
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/10.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_yoda_conditions",
+		"target": {
+			"$mid": 1,
+			"path": "/no_yoda_conditions/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "No Yoda conditions",
+	"source": "abaplint",
+	"startLineNumber": 58,
+	"startColumn": 27,
+	"endLineNumber": 58,
+	"endColumn": 48
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/10.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "prefer_raise_exception_new",
+		"target": {
+			"$mid": 1,
+			"path": "/prefer_raise_exception_new/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Prefer RAISE EXCEPTION NEW to RAISE EXCEPTION TYPE",
+	"source": "abaplint",
+	"startLineNumber": 62,
+	"startColumn": 9,
+	"endLineNumber": 62,
+	"endColumn": 51
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/10.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_inline_in_optional_branches",
+		"target": {
+			"$mid": 1,
+			"path": "/no_inline_in_optional_branches/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Don't declare inline in optional branches",
+	"source": "abaplint",
+	"startLineNumber": 73,
+	"startColumn": 24,
+	"endLineNumber": 73,
+	"endColumn": 28
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/10.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "line_length",
+		"target": {
+			"$mid": 1,
+			"path": "/line_length/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Reduce line length to max 120, currently 133",
+	"source": "abaplint",
+	"startLineNumber": 81,
+	"startColumn": 1,
+	"endLineNumber": 81,
+	"endColumn": 135
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/10.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"IF\"",
+	"source": "abaplint",
+	"startLineNumber": 81,
+	"startColumn": 7,
+	"endLineNumber": 81,
+	"endColumn": 134
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/10.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"winner\"",
+	"source": "abaplint",
+	"startLineNumber": 82,
+	"startColumn": 9,
+	"endLineNumber": 82,
+	"endColumn": 39
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/10.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "space_before_dot",
+		"target": {
+			"$mid": 1,
+			"path": "/space_before_dot/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Remove space before \",\" or \".\"",
+	"source": "abaplint",
+	"startLineNumber": 88,
+	"startColumn": 21,
+	"endLineNumber": 88,
+	"endColumn": 22
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/10.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "unnecessary_return",
+		"target": {
+			"$mid": 1,
+			"path": "/unnecessary_return/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Unnecessary RETURN",
+	"source": "abaplint",
+	"startLineNumber": 89,
+	"startColumn": 7,
+	"endLineNumber": 89,
+	"endColumn": 14
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/10.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_inline_in_optional_branches",
+		"target": {
+			"$mid": 1,
+			"path": "/no_inline_in_optional_branches/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Don't declare inline in optional branches",
+	"source": "abaplint",
+	"startLineNumber": 94,
+	"startColumn": 24,
+	"endLineNumber": 94,
+	"endColumn": 28
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/10.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "line_break_multiple_parameters",
+		"target": {
+			"$mid": 1,
+			"path": "/line_break_multiple_parameters/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Line break multiple parameters",
+	"source": "abaplint",
+	"startLineNumber": 95,
+	"startColumn": 44,
+	"endLineNumber": 95,
+	"endColumn": 49
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/10.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "line_break_multiple_parameters",
+		"target": {
+			"$mid": 1,
+			"path": "/line_break_multiple_parameters/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Line break multiple parameters",
+	"source": "abaplint",
+	"startLineNumber": 95,
+	"startColumn": 72,
+	"endLineNumber": 95,
+	"endColumn": 76
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/11.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "structure",
+		"target": {
+			"$mid": 1,
+			"path": "/structure/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Expected ENDMETHOD",
+	"source": "abaplint",
+	"startLineNumber": 1,
+	"startColumn": 1,
+	"endLineNumber": 1,
+	"endColumn": 43
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/11.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "types_naming",
+		"target": {
+			"$mid": 1,
+			"path": "/types_naming/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Bad TYPES naming, expected \"^TY_.+$\", got \"player_type\"",
+	"source": "abaplint",
+	"startLineNumber": 7,
+	"startColumn": 12,
+	"endLineNumber": 7,
+	"endColumn": 23
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/11.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "types_naming",
+		"target": {
+			"$mid": 1,
+			"path": "/types_naming/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Bad TYPES naming, expected \"^TY_.+$\", got \"board_type\"",
+	"source": "abaplint",
+	"startLineNumber": 8,
+	"startColumn": 12,
+	"endLineNumber": 8,
+	"endColumn": 22
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/11.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "check_comments",
+		"target": {
+			"$mid": 1,
+			"path": "/check_comments/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Do not use end of line comments - move comment to previous row instead",
+	"source": "abaplint",
+	"startLineNumber": 68,
+	"startColumn": 22,
+	"endLineNumber": 68,
+	"endColumn": 38
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/11.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"IF\"",
+	"source": "abaplint",
+	"startLineNumber": 80,
+	"startColumn": 5,
+	"endLineNumber": 80,
+	"endColumn": 40
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/11.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "prefer_raise_exception_new",
+		"target": {
+			"$mid": 1,
+			"path": "/prefer_raise_exception_new/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Prefer RAISE EXCEPTION NEW to RAISE EXCEPTION TYPE",
+	"source": "abaplint",
+	"startLineNumber": 81,
+	"startColumn": 7,
+	"endLineNumber": 81,
+	"endColumn": 49
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/11.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "method_length",
+		"target": {
+			"$mid": 1,
+			"path": "/method_length/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Empty METHOD",
+	"source": "abaplint",
+	"startLineNumber": 85,
+	"startColumn": 3,
+	"endLineNumber": 85,
+	"endColumn": 23
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/12.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "types_naming",
+		"target": {
+			"$mid": 1,
+			"path": "/types_naming/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Bad TYPES naming, expected \"^TY_.+$\", got \"board_row_type\"",
+	"source": "abaplint",
+	"startLineNumber": 7,
+	"startColumn": 21,
+	"endLineNumber": 7,
+	"endColumn": 35
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/12.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "types_naming",
+		"target": {
+			"$mid": 1,
+			"path": "/types_naming/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Bad TYPES naming, expected \"^TY_.+$\", got \"board_type\"",
+	"source": "abaplint",
+	"startLineNumber": 12,
+	"startColumn": 12,
+	"endLineNumber": 12,
+	"endColumn": 22
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/12.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "avoid_use",
+		"target": {
+			"$mid": 1,
+			"path": "/avoid_use/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Avoid use of DEFAULT KEY",
+	"source": "abaplint",
+	"startLineNumber": 12,
+	"startColumn": 57,
+	"endLineNumber": 12,
+	"endColumn": 64
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/12.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "abapdoc",
+		"target": {
+			"$mid": 1,
+			"path": "/abapdoc/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Missing ABAP Doc for method get_state ()",
+	"source": "abaplint",
+	"startLineNumber": 25,
+	"startColumn": 13,
+	"endLineNumber": 25,
+	"endColumn": 22
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/12.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"METHODS\"",
+	"source": "abaplint",
+	"startLineNumber": 32,
+	"startColumn": 5,
+	"endLineNumber": 34,
+	"endColumn": 46
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/12.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"METHODS\"",
+	"source": "abaplint",
+	"startLineNumber": 35,
+	"startColumn": 5,
+	"endLineNumber": 38,
+	"endColumn": 37
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/12.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"x_count\"",
+	"source": "abaplint",
+	"startLineNumber": 47,
+	"startColumn": 5,
+	"endLineNumber": 47,
+	"endColumn": 55
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/12.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"o_count\"",
+	"source": "abaplint",
+	"startLineNumber": 48,
+	"startColumn": 5,
+	"endLineNumber": 48,
+	"endColumn": 55
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/12.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_yoda_conditions",
+		"target": {
+			"$mid": 1,
+			"path": "/no_yoda_conditions/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "No Yoda conditions",
+	"source": "abaplint",
+	"startLineNumber": 51,
+	"startColumn": 29,
+	"endLineNumber": 51,
+	"endColumn": 50
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/12.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "prefer_raise_exception_new",
+		"target": {
+			"$mid": 1,
+			"path": "/prefer_raise_exception_new/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Prefer RAISE EXCEPTION NEW to RAISE EXCEPTION TYPE",
+	"source": "abaplint",
+	"startLineNumber": 52,
+	"startColumn": 7,
+	"endLineNumber": 53,
+	"endColumn": 63
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/12.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "prefer_raise_exception_new",
+		"target": {
+			"$mid": 1,
+			"path": "/prefer_raise_exception_new/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Prefer RAISE EXCEPTION NEW to RAISE EXCEPTION TYPE",
+	"source": "abaplint",
+	"startLineNumber": 58,
+	"startColumn": 7,
+	"endLineNumber": 59,
+	"endColumn": 58
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/12.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_inline_in_optional_branches",
+		"target": {
+			"$mid": 1,
+			"path": "/no_inline_in_optional_branches/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Don't declare inline in optional branches",
+	"source": "abaplint",
+	"startLineNumber": 74,
+	"startColumn": 24,
+	"endLineNumber": 74,
+	"endColumn": 28
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/12.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_inline_in_optional_branches",
+		"target": {
+			"$mid": 1,
+			"path": "/no_inline_in_optional_branches/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Don't declare inline in optional branches",
+	"source": "abaplint",
+	"startLineNumber": 94,
+	"startColumn": 24,
+	"endLineNumber": 94,
+	"endColumn": 28
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/13.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "structure",
+		"target": {
+			"$mid": 1,
+			"path": "/structure/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Expected ENDMETHOD",
+	"source": "abaplint",
+	"startLineNumber": 1,
+	"startColumn": 1,
+	"endLineNumber": 1,
+	"endColumn": 43
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/13.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "types_naming",
+		"target": {
+			"$mid": 1,
+			"path": "/types_naming/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Bad TYPES naming, expected \"^TY_.+$\", got \"player_type\"",
+	"source": "abaplint",
+	"startLineNumber": 7,
+	"startColumn": 12,
+	"endLineNumber": 7,
+	"endColumn": 23
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/13.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "types_naming",
+		"target": {
+			"$mid": 1,
+			"path": "/types_naming/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Bad TYPES naming, expected \"^TY_.+$\", got \"board_type\"",
+	"source": "abaplint",
+	"startLineNumber": 8,
+	"startColumn": 12,
+	"endLineNumber": 8,
+	"endColumn": 22
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/13.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "avoid_use",
+		"target": {
+			"$mid": 1,
+			"path": "/avoid_use/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Avoid use of DEFAULT KEY",
+	"source": "abaplint",
+	"startLineNumber": 8,
+	"startColumn": 75,
+	"endLineNumber": 8,
+	"endColumn": 82
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/13.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"lv_x_count\"",
+	"source": "abaplint",
+	"startLineNumber": 46,
+	"startColumn": 5,
+	"endLineNumber": 46,
+	"endColumn": 82
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/13.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"lv_o_count\"",
+	"source": "abaplint",
+	"startLineNumber": 47,
+	"startColumn": 5,
+	"endLineNumber": 47,
+	"endColumn": 82
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/13.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "prefer_raise_exception_new",
+		"target": {
+			"$mid": 1,
+			"path": "/prefer_raise_exception_new/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Prefer RAISE EXCEPTION NEW to RAISE EXCEPTION TYPE",
+	"source": "abaplint",
+	"startLineNumber": 50,
+	"startColumn": 7,
+	"endLineNumber": 50,
+	"endColumn": 49
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/13.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"DATA\"",
+	"source": "abaplint",
+	"startLineNumber": 53,
+	"startColumn": 5,
+	"endLineNumber": 53,
+	"endColumn": 92
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/13.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"DATA\"",
+	"source": "abaplint",
+	"startLineNumber": 54,
+	"startColumn": 5,
+	"endLineNumber": 54,
+	"endColumn": 92
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/13.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"IF\"",
+	"source": "abaplint",
+	"startLineNumber": 56,
+	"startColumn": 5,
+	"endLineNumber": 56,
+	"endColumn": 32
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/13.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "prefer_raise_exception_new",
+		"target": {
+			"$mid": 1,
+			"path": "/prefer_raise_exception_new/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Prefer RAISE EXCEPTION NEW to RAISE EXCEPTION TYPE",
+	"source": "abaplint",
+	"startLineNumber": 57,
+	"startColumn": 7,
+	"endLineNumber": 57,
+	"endColumn": 49
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/13.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"IF\"",
+	"source": "abaplint",
+	"startLineNumber": 60,
+	"startColumn": 5,
+	"endLineNumber": 60,
+	"endColumn": 18
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/13.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"ELSEIF\"",
+	"source": "abaplint",
+	"startLineNumber": 62,
+	"startColumn": 5,
+	"endLineNumber": 62,
+	"endColumn": 22
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/13.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"rv_count\"",
+	"source": "abaplint",
+	"startLineNumber": 73,
+	"startColumn": 7,
+	"endLineNumber": 73,
+	"endColumn": 79
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/13.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"IF\"",
+	"source": "abaplint",
+	"startLineNumber": 79,
+	"startColumn": 7,
+	"endLineNumber": 79,
+	"endColumn": 76
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/13.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"IF\"",
+	"source": "abaplint",
+	"startLineNumber": 93,
+	"startColumn": 5,
+	"endLineNumber": 94,
+	"endColumn": 80
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/13.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"DATA\"",
+	"source": "abaplint",
+	"startLineNumber": 100,
+	"startColumn": 7,
+	"endLineNumber": 100,
+	"endColumn": 37
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/13.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"IF\"",
+	"source": "abaplint",
+	"startLineNumber": 102,
+	"startColumn": 7,
+	"endLineNumber": 102,
+	"endColumn": 76
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/14.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "types_naming",
+		"target": {
+			"$mid": 1,
+			"path": "/types_naming/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Bad TYPES naming, expected \"^TY_.+$\", got \"player_type\"",
+	"source": "abaplint",
+	"startLineNumber": 8,
+	"startColumn": 11,
+	"endLineNumber": 8,
+	"endColumn": 22
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/14.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "types_naming",
+		"target": {
+			"$mid": 1,
+			"path": "/types_naming/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Bad TYPES naming, expected \"^TY_.+$\", got \"board_type\"",
+	"source": "abaplint",
+	"startLineNumber": 9,
+	"startColumn": 11,
+	"endLineNumber": 9,
+	"endColumn": 21
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/14.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "abapdoc",
+		"target": {
+			"$mid": 1,
+			"path": "/abapdoc/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Missing ABAP Doc for method get_state ()",
+	"source": "abaplint",
+	"startLineNumber": 22,
+	"startColumn": 13,
+	"endLineNumber": 22,
+	"endColumn": 22
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/14.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"ELSEIF\"",
+	"source": "abaplint",
+	"startLineNumber": 52,
+	"startColumn": 5,
+	"endLineNumber": 52,
+	"endColumn": 74
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/14.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"DATA\"",
+	"source": "abaplint",
+	"startLineNumber": 60,
+	"startColumn": 5,
+	"endLineNumber": 60,
+	"endColumn": 61
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/14.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"DATA\"",
+	"source": "abaplint",
+	"startLineNumber": 61,
+	"startColumn": 5,
+	"endLineNumber": 61,
+	"endColumn": 61
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/14.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_yoda_conditions",
+		"target": {
+			"$mid": 1,
+			"path": "/no_yoda_conditions/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "No Yoda conditions",
+	"source": "abaplint",
+	"startLineNumber": 63,
+	"startColumn": 29,
+	"endLineNumber": 63,
+	"endColumn": 50
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/14.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "prefer_raise_exception_new",
+		"target": {
+			"$mid": 1,
+			"path": "/prefer_raise_exception_new/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Prefer RAISE EXCEPTION NEW to RAISE EXCEPTION TYPE",
+	"source": "abaplint",
+	"startLineNumber": 64,
+	"startColumn": 7,
+	"endLineNumber": 64,
+	"endColumn": 49
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/14.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "uncaught_exception",
+		"target": {
+			"$mid": 1,
+			"path": "/uncaught_exception/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Uncaught exception CX_PARAMETER_INVALID",
+	"source": "abaplint",
+	"startLineNumber": 64,
+	"startColumn": 7,
+	"endLineNumber": 64,
+	"endColumn": 49
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/14.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_yoda_conditions",
+		"target": {
+			"$mid": 1,
+			"path": "/no_yoda_conditions/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "No Yoda conditions",
+	"source": "abaplint",
+	"startLineNumber": 67,
+	"startColumn": 31,
+	"endLineNumber": 67,
+	"endColumn": 53
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/14.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "prefer_raise_exception_new",
+		"target": {
+			"$mid": 1,
+			"path": "/prefer_raise_exception_new/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Prefer RAISE EXCEPTION NEW to RAISE EXCEPTION TYPE",
+	"source": "abaplint",
+	"startLineNumber": 68,
+	"startColumn": 7,
+	"endLineNumber": 68,
+	"endColumn": 49
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/14.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "uncaught_exception",
+		"target": {
+			"$mid": 1,
+			"path": "/uncaught_exception/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Uncaught exception CX_PARAMETER_INVALID",
+	"source": "abaplint",
+	"startLineNumber": 68,
+	"startColumn": 7,
+	"endLineNumber": 68,
+	"endColumn": 49
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/14.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "line_break_multiple_parameters",
+		"target": {
+			"$mid": 1,
+			"path": "/line_break_multiple_parameters/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Line break multiple parameters",
+	"source": "abaplint",
+	"startLineNumber": 85,
+	"startColumn": 50,
+	"endLineNumber": 85,
+	"endColumn": 53
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/14.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "line_break_multiple_parameters",
+		"target": {
+			"$mid": 1,
+			"path": "/line_break_multiple_parameters/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Line break multiple parameters",
+	"source": "abaplint",
+	"startLineNumber": 85,
+	"startColumn": 60,
+	"endLineNumber": 85,
+	"endColumn": 64
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/15.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"TYPES\"",
+	"source": "abaplint",
+	"startLineNumber": 7,
+	"startColumn": 5,
+	"endLineNumber": 8,
+	"endColumn": 85
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/15.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "types_naming",
+		"target": {
+			"$mid": 1,
+			"path": "/types_naming/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Bad TYPES naming, expected \"^TY_.+$\", got \"player_type\"",
+	"source": "abaplint",
+	"startLineNumber": 7,
+	"startColumn": 12,
+	"endLineNumber": 7,
+	"endColumn": 23
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/15.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "unnecessary_chaining",
+		"target": {
+			"$mid": 1,
+			"path": "/unnecessary_chaining/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Unnecessary chaining",
+	"source": "abaplint",
+	"startLineNumber": 21,
+	"startColumn": 12,
+	"endLineNumber": 21,
+	"endColumn": 13
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/15.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "abapdoc",
+		"target": {
+			"$mid": 1,
+			"path": "/abapdoc/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Missing ABAP Doc for method get_state ()",
+	"source": "abaplint",
+	"startLineNumber": 21,
+	"startColumn": 14,
+	"endLineNumber": 21,
+	"endColumn": 23
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/15.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"METHODS\"",
+	"source": "abaplint",
+	"startLineNumber": 30,
+	"startColumn": 5,
+	"endLineNumber": 35,
+	"endColumn": 29
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/15.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "unnecessary_chaining",
+		"target": {
+			"$mid": 1,
+			"path": "/unnecessary_chaining/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Unnecessary chaining",
+	"source": "abaplint",
+	"startLineNumber": 50,
+	"startColumn": 9,
+	"endLineNumber": 50,
+	"endColumn": 10
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/15.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"ELSEIF\"",
+	"source": "abaplint",
+	"startLineNumber": 57,
+	"startColumn": 5,
+	"endLineNumber": 57,
+	"endColumn": 47
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/15.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_inline_in_optional_branches",
+		"target": {
+			"$mid": 1,
+			"path": "/no_inline_in_optional_branches/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Don't declare inline in optional branches",
+	"source": "abaplint",
+	"startLineNumber": 66,
+	"startColumn": 24,
+	"endLineNumber": 66,
+	"endColumn": 28
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/15.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"char_count\"",
+	"source": "abaplint",
+	"startLineNumber": 67,
+	"startColumn": 7,
+	"endLineNumber": 67,
+	"endColumn": 74
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/15.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "unnecessary_chaining",
+		"target": {
+			"$mid": 1,
+			"path": "/unnecessary_chaining/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Unnecessary chaining",
+	"source": "abaplint",
+	"startLineNumber": 73,
+	"startColumn": 9,
+	"endLineNumber": 73,
+	"endColumn": 10
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/15.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "fully_type_itabs",
+		"target": {
+			"$mid": 1,
+			"path": "/fully_type_itabs/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Specify table type",
+	"source": "abaplint",
+	"startLineNumber": 73,
+	"startColumn": 17,
+	"endLineNumber": 73,
+	"endColumn": 39
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/15.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"lines\"",
+	"source": "abaplint",
+	"startLineNumber": 76,
+	"startColumn": 5,
+	"endLineNumber": 80,
+	"endColumn": 89
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/15.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_inline_in_optional_branches",
+		"target": {
+			"$mid": 1,
+			"path": "/no_inline_in_optional_branches/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Don't declare inline in optional branches",
+	"source": "abaplint",
+	"startLineNumber": 82,
+	"startColumn": 24,
+	"endLineNumber": 82,
+	"endColumn": 28
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/15.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "change_if_to_case",
+		"target": {
+			"$mid": 1,
+			"path": "/change_if_to_case/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Change IF to CASE",
+	"source": "abaplint",
+	"startLineNumber": 83,
+	"startColumn": 7,
+	"endLineNumber": 83,
+	"endColumn": 23
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/15.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"DATA\"",
+	"source": "abaplint",
+	"startLineNumber": 94,
+	"startColumn": 5,
+	"endLineNumber": 94,
+	"endColumn": 64
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/15.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"DATA\"",
+	"source": "abaplint",
+	"startLineNumber": 95,
+	"startColumn": 5,
+	"endLineNumber": 95,
+	"endColumn": 64
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/15.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "prefer_raise_exception_new",
+		"target": {
+			"$mid": 1,
+			"path": "/prefer_raise_exception_new/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Prefer RAISE EXCEPTION NEW to RAISE EXCEPTION TYPE",
+	"source": "abaplint",
+	"startLineNumber": 98,
+	"startColumn": 7,
+	"endLineNumber": 98,
+	"endColumn": 49
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/15.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "uncaught_exception",
+		"target": {
+			"$mid": 1,
+			"path": "/uncaught_exception/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Uncaught exception CX_PARAMETER_INVALID",
+	"source": "abaplint",
+	"startLineNumber": 98,
+	"startColumn": 7,
+	"endLineNumber": 98,
+	"endColumn": 49
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/16.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "structure",
+		"target": {
+			"$mid": 1,
+			"path": "/structure/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Expected ENDMETHOD",
+	"source": "abaplint",
+	"startLineNumber": 1,
+	"startColumn": 1,
+	"endLineNumber": 1,
+	"endColumn": 43
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/16.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "types_naming",
+		"target": {
+			"$mid": 1,
+			"path": "/types_naming/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Bad TYPES naming, expected \"^TY_.+$\", got \"player_type\"",
+	"source": "abaplint",
+	"startLineNumber": 7,
+	"startColumn": 12,
+	"endLineNumber": 7,
+	"endColumn": 23
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/16.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "types_naming",
+		"target": {
+			"$mid": 1,
+			"path": "/types_naming/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Bad TYPES naming, expected \"^TY_.+$\", got \"board_type\"",
+	"source": "abaplint",
+	"startLineNumber": 8,
+	"startColumn": 12,
+	"endLineNumber": 8,
+	"endColumn": 22
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/16.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "avoid_use",
+		"target": {
+			"$mid": 1,
+			"path": "/avoid_use/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Avoid use of DEFAULT KEY",
+	"source": "abaplint",
+	"startLineNumber": 8,
+	"startColumn": 64,
+	"endLineNumber": 8,
+	"endColumn": 71
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/16.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"lv_x_count\"",
+	"source": "abaplint",
+	"startLineNumber": 47,
+	"startColumn": 5,
+	"endLineNumber": 47,
+	"endColumn": 61
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/16.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"lv_o_count\"",
+	"source": "abaplint",
+	"startLineNumber": 48,
+	"startColumn": 5,
+	"endLineNumber": 48,
+	"endColumn": 61
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/16.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "prefer_raise_exception_new",
+		"target": {
+			"$mid": 1,
+			"path": "/prefer_raise_exception_new/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Prefer RAISE EXCEPTION NEW to RAISE EXCEPTION TYPE",
+	"source": "abaplint",
+	"startLineNumber": 51,
+	"startColumn": 7,
+	"endLineNumber": 51,
+	"endColumn": 49
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/16.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"IF\"",
+	"source": "abaplint",
+	"startLineNumber": 54,
+	"startColumn": 5,
+	"endLineNumber": 54,
+	"endColumn": 84
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/16.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "prefer_raise_exception_new",
+		"target": {
+			"$mid": 1,
+			"path": "/prefer_raise_exception_new/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Prefer RAISE EXCEPTION NEW to RAISE EXCEPTION TYPE",
+	"source": "abaplint",
+	"startLineNumber": 55,
+	"startColumn": 7,
+	"endLineNumber": 55,
+	"endColumn": 49
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/16.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"IF\"",
+	"source": "abaplint",
+	"startLineNumber": 58,
+	"startColumn": 5,
+	"endLineNumber": 58,
+	"endColumn": 83
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/16.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"lv_count\"",
+	"source": "abaplint",
+	"startLineNumber": 70,
+	"startColumn": 7,
+	"endLineNumber": 70,
+	"endColumn": 79
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/16.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"lv_count\"",
+	"source": "abaplint",
+	"startLineNumber": 71,
+	"startColumn": 7,
+	"endLineNumber": 71,
+	"endColumn": 83
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/17.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "structure",
+		"target": {
+			"$mid": 1,
+			"path": "/structure/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Expected ENDMETHOD",
+	"source": "abaplint",
+	"startLineNumber": 1,
+	"startColumn": 1,
+	"endLineNumber": 1,
+	"endColumn": 43
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/17.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "types_naming",
+		"target": {
+			"$mid": 1,
+			"path": "/types_naming/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Bad TYPES naming, expected \"^TY_.+$\", got \"player_type\"",
+	"source": "abaplint",
+	"startLineNumber": 8,
+	"startColumn": 12,
+	"endLineNumber": 8,
+	"endColumn": 23
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/17.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "line_length",
+		"target": {
+			"$mid": 1,
+			"path": "/line_length/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Reduce line length to max 120, currently 126",
+	"source": "abaplint",
+	"startLineNumber": 9,
+	"startColumn": 1,
+	"endLineNumber": 9,
+	"endColumn": 128
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/17.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "types_naming",
+		"target": {
+			"$mid": 1,
+			"path": "/types_naming/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Bad TYPES naming, expected \"^TY_.+$\", got \"board_type\"",
+	"source": "abaplint",
+	"startLineNumber": 9,
+	"startColumn": 12,
+	"endLineNumber": 9,
+	"endColumn": 22
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/17.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "avoid_use",
+		"target": {
+			"$mid": 1,
+			"path": "/avoid_use/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Avoid use of DEFAULT KEY",
+	"source": "abaplint",
+	"startLineNumber": 9,
+	"startColumn": 50,
+	"endLineNumber": 9,
+	"endColumn": 57
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/17.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "check_comments",
+		"target": {
+			"$mid": 1,
+			"path": "/check_comments/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Do not use end of line comments - move comment to previous row instead",
+	"source": "abaplint",
+	"startLineNumber": 9,
+	"startColumn": 79,
+	"endLineNumber": 9,
+	"endColumn": 127
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/17.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "types_naming",
+		"target": {
+			"$mid": 1,
+			"path": "/types_naming/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Bad TYPES naming, expected \"^TY_.+$\", got \"state_type\"",
+	"source": "abaplint",
+	"startLineNumber": 10,
+	"startColumn": 12,
+	"endLineNumber": 10,
+	"endColumn": 22
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/17.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "unnecessary_chaining",
+		"target": {
+			"$mid": 1,
+			"path": "/unnecessary_chaining/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Unnecessary chaining",
+	"source": "abaplint",
+	"startLineNumber": 23,
+	"startColumn": 12,
+	"endLineNumber": 23,
+	"endColumn": 13
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/17.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "unnecessary_chaining",
+		"target": {
+			"$mid": 1,
+			"path": "/unnecessary_chaining/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Unnecessary chaining",
+	"source": "abaplint",
+	"startLineNumber": 33,
+	"startColumn": 12,
+	"endLineNumber": 33,
+	"endColumn": 13
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/17.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"x_count\"",
+	"source": "abaplint",
+	"startLineNumber": 49,
+	"startColumn": 7,
+	"endLineNumber": 49,
+	"endColumn": 61
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/17.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"o_count\"",
+	"source": "abaplint",
+	"startLineNumber": 50,
+	"startColumn": 7,
+	"endLineNumber": 50,
+	"endColumn": 61
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/17.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "prefer_raise_exception_new",
+		"target": {
+			"$mid": 1,
+			"path": "/prefer_raise_exception_new/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Prefer RAISE EXCEPTION NEW to RAISE EXCEPTION TYPE",
+	"source": "abaplint",
+	"startLineNumber": 55,
+	"startColumn": 7,
+	"endLineNumber": 55,
+	"endColumn": 49
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/17.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"IF\"",
+	"source": "abaplint",
+	"startLineNumber": 60,
+	"startColumn": 5,
+	"endLineNumber": 60,
+	"endColumn": 46
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/17.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"IF\"",
+	"source": "abaplint",
+	"startLineNumber": 65,
+	"startColumn": 5,
+	"endLineNumber": 65,
+	"endColumn": 46
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/18.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"TYPES\"",
+	"source": "abaplint",
+	"startLineNumber": 8,
+	"startColumn": 5,
+	"endLineNumber": 9,
+	"endColumn": 44
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/18.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"TYPES\"",
+	"source": "abaplint",
+	"startLineNumber": 8,
+	"startColumn": 5,
+	"endLineNumber": 10,
+	"endColumn": 44
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/18.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "types_naming",
+		"target": {
+			"$mid": 1,
+			"path": "/types_naming/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Bad TYPES naming, expected \"^TY_.+$\", got \"player_enum\"",
+	"source": "abaplint",
+	"startLineNumber": 8,
+	"startColumn": 21,
+	"endLineNumber": 8,
+	"endColumn": 32
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/18.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"TYPES\"",
+	"source": "abaplint",
+	"startLineNumber": 13,
+	"startColumn": 5,
+	"endLineNumber": 14,
+	"endColumn": 60
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/18.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"TYPES\"",
+	"source": "abaplint",
+	"startLineNumber": 13,
+	"startColumn": 5,
+	"endLineNumber": 15,
+	"endColumn": 52
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/18.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"TYPES\"",
+	"source": "abaplint",
+	"startLineNumber": 13,
+	"startColumn": 5,
+	"endLineNumber": 16,
+	"endColumn": 51
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/18.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "types_naming",
+		"target": {
+			"$mid": 1,
+			"path": "/types_naming/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Bad TYPES naming, expected \"^TY_.+$\", got \"state_enum\"",
+	"source": "abaplint",
+	"startLineNumber": 13,
+	"startColumn": 21,
+	"endLineNumber": 13,
+	"endColumn": 31
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/18.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"TYPES\"",
+	"source": "abaplint",
+	"startLineNumber": 19,
+	"startColumn": 5,
+	"endLineNumber": 19,
+	"endColumn": 84
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/18.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "abapdoc",
+		"target": {
+			"$mid": 1,
+			"path": "/abapdoc/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Missing ABAP Doc for method get_state ()",
+	"source": "abaplint",
+	"startLineNumber": 21,
+	"startColumn": 13,
+	"endLineNumber": 21,
+	"endColumn": 22
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/18.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_yoda_conditions",
+		"target": {
+			"$mid": 1,
+			"path": "/no_yoda_conditions/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "No Yoda conditions",
+	"source": "abaplint",
+	"startLineNumber": 65,
+	"startColumn": 29,
+	"endLineNumber": 65,
+	"endColumn": 50
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/18.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "prefer_raise_exception_new",
+		"target": {
+			"$mid": 1,
+			"path": "/prefer_raise_exception_new/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Prefer RAISE EXCEPTION NEW to RAISE EXCEPTION TYPE",
+	"source": "abaplint",
+	"startLineNumber": 66,
+	"startColumn": 7,
+	"endLineNumber": 66,
+	"endColumn": 49
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/18.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "uncaught_exception",
+		"target": {
+			"$mid": 1,
+			"path": "/uncaught_exception/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Uncaught exception CX_PARAMETER_INVALID",
+	"source": "abaplint",
+	"startLineNumber": 66,
+	"startColumn": 7,
+	"endLineNumber": 66,
+	"endColumn": 49
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/18.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_yoda_conditions",
+		"target": {
+			"$mid": 1,
+			"path": "/no_yoda_conditions/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "No Yoda conditions",
+	"source": "abaplint",
+	"startLineNumber": 69,
+	"startColumn": 37,
+	"endLineNumber": 69,
+	"endColumn": 58
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/18.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "prefer_raise_exception_new",
+		"target": {
+			"$mid": 1,
+			"path": "/prefer_raise_exception_new/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Prefer RAISE EXCEPTION NEW to RAISE EXCEPTION TYPE",
+	"source": "abaplint",
+	"startLineNumber": 70,
+	"startColumn": 7,
+	"endLineNumber": 70,
+	"endColumn": 49
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/18.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "uncaught_exception",
+		"target": {
+			"$mid": 1,
+			"path": "/uncaught_exception/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Uncaught exception CX_PARAMETER_INVALID",
+	"source": "abaplint",
+	"startLineNumber": 70,
+	"startColumn": 7,
+	"endLineNumber": 70,
+	"endColumn": 49
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/18.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "unnecessary_chaining",
+		"target": {
+			"$mid": 1,
+			"path": "/unnecessary_chaining/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Unnecessary chaining",
+	"source": "abaplint",
+	"startLineNumber": 75,
+	"startColumn": 9,
+	"endLineNumber": 75,
+	"endColumn": 10
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/18.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_inline_in_optional_branches",
+		"target": {
+			"$mid": 1,
+			"path": "/no_inline_in_optional_branches/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Don't declare inline in optional branches",
+	"source": "abaplint",
+	"startLineNumber": 84,
+	"startColumn": 24,
+	"endLineNumber": 84,
+	"endColumn": 28
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/18.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "prefer_is_not",
+		"target": {
+			"$mid": 1,
+			"path": "/prefer_is_not/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Prefer IS NOT to NOT IS",
+	"source": "abaplint",
+	"startLineNumber": 85,
+	"startColumn": 38,
+	"endLineNumber": 85,
+	"endColumn": 41
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/18.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_inline_in_optional_branches",
+		"target": {
+			"$mid": 1,
+			"path": "/no_inline_in_optional_branches/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Don't declare inline in optional branches",
+	"source": "abaplint",
+	"startLineNumber": 95,
+	"startColumn": 24,
+	"endLineNumber": 95,
+	"endColumn": 28
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/18.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "line_break_multiple_parameters",
+		"target": {
+			"$mid": 1,
+			"path": "/line_break_multiple_parameters/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Line break multiple parameters",
+	"source": "abaplint",
+	"startLineNumber": 96,
+	"startColumn": 51,
+	"endLineNumber": 96,
+	"endColumn": 56
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/18.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "line_break_multiple_parameters",
+		"target": {
+			"$mid": 1,
+			"path": "/line_break_multiple_parameters/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Line break multiple parameters",
+	"source": "abaplint",
+	"startLineNumber": 96,
+	"startColumn": 66,
+	"endLineNumber": 96,
+	"endColumn": 70
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/18.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "line_break_multiple_parameters",
+		"target": {
+			"$mid": 1,
+			"path": "/line_break_multiple_parameters/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Line break multiple parameters",
+	"source": "abaplint",
+	"startLineNumber": 96,
+	"startColumn": 76,
+	"endLineNumber": 96,
+	"endColumn": 82
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/18.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "line_break_multiple_parameters",
+		"target": {
+			"$mid": 1,
+			"path": "/line_break_multiple_parameters/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Line break multiple parameters",
+	"source": "abaplint",
+	"startLineNumber": 97,
+	"startColumn": 51,
+	"endLineNumber": 97,
+	"endColumn": 56
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/18.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "line_break_multiple_parameters",
+		"target": {
+			"$mid": 1,
+			"path": "/line_break_multiple_parameters/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Line break multiple parameters",
+	"source": "abaplint",
+	"startLineNumber": 97,
+	"startColumn": 66,
+	"endLineNumber": 97,
+	"endColumn": 70
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/18.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "line_break_multiple_parameters",
+		"target": {
+			"$mid": 1,
+			"path": "/line_break_multiple_parameters/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Line break multiple parameters",
+	"source": "abaplint",
+	"startLineNumber": 97,
+	"startColumn": 76,
+	"endLineNumber": 97,
+	"endColumn": 82
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/18.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "line_length",
+		"target": {
+			"$mid": 1,
+			"path": "/line_length/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Reduce line length to max 120, currently 138",
+	"source": "abaplint",
+	"startLineNumber": 102,
+	"startColumn": 1,
+	"endLineNumber": 102,
+	"endColumn": 140
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/18.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"DATA\"",
+	"source": "abaplint",
+	"startLineNumber": 102,
+	"startColumn": 5,
+	"endLineNumber": 102,
+	"endColumn": 139
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/18.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "use_bool_expression",
+		"target": {
+			"$mid": 1,
+			"path": "/use_bool_expression/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Use xsdbool instead of IF",
+	"source": "abaplint",
+	"startLineNumber": 103,
+	"startColumn": 5,
+	"endLineNumber": 107,
+	"endColumn": 11
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/19.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "structure",
+		"target": {
+			"$mid": 1,
+			"path": "/structure/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Expected ENDMETHOD",
+	"source": "abaplint",
+	"startLineNumber": 1,
+	"startColumn": 1,
+	"endLineNumber": 1,
+	"endColumn": 43
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/19.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "types_naming",
+		"target": {
+			"$mid": 1,
+			"path": "/types_naming/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Bad TYPES naming, expected \"^TY_.+$\", got \"player_type\"",
+	"source": "abaplint",
+	"startLineNumber": 7,
+	"startColumn": 12,
+	"endLineNumber": 7,
+	"endColumn": 23
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/19.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "types_naming",
+		"target": {
+			"$mid": 1,
+			"path": "/types_naming/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Bad TYPES naming, expected \"^TY_.+$\", got \"board_type\"",
+	"source": "abaplint",
+	"startLineNumber": 8,
+	"startColumn": 12,
+	"endLineNumber": 8,
+	"endColumn": 22
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/19.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "avoid_use",
+		"target": {
+			"$mid": 1,
+			"path": "/avoid_use/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Avoid use of DEFAULT KEY",
+	"source": "abaplint",
+	"startLineNumber": 8,
+	"startColumn": 75,
+	"endLineNumber": 8,
+	"endColumn": 82
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/19.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "unnecessary_chaining",
+		"target": {
+			"$mid": 1,
+			"path": "/unnecessary_chaining/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Unnecessary chaining",
+	"source": "abaplint",
+	"startLineNumber": 21,
+	"startColumn": 12,
+	"endLineNumber": 21,
+	"endColumn": 13
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/19.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "unnecessary_chaining",
+		"target": {
+			"$mid": 1,
+			"path": "/unnecessary_chaining/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Unnecessary chaining",
+	"source": "abaplint",
+	"startLineNumber": 27,
+	"startColumn": 12,
+	"endLineNumber": 27,
+	"endColumn": 13
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/19.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"METHODS\"",
+	"source": "abaplint",
+	"startLineNumber": 31,
+	"startColumn": 5,
+	"endLineNumber": 34,
+	"endColumn": 37
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/19.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "unnecessary_chaining",
+		"target": {
+			"$mid": 1,
+			"path": "/unnecessary_chaining/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Unnecessary chaining",
+	"source": "abaplint",
+	"startLineNumber": 31,
+	"startColumn": 12,
+	"endLineNumber": 31,
+	"endColumn": 13
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/19.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "line_break_multiple_parameters",
+		"target": {
+			"$mid": 1,
+			"path": "/line_break_multiple_parameters/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Line break multiple parameters",
+	"source": "abaplint",
+	"startLineNumber": 44,
+	"startColumn": 42,
+	"endLineNumber": 44,
+	"endColumn": 46
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/19.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "line_break_multiple_parameters",
+		"target": {
+			"$mid": 1,
+			"path": "/line_break_multiple_parameters/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Line break multiple parameters",
+	"source": "abaplint",
+	"startLineNumber": 45,
+	"startColumn": 42,
+	"endLineNumber": 45,
+	"endColumn": 46
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/19.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "prefer_raise_exception_new",
+		"target": {
+			"$mid": 1,
+			"path": "/prefer_raise_exception_new/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Prefer RAISE EXCEPTION NEW to RAISE EXCEPTION TYPE",
+	"source": "abaplint",
+	"startLineNumber": 49,
+	"startColumn": 7,
+	"endLineNumber": 50,
+	"endColumn": 93
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/19.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "prefer_raise_exception_new",
+		"target": {
+			"$mid": 1,
+			"path": "/prefer_raise_exception_new/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Prefer RAISE EXCEPTION NEW to RAISE EXCEPTION TYPE",
+	"source": "abaplint",
+	"startLineNumber": 56,
+	"startColumn": 9,
+	"endLineNumber": 57,
+	"endColumn": 95
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/19.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"IF\"",
+	"source": "abaplint",
+	"startLineNumber": 81,
+	"startColumn": 7,
+	"endLineNumber": 83,
+	"endColumn": 48
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/19.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"IF\"",
+	"source": "abaplint",
+	"startLineNumber": 90,
+	"startColumn": 5,
+	"endLineNumber": 92,
+	"endColumn": 39
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/19.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "line_break_multiple_parameters",
+		"target": {
+			"$mid": 1,
+			"path": "/line_break_multiple_parameters/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Line break multiple parameters",
+	"source": "abaplint",
+	"startLineNumber": 100,
+	"startColumn": 59,
+	"endLineNumber": 100,
+	"endColumn": 62
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/19.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "line_break_multiple_parameters",
+		"target": {
+			"$mid": 1,
+			"path": "/line_break_multiple_parameters/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Line break multiple parameters",
+	"source": "abaplint",
+	"startLineNumber": 100,
+	"startColumn": 70,
+	"endLineNumber": 100,
+	"endColumn": 74
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/2.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "structure",
+		"target": {
+			"$mid": 1,
+			"path": "/structure/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Expected ENDMETHOD",
+	"source": "abaplint",
+	"startLineNumber": 1,
+	"startColumn": 1,
+	"endLineNumber": 1,
+	"endColumn": 43
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/2.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "types_naming",
+		"target": {
+			"$mid": 1,
+			"path": "/types_naming/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Bad TYPES naming, expected \"^TY_.+$\", got \"player_type\"",
+	"source": "abaplint",
+	"startLineNumber": 7,
+	"startColumn": 12,
+	"endLineNumber": 7,
+	"endColumn": 23
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/2.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "types_naming",
+		"target": {
+			"$mid": 1,
+			"path": "/types_naming/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Bad TYPES naming, expected \"^TY_.+$\", got \"board_type\"",
+	"source": "abaplint",
+	"startLineNumber": 8,
+	"startColumn": 12,
+	"endLineNumber": 8,
+	"endColumn": 22
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/2.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "line_break_multiple_parameters",
+		"target": {
+			"$mid": 1,
+			"path": "/line_break_multiple_parameters/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Line break multiple parameters",
+	"source": "abaplint",
+	"startLineNumber": 47,
+	"startColumn": 50,
+	"endLineNumber": 47,
+	"endColumn": 58
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/2.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "line_break_multiple_parameters",
+		"target": {
+			"$mid": 1,
+			"path": "/line_break_multiple_parameters/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Line break multiple parameters",
+	"source": "abaplint",
+	"startLineNumber": 48,
+	"startColumn": 50,
+	"endLineNumber": 48,
+	"endColumn": 58
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/2.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"IF\"",
+	"source": "abaplint",
+	"startLineNumber": 51,
+	"startColumn": 5,
+	"endLineNumber": 51,
+	"endColumn": 47
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/2.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "prefer_raise_exception_new",
+		"target": {
+			"$mid": 1,
+			"path": "/prefer_raise_exception_new/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Prefer RAISE EXCEPTION NEW to RAISE EXCEPTION TYPE",
+	"source": "abaplint",
+	"startLineNumber": 52,
+	"startColumn": 7,
+	"endLineNumber": 53,
+	"endColumn": 69
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/2.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "line_break_multiple_parameters",
+		"target": {
+			"$mid": 1,
+			"path": "/line_break_multiple_parameters/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Line break multiple parameters",
+	"source": "abaplint",
+	"startLineNumber": 57,
+	"startColumn": 38,
+	"endLineNumber": 57,
+	"endColumn": 46
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/2.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "prefer_raise_exception_new",
+		"target": {
+			"$mid": 1,
+			"path": "/prefer_raise_exception_new/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Prefer RAISE EXCEPTION NEW to RAISE EXCEPTION TYPE",
+	"source": "abaplint",
+	"startLineNumber": 60,
+	"startColumn": 9,
+	"endLineNumber": 61,
+	"endColumn": 73
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/2.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "line_break_multiple_parameters",
+		"target": {
+			"$mid": 1,
+			"path": "/line_break_multiple_parameters/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Line break multiple parameters",
+	"source": "abaplint",
+	"startLineNumber": 64,
+	"startColumn": 38,
+	"endLineNumber": 64,
+	"endColumn": 46
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/2.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "prefer_raise_exception_new",
+		"target": {
+			"$mid": 1,
+			"path": "/prefer_raise_exception_new/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Prefer RAISE EXCEPTION NEW to RAISE EXCEPTION TYPE",
+	"source": "abaplint",
+	"startLineNumber": 66,
+	"startColumn": 9,
+	"endLineNumber": 67,
+	"endColumn": 71
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/2.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "prefer_raise_exception_new",
+		"target": {
+			"$mid": 1,
+			"path": "/prefer_raise_exception_new/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Prefer RAISE EXCEPTION NEW to RAISE EXCEPTION TYPE",
+	"source": "abaplint",
+	"startLineNumber": 71,
+	"startColumn": 9,
+	"endLineNumber": 72,
+	"endColumn": 73
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/2.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "line_break_multiple_parameters",
+		"target": {
+			"$mid": 1,
+			"path": "/line_break_multiple_parameters/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Line break multiple parameters",
+	"source": "abaplint",
+	"startLineNumber": 90,
+	"startColumn": 59,
+	"endLineNumber": 90,
+	"endColumn": 64
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/2.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "line_break_multiple_parameters",
+		"target": {
+			"$mid": 1,
+			"path": "/line_break_multiple_parameters/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Line break multiple parameters",
+	"source": "abaplint",
+	"startLineNumber": 90,
+	"startColumn": 90,
+	"endLineNumber": 90,
+	"endColumn": 94
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/2.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "unnecessary_chaining",
+		"target": {
+			"$mid": 1,
+			"path": "/unnecessary_chaining/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Unnecessary chaining",
+	"source": "abaplint",
+	"startLineNumber": 95,
+	"startColumn": 9,
+	"endLineNumber": 95,
+	"endColumn": 10
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/2.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "fully_type_itabs",
+		"target": {
+			"$mid": 1,
+			"path": "/fully_type_itabs/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Specify table type",
+	"source": "abaplint",
+	"startLineNumber": 95,
+	"startColumn": 23,
+	"endLineNumber": 95,
+	"endColumn": 45
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/2.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"IF\"",
+	"source": "abaplint",
+	"startLineNumber": 103,
+	"startColumn": 7,
+	"endLineNumber": 103,
+	"endColumn": 96
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/20.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "types_naming",
+		"target": {
+			"$mid": 1,
+			"path": "/types_naming/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Bad TYPES naming, expected \"^TY_.+$\", got \"player_type\"",
+	"source": "abaplint",
+	"startLineNumber": 8,
+	"startColumn": 12,
+	"endLineNumber": 8,
+	"endColumn": 23
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/20.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "types_naming",
+		"target": {
+			"$mid": 1,
+			"path": "/types_naming/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Bad TYPES naming, expected \"^TY_.+$\", got \"board_type\"",
+	"source": "abaplint",
+	"startLineNumber": 9,
+	"startColumn": 12,
+	"endLineNumber": 9,
+	"endColumn": 22
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/20.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "avoid_use",
+		"target": {
+			"$mid": 1,
+			"path": "/avoid_use/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Avoid use of DEFAULT KEY",
+	"source": "abaplint",
+	"startLineNumber": 9,
+	"startColumn": 75,
+	"endLineNumber": 9,
+	"endColumn": 82
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/20.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "abapdoc",
+		"target": {
+			"$mid": 1,
+			"path": "/abapdoc/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Missing ABAP Doc for method get_state ()",
+	"source": "abaplint",
+	"startLineNumber": 22,
+	"startColumn": 13,
+	"endLineNumber": 22,
+	"endColumn": 22
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/20.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "unnecessary_chaining",
+		"target": {
+			"$mid": 1,
+			"path": "/unnecessary_chaining/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Unnecessary chaining",
+	"source": "abaplint",
+	"startLineNumber": 52,
+	"startColumn": 9,
+	"endLineNumber": 52,
+	"endColumn": 10
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/20.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"ELSEIF\"",
+	"source": "abaplint",
+	"startLineNumber": 58,
+	"startColumn": 5,
+	"endLineNumber": 58,
+	"endColumn": 94
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/20.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"DATA\"",
+	"source": "abaplint",
+	"startLineNumber": 67,
+	"startColumn": 5,
+	"endLineNumber": 67,
+	"endColumn": 59
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/20.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"DATA\"",
+	"source": "abaplint",
+	"startLineNumber": 68,
+	"startColumn": 5,
+	"endLineNumber": 68,
+	"endColumn": 59
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/20.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_yoda_conditions",
+		"target": {
+			"$mid": 1,
+			"path": "/no_yoda_conditions/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "No Yoda conditions",
+	"source": "abaplint",
+	"startLineNumber": 70,
+	"startColumn": 29,
+	"endLineNumber": 70,
+	"endColumn": 50
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/20.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "prefer_raise_exception_new",
+		"target": {
+			"$mid": 1,
+			"path": "/prefer_raise_exception_new/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Prefer RAISE EXCEPTION NEW to RAISE EXCEPTION TYPE",
+	"source": "abaplint",
+	"startLineNumber": 71,
+	"startColumn": 7,
+	"endLineNumber": 72,
+	"endColumn": 48
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/20.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "prefer_raise_exception_new",
+		"target": {
+			"$mid": 1,
+			"path": "/prefer_raise_exception_new/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Prefer RAISE EXCEPTION NEW to RAISE EXCEPTION TYPE",
+	"source": "abaplint",
+	"startLineNumber": 76,
+	"startColumn": 7,
+	"endLineNumber": 77,
+	"endColumn": 56
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/20.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_inline_in_optional_branches",
+		"target": {
+			"$mid": 1,
+			"path": "/no_inline_in_optional_branches/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Don't declare inline in optional branches",
+	"source": "abaplint",
+	"startLineNumber": 82,
+	"startColumn": 24,
+	"endLineNumber": 82,
+	"endColumn": 28
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/20.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "unnecessary_chaining",
+		"target": {
+			"$mid": 1,
+			"path": "/unnecessary_chaining/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Unnecessary chaining",
+	"source": "abaplint",
+	"startLineNumber": 89,
+	"startColumn": 9,
+	"endLineNumber": 89,
+	"endColumn": 10
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/20.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"DATA\"",
+	"source": "abaplint",
+	"startLineNumber": 91,
+	"startColumn": 7,
+	"endLineNumber": 91,
+	"endColumn": 103
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/20.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_inline_in_optional_branches",
+		"target": {
+			"$mid": 1,
+			"path": "/no_inline_in_optional_branches/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Don't declare inline in optional branches",
+	"source": "abaplint",
+	"startLineNumber": 110,
+	"startColumn": 24,
+	"endLineNumber": 110,
+	"endColumn": 28
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/20.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "line_break_multiple_parameters",
+		"target": {
+			"$mid": 1,
+			"path": "/line_break_multiple_parameters/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Line break multiple parameters",
+	"source": "abaplint",
+	"startLineNumber": 111,
+	"startColumn": 43,
+	"endLineNumber": 111,
+	"endColumn": 46
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/21.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "check_syntax",
+		"target": {
+			"$mid": 1,
+			"path": "/check_syntax/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Class \"ZCL_STATE_OF_TIC_TAC_TOE\" already defined",
+	"source": "abaplint",
+	"startLineNumber": 1,
+	"startColumn": 1,
+	"endLineNumber": 1,
+	"endColumn": 6
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/21.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"TYPES\"",
+	"source": "abaplint",
+	"startLineNumber": 7,
+	"startColumn": 5,
+	"endLineNumber": 8,
+	"endColumn": 68
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/21.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "types_naming",
+		"target": {
+			"$mid": 1,
+			"path": "/types_naming/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Bad TYPES naming, expected \"^TY_.+$\", got \"player_type\"",
+	"source": "abaplint",
+	"startLineNumber": 7,
+	"startColumn": 12,
+	"endLineNumber": 7,
+	"endColumn": 23
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/21.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "abapdoc",
+		"target": {
+			"$mid": 1,
+			"path": "/abapdoc/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Missing ABAP Doc for method get_state ()",
+	"source": "abaplint",
+	"startLineNumber": 21,
+	"startColumn": 13,
+	"endLineNumber": 21,
+	"endColumn": 22
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/21.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"METHODS\"",
+	"source": "abaplint",
+	"startLineNumber": 34,
+	"startColumn": 5,
+	"endLineNumber": 37,
+	"endColumn": 39
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/21.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"x_count\"",
+	"source": "abaplint",
+	"startLineNumber": 47,
+	"startColumn": 5,
+	"endLineNumber": 47,
+	"endColumn": 50
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/21.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"x_count\"",
+	"source": "abaplint",
+	"startLineNumber": 63,
+	"startColumn": 5,
+	"endLineNumber": 63,
+	"endColumn": 50
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/21.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "prefer_raise_exception_new",
+		"target": {
+			"$mid": 1,
+			"path": "/prefer_raise_exception_new/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Prefer RAISE EXCEPTION NEW to RAISE EXCEPTION TYPE",
+	"source": "abaplint",
+	"startLineNumber": 66,
+	"startColumn": 7,
+	"endLineNumber": 67,
+	"endColumn": 66
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/21.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "unnecessary_chaining",
+		"target": {
+			"$mid": 1,
+			"path": "/unnecessary_chaining/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Unnecessary chaining",
+	"source": "abaplint",
+	"startLineNumber": 72,
+	"startColumn": 9,
+	"endLineNumber": 72,
+	"endColumn": 10
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/21.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_inline_in_optional_branches",
+		"target": {
+			"$mid": 1,
+			"path": "/no_inline_in_optional_branches/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Don't declare inline in optional branches",
+	"source": "abaplint",
+	"startLineNumber": 74,
+	"startColumn": 24,
+	"endLineNumber": 74,
+	"endColumn": 28
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/21.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "unnecessary_return",
+		"target": {
+			"$mid": 1,
+			"path": "/unnecessary_return/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Unnecessary RETURN",
+	"source": "abaplint",
+	"startLineNumber": 100,
+	"startColumn": 7,
+	"endLineNumber": 100,
+	"endColumn": 14
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/21.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_inline_in_optional_branches",
+		"target": {
+			"$mid": 1,
+			"path": "/no_inline_in_optional_branches/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Don't declare inline in optional branches",
+	"source": "abaplint",
+	"startLineNumber": 105,
+	"startColumn": 24,
+	"endLineNumber": 105,
+	"endColumn": 28
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/21.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "line_break_multiple_parameters",
+		"target": {
+			"$mid": 1,
+			"path": "/line_break_multiple_parameters/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Line break multiple parameters",
+	"source": "abaplint",
+	"startLineNumber": 106,
+	"startColumn": 51,
+	"endLineNumber": 106,
+	"endColumn": 56
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/21.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "line_break_multiple_parameters",
+		"target": {
+			"$mid": 1,
+			"path": "/line_break_multiple_parameters/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Line break multiple parameters",
+	"source": "abaplint",
+	"startLineNumber": 106,
+	"startColumn": 66,
+	"endLineNumber": 106,
+	"endColumn": 70
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/21.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "line_break_multiple_parameters",
+		"target": {
+			"$mid": 1,
+			"path": "/line_break_multiple_parameters/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Line break multiple parameters",
+	"source": "abaplint",
+	"startLineNumber": 106,
+	"startColumn": 76,
+	"endLineNumber": 106,
+	"endColumn": 82
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/21.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "line_break_multiple_parameters",
+		"target": {
+			"$mid": 1,
+			"path": "/line_break_multiple_parameters/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Line break multiple parameters",
+	"source": "abaplint",
+	"startLineNumber": 107,
+	"startColumn": 51,
+	"endLineNumber": 107,
+	"endColumn": 56
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/21.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "line_break_multiple_parameters",
+		"target": {
+			"$mid": 1,
+			"path": "/line_break_multiple_parameters/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Line break multiple parameters",
+	"source": "abaplint",
+	"startLineNumber": 107,
+	"startColumn": 66,
+	"endLineNumber": 107,
+	"endColumn": 70
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/21.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "line_break_multiple_parameters",
+		"target": {
+			"$mid": 1,
+			"path": "/line_break_multiple_parameters/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Line break multiple parameters",
+	"source": "abaplint",
+	"startLineNumber": 107,
+	"startColumn": 76,
+	"endLineNumber": 107,
+	"endColumn": 82
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/3.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "structure",
+		"target": {
+			"$mid": 1,
+			"path": "/structure/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Expected ENDMETHOD",
+	"source": "abaplint",
+	"startLineNumber": 1,
+	"startColumn": 1,
+	"endLineNumber": 1,
+	"endColumn": 43
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/3.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"TYPES\"",
+	"source": "abaplint",
+	"startLineNumber": 7,
+	"startColumn": 5,
+	"endLineNumber": 8,
+	"endColumn": 85
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/3.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "types_naming",
+		"target": {
+			"$mid": 1,
+			"path": "/types_naming/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Bad TYPES naming, expected \"^TY_.+$\", got \"player_type\"",
+	"source": "abaplint",
+	"startLineNumber": 7,
+	"startColumn": 12,
+	"endLineNumber": 7,
+	"endColumn": 23
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/3.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "types_naming",
+		"target": {
+			"$mid": 1,
+			"path": "/types_naming/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Bad TYPES naming, expected \"^TY_.+$\", got \"t_counts\"",
+	"source": "abaplint",
+	"startLineNumber": 9,
+	"startColumn": 12,
+	"endLineNumber": 9,
+	"endColumn": 20
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/3.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "prefer_raise_exception_new",
+		"target": {
+			"$mid": 1,
+			"path": "/prefer_raise_exception_new/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Prefer RAISE EXCEPTION NEW to RAISE EXCEPTION TYPE",
+	"source": "abaplint",
+	"startLineNumber": 47,
+	"startColumn": 7,
+	"endLineNumber": 47,
+	"endColumn": 49
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/3.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"IF\"",
+	"source": "abaplint",
+	"startLineNumber": 66,
+	"startColumn": 5,
+	"endLineNumber": 66,
+	"endColumn": 41
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/3.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "method_length",
+		"target": {
+			"$mid": 1,
+			"path": "/method_length/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Empty METHOD",
+	"source": "abaplint",
+	"startLineNumber": 73,
+	"startColumn": 3,
+	"endLineNumber": 73,
+	"endColumn": 24
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/3.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "method_length",
+		"target": {
+			"$mid": 1,
+			"path": "/method_length/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Empty METHOD",
+	"source": "abaplint",
+	"startLineNumber": 79,
+	"startColumn": 3,
+	"endLineNumber": 79,
+	"endColumn": 25
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/4.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "structure",
+		"target": {
+			"$mid": 1,
+			"path": "/structure/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Expected ENDMETHOD",
+	"source": "abaplint",
+	"startLineNumber": 1,
+	"startColumn": 1,
+	"endLineNumber": 1,
+	"endColumn": 43
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/4.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "types_naming",
+		"target": {
+			"$mid": 1,
+			"path": "/types_naming/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Bad TYPES naming, expected \"^TY_.+$\", got \"player_type\"",
+	"source": "abaplint",
+	"startLineNumber": 7,
+	"startColumn": 11,
+	"endLineNumber": 7,
+	"endColumn": 22
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/4.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "types_naming",
+		"target": {
+			"$mid": 1,
+			"path": "/types_naming/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Bad TYPES naming, expected \"^TY_.+$\", got \"board_type\"",
+	"source": "abaplint",
+	"startLineNumber": 8,
+	"startColumn": 11,
+	"endLineNumber": 8,
+	"endColumn": 21
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/4.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "avoid_use",
+		"target": {
+			"$mid": 1,
+			"path": "/avoid_use/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Avoid use of DEFAULT KEY",
+	"source": "abaplint",
+	"startLineNumber": 8,
+	"startColumn": 74,
+	"endLineNumber": 8,
+	"endColumn": 81
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/4.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"METHODS\"",
+	"source": "abaplint",
+	"startLineNumber": 36,
+	"startColumn": 5,
+	"endLineNumber": 39,
+	"endColumn": 39
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/4.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"IF\"",
+	"source": "abaplint",
+	"startLineNumber": 51,
+	"startColumn": 5,
+	"endLineNumber": 51,
+	"endColumn": 21
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/4.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "prefer_raise_exception_new",
+		"target": {
+			"$mid": 1,
+			"path": "/prefer_raise_exception_new/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Prefer RAISE EXCEPTION NEW to RAISE EXCEPTION TYPE",
+	"source": "abaplint",
+	"startLineNumber": 52,
+	"startColumn": 7,
+	"endLineNumber": 52,
+	"endColumn": 49
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/4.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"is_valid\"",
+	"source": "abaplint",
+	"startLineNumber": 70,
+	"startColumn": 5,
+	"endLineNumber": 70,
+	"endColumn": 59
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/4.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"DATA\"",
+	"source": "abaplint",
+	"startLineNumber": 81,
+	"startColumn": 5,
+	"endLineNumber": 81,
+	"endColumn": 36
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/4.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"x_count\"",
+	"source": "abaplint",
+	"startLineNumber": 105,
+	"startColumn": 7,
+	"endLineNumber": 105,
+	"endColumn": 74
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/4.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"o_count\"",
+	"source": "abaplint",
+	"startLineNumber": 106,
+	"startColumn": 7,
+	"endLineNumber": 106,
+	"endColumn": 74
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/5.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "types_naming",
+		"target": {
+			"$mid": 1,
+			"path": "/types_naming/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Bad TYPES naming, expected \"^TY_.+$\", got \"player_type\"",
+	"source": "abaplint",
+	"startLineNumber": 7,
+	"startColumn": 12,
+	"endLineNumber": 7,
+	"endColumn": 23
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/5.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "types_naming",
+		"target": {
+			"$mid": 1,
+			"path": "/types_naming/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Bad TYPES naming, expected \"^TY_.+$\", got \"board_type\"",
+	"source": "abaplint",
+	"startLineNumber": 8,
+	"startColumn": 12,
+	"endLineNumber": 8,
+	"endColumn": 22
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/5.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "avoid_use",
+		"target": {
+			"$mid": 1,
+			"path": "/avoid_use/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Avoid use of DEFAULT KEY",
+	"source": "abaplint",
+	"startLineNumber": 8,
+	"startColumn": 64,
+	"endLineNumber": 8,
+	"endColumn": 71
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/5.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "abapdoc",
+		"target": {
+			"$mid": 1,
+			"path": "/abapdoc/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Missing ABAP Doc for method get_state ()",
+	"source": "abaplint",
+	"startLineNumber": 21,
+	"startColumn": 13,
+	"endLineNumber": 21,
+	"endColumn": 22
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/5.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "local_variable_names",
+		"target": {
+			"$mid": 1,
+			"path": "/local_variable_names/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Local variable name must not match pattern ^L._.+$: lv_x_count",
+	"source": "abaplint",
+	"startLineNumber": 41,
+	"startColumn": 11,
+	"endLineNumber": 41,
+	"endColumn": 21
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/5.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_prefixes",
+		"target": {
+			"$mid": 1,
+			"path": "/no_prefixes/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Avoid hungarian notation",
+	"source": "abaplint",
+	"startLineNumber": 41,
+	"startColumn": 11,
+	"endLineNumber": 41,
+	"endColumn": 21
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/5.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "local_variable_names",
+		"target": {
+			"$mid": 1,
+			"path": "/local_variable_names/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Local variable name must not match pattern ^L._.+$: lv_o_count",
+	"source": "abaplint",
+	"startLineNumber": 42,
+	"startColumn": 11,
+	"endLineNumber": 42,
+	"endColumn": 21
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/5.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_prefixes",
+		"target": {
+			"$mid": 1,
+			"path": "/no_prefixes/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Avoid hungarian notation",
+	"source": "abaplint",
+	"startLineNumber": 42,
+	"startColumn": 11,
+	"endLineNumber": 42,
+	"endColumn": 21
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/5.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "local_variable_names",
+		"target": {
+			"$mid": 1,
+			"path": "/local_variable_names/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Local variable name must not match pattern ^L._.+$: lv_i",
+	"source": "abaplint",
+	"startLineNumber": 43,
+	"startColumn": 11,
+	"endLineNumber": 43,
+	"endColumn": 15
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/5.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_prefixes",
+		"target": {
+			"$mid": 1,
+			"path": "/no_prefixes/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Avoid hungarian notation",
+	"source": "abaplint",
+	"startLineNumber": 43,
+	"startColumn": 11,
+	"endLineNumber": 43,
+	"endColumn": 15
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/5.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_inline_in_optional_branches",
+		"target": {
+			"$mid": 1,
+			"path": "/no_inline_in_optional_branches/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Don't declare inline in optional branches",
+	"source": "abaplint",
+	"startLineNumber": 49,
+	"startColumn": 24,
+	"endLineNumber": 49,
+	"endColumn": 28
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/5.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "local_variable_names",
+		"target": {
+			"$mid": 1,
+			"path": "/local_variable_names/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Local variable name must not match pattern ^L._.+$: lv_row",
+	"source": "abaplint",
+	"startLineNumber": 49,
+	"startColumn": 29,
+	"endLineNumber": 49,
+	"endColumn": 35
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/5.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_prefixes",
+		"target": {
+			"$mid": 1,
+			"path": "/no_prefixes/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Avoid hungarian notation",
+	"source": "abaplint",
+	"startLineNumber": 49,
+	"startColumn": 29,
+	"endLineNumber": 49,
+	"endColumn": 35
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/5.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"lv_x_count\"",
+	"source": "abaplint",
+	"startLineNumber": 50,
+	"startColumn": 7,
+	"endLineNumber": 50,
+	"endColumn": 80
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/5.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"lv_o_count\"",
+	"source": "abaplint",
+	"startLineNumber": 51,
+	"startColumn": 7,
+	"endLineNumber": 51,
+	"endColumn": 80
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/5.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"ELSIF\"",
+	"source": "abaplint",
+	"startLineNumber": 58,
+	"startColumn": 5,
+	"endLineNumber": 58,
+	"endColumn": 41
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/5.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "method_length",
+		"target": {
+			"$mid": 1,
+			"path": "/method_length/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Empty METHOD",
+	"source": "abaplint",
+	"startLineNumber": 66,
+	"startColumn": 3,
+	"endLineNumber": 66,
+	"endColumn": 31
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/5.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"result\"",
+	"source": "abaplint",
+	"startLineNumber": 73,
+	"startColumn": 5,
+	"endLineNumber": 73,
+	"endColumn": 83
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/5.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "method_length",
+		"target": {
+			"$mid": 1,
+			"path": "/method_length/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Empty METHOD",
+	"source": "abaplint",
+	"startLineNumber": 76,
+	"startColumn": 3,
+	"endLineNumber": 76,
+	"endColumn": 26
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/6.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "types_naming",
+		"target": {
+			"$mid": 1,
+			"path": "/types_naming/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Bad TYPES naming, expected \"^TY_.+$\", got \"player_type\"",
+	"source": "abaplint",
+	"startLineNumber": 7,
+	"startColumn": 12,
+	"endLineNumber": 7,
+	"endColumn": 23
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/6.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "types_naming",
+		"target": {
+			"$mid": 1,
+			"path": "/types_naming/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Bad TYPES naming, expected \"^TY_.+$\", got \"board_type\"",
+	"source": "abaplint",
+	"startLineNumber": 8,
+	"startColumn": 12,
+	"endLineNumber": 8,
+	"endColumn": 22
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/6.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "abapdoc",
+		"target": {
+			"$mid": 1,
+			"path": "/abapdoc/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Missing ABAP Doc for method get_state ()",
+	"source": "abaplint",
+	"startLineNumber": 21,
+	"startColumn": 13,
+	"endLineNumber": 21,
+	"endColumn": 22
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/6.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "prefer_raise_exception_new",
+		"target": {
+			"$mid": 1,
+			"path": "/prefer_raise_exception_new/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Prefer RAISE EXCEPTION NEW to RAISE EXCEPTION TYPE",
+	"source": "abaplint",
+	"startLineNumber": 50,
+	"startColumn": 7,
+	"endLineNumber": 50,
+	"endColumn": 49
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/6.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"x_count\"",
+	"source": "abaplint",
+	"startLineNumber": 58,
+	"startColumn": 9,
+	"endLineNumber": 58,
+	"endColumn": 63
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/6.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"o_count\"",
+	"source": "abaplint",
+	"startLineNumber": 59,
+	"startColumn": 9,
+	"endLineNumber": 59,
+	"endColumn": 63
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/6.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"x_count\"",
+	"source": "abaplint",
+	"startLineNumber": 69,
+	"startColumn": 5,
+	"endLineNumber": 69,
+	"endColumn": 59
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/6.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"o_count\"",
+	"source": "abaplint",
+	"startLineNumber": 70,
+	"startColumn": 5,
+	"endLineNumber": 70,
+	"endColumn": 59
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/6.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "use_bool_expression",
+		"target": {
+			"$mid": 1,
+			"path": "/use_bool_expression/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Use xsdbool instead of IF, negate expression",
+	"source": "abaplint",
+	"startLineNumber": 72,
+	"startColumn": 5,
+	"endLineNumber": 76,
+	"endColumn": 11
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/6.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "unnecessary_chaining",
+		"target": {
+			"$mid": 1,
+			"path": "/unnecessary_chaining/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Unnecessary chaining",
+	"source": "abaplint",
+	"startLineNumber": 80,
+	"startColumn": 9,
+	"endLineNumber": 80,
+	"endColumn": 10
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/6.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "check_comments",
+		"target": {
+			"$mid": 1,
+			"path": "/check_comments/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Do not use end of line comments - move comment to previous row instead",
+	"source": "abaplint",
+	"startLineNumber": 84,
+	"startColumn": 19,
+	"endLineNumber": 84,
+	"endColumn": 37
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/6.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_inline_in_optional_branches",
+		"target": {
+			"$mid": 1,
+			"path": "/no_inline_in_optional_branches/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Don't declare inline in optional branches",
+	"source": "abaplint",
+	"startLineNumber": 89,
+	"startColumn": 24,
+	"endLineNumber": 89,
+	"endColumn": 28
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/6.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_inline_in_optional_branches",
+		"target": {
+			"$mid": 1,
+			"path": "/no_inline_in_optional_branches/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Don't declare inline in optional branches",
+	"source": "abaplint",
+	"startLineNumber": 94,
+	"startColumn": 23,
+	"endLineNumber": 94,
+	"endColumn": 27
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/7.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"TYPES\"",
+	"source": "abaplint",
+	"startLineNumber": 8,
+	"startColumn": 5,
+	"endLineNumber": 9,
+	"endColumn": 53
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/7.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "types_naming",
+		"target": {
+			"$mid": 1,
+			"path": "/types_naming/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Bad TYPES naming, expected \"^TY_.+$\", got \"player_type\"",
+	"source": "abaplint",
+	"startLineNumber": 8,
+	"startColumn": 12,
+	"endLineNumber": 8,
+	"endColumn": 23
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/7.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "abapdoc",
+		"target": {
+			"$mid": 1,
+			"path": "/abapdoc/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Missing ABAP Doc for method get_state ()",
+	"source": "abaplint",
+	"startLineNumber": 22,
+	"startColumn": 13,
+	"endLineNumber": 22,
+	"endColumn": 22
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/7.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"count_symbols\"",
+	"source": "abaplint",
+	"startLineNumber": 53,
+	"startColumn": 5,
+	"endLineNumber": 55,
+	"endColumn": 50
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/7.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"count_symbols\"",
+	"source": "abaplint",
+	"startLineNumber": 73,
+	"startColumn": 5,
+	"endLineNumber": 75,
+	"endColumn": 50
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/7.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_yoda_conditions",
+		"target": {
+			"$mid": 1,
+			"path": "/no_yoda_conditions/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "No Yoda conditions",
+	"source": "abaplint",
+	"startLineNumber": 77,
+	"startColumn": 29,
+	"endLineNumber": 77,
+	"endColumn": 50
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/7.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "prefer_raise_exception_new",
+		"target": {
+			"$mid": 1,
+			"path": "/prefer_raise_exception_new/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Prefer RAISE EXCEPTION NEW to RAISE EXCEPTION TYPE",
+	"source": "abaplint",
+	"startLineNumber": 78,
+	"startColumn": 7,
+	"endLineNumber": 78,
+	"endColumn": 49
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/7.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "uncaught_exception",
+		"target": {
+			"$mid": 1,
+			"path": "/uncaught_exception/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Uncaught exception CX_PARAMETER_INVALID",
+	"source": "abaplint",
+	"startLineNumber": 78,
+	"startColumn": 7,
+	"endLineNumber": 78,
+	"endColumn": 49
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/7.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "method_length",
+		"target": {
+			"$mid": 1,
+			"path": "/method_length/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Empty METHOD",
+	"source": "abaplint",
+	"startLineNumber": 84,
+	"startColumn": 3,
+	"endLineNumber": 84,
+	"endColumn": 28
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/7.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_inline_in_optional_branches",
+		"target": {
+			"$mid": 1,
+			"path": "/no_inline_in_optional_branches/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Don't declare inline in optional branches",
+	"source": "abaplint",
+	"startLineNumber": 93,
+	"startColumn": 24,
+	"endLineNumber": 93,
+	"endColumn": 28
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/7.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "line_break_multiple_parameters",
+		"target": {
+			"$mid": 1,
+			"path": "/line_break_multiple_parameters/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Line break multiple parameters",
+	"source": "abaplint",
+	"startLineNumber": 94,
+	"startColumn": 61,
+	"endLineNumber": 94,
+	"endColumn": 66
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/7.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "line_break_multiple_parameters",
+		"target": {
+			"$mid": 1,
+			"path": "/line_break_multiple_parameters/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Line break multiple parameters",
+	"source": "abaplint",
+	"startLineNumber": 94,
+	"startColumn": 76,
+	"endLineNumber": 94,
+	"endColumn": 80
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/7.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "line_break_multiple_parameters",
+		"target": {
+			"$mid": 1,
+			"path": "/line_break_multiple_parameters/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Line break multiple parameters",
+	"source": "abaplint",
+	"startLineNumber": 95,
+	"startColumn": 61,
+	"endLineNumber": 95,
+	"endColumn": 66
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/7.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "line_break_multiple_parameters",
+		"target": {
+			"$mid": 1,
+			"path": "/line_break_multiple_parameters/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Line break multiple parameters",
+	"source": "abaplint",
+	"startLineNumber": 95,
+	"startColumn": 76,
+	"endLineNumber": 95,
+	"endColumn": 80
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/8.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "structure",
+		"target": {
+			"$mid": 1,
+			"path": "/structure/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Expected ENDMETHOD",
+	"source": "abaplint",
+	"startLineNumber": 1,
+	"startColumn": 1,
+	"endLineNumber": 1,
+	"endColumn": 43
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/8.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "types_naming",
+		"target": {
+			"$mid": 1,
+			"path": "/types_naming/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Bad TYPES naming, expected \"^TY_.+$\", got \"player_type\"",
+	"source": "abaplint",
+	"startLineNumber": 7,
+	"startColumn": 12,
+	"endLineNumber": 7,
+	"endColumn": 23
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/8.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "types_naming",
+		"target": {
+			"$mid": 1,
+			"path": "/types_naming/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Bad TYPES naming, expected \"^TY_.+$\", got \"board_type\"",
+	"source": "abaplint",
+	"startLineNumber": 8,
+	"startColumn": 12,
+	"endLineNumber": 8,
+	"endColumn": 22
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/8.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "avoid_use",
+		"target": {
+			"$mid": 1,
+			"path": "/avoid_use/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Avoid use of DEFAULT KEY",
+	"source": "abaplint",
+	"startLineNumber": 8,
+	"startColumn": 50,
+	"endLineNumber": 8,
+	"endColumn": 57
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/8.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "types_naming",
+		"target": {
+			"$mid": 1,
+			"path": "/types_naming/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Bad TYPES naming, expected \"^TY_.+$\", got \"game_state\"",
+	"source": "abaplint",
+	"startLineNumber": 9,
+	"startColumn": 12,
+	"endLineNumber": 9,
+	"endColumn": 22
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/8.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "unnecessary_chaining",
+		"target": {
+			"$mid": 1,
+			"path": "/unnecessary_chaining/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Unnecessary chaining",
+	"source": "abaplint",
+	"startLineNumber": 22,
+	"startColumn": 12,
+	"endLineNumber": 22,
+	"endColumn": 13
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/8.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"ELSEIF\"",
+	"source": "abaplint",
+	"startLineNumber": 50,
+	"startColumn": 5,
+	"endLineNumber": 50,
+	"endColumn": 107
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/8.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"x_count\"",
+	"source": "abaplint",
+	"startLineNumber": 63,
+	"startColumn": 5,
+	"endLineNumber": 63,
+	"endColumn": 51
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/8.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"o_count\"",
+	"source": "abaplint",
+	"startLineNumber": 64,
+	"startColumn": 5,
+	"endLineNumber": 64,
+	"endColumn": 51
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/8.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"IF\"",
+	"source": "abaplint",
+	"startLineNumber": 67,
+	"startColumn": 5,
+	"endLineNumber": 67,
+	"endColumn": 40
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/8.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "line_length",
+		"target": {
+			"$mid": 1,
+			"path": "/line_length/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Reduce line length to max 120, currently 123",
+	"source": "abaplint",
+	"startLineNumber": 68,
+	"startColumn": 1,
+	"endLineNumber": 68,
+	"endColumn": 125
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/8.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "prefer_raise_exception_new",
+		"target": {
+			"$mid": 1,
+			"path": "/prefer_raise_exception_new/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Prefer RAISE EXCEPTION NEW to RAISE EXCEPTION TYPE",
+	"source": "abaplint",
+	"startLineNumber": 68,
+	"startColumn": 7,
+	"endLineNumber": 68,
+	"endColumn": 124
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/8.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"IF\"",
+	"source": "abaplint",
+	"startLineNumber": 72,
+	"startColumn": 5,
+	"endLineNumber": 72,
+	"endColumn": 66
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/8.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "prefer_raise_exception_new",
+		"target": {
+			"$mid": 1,
+			"path": "/prefer_raise_exception_new/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Prefer RAISE EXCEPTION NEW to RAISE EXCEPTION TYPE",
+	"source": "abaplint",
+	"startLineNumber": 73,
+	"startColumn": 7,
+	"endLineNumber": 73,
+	"endColumn": 95
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/8.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "unnecessary_chaining",
+		"target": {
+			"$mid": 1,
+			"path": "/unnecessary_chaining/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Unnecessary chaining",
+	"source": "abaplint",
+	"startLineNumber": 78,
+	"startColumn": 9,
+	"endLineNumber": 78,
+	"endColumn": 10
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/8.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"DATA\"",
+	"source": "abaplint",
+	"startLineNumber": 113,
+	"startColumn": 5,
+	"endLineNumber": 113,
+	"endColumn": 37
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/8.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"count\"",
+	"source": "abaplint",
+	"startLineNumber": 116,
+	"startColumn": 7,
+	"endLineNumber": 116,
+	"endColumn": 120
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/9.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "structure",
+		"target": {
+			"$mid": 1,
+			"path": "/structure/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Expected ENDMETHOD",
+	"source": "abaplint",
+	"startLineNumber": 1,
+	"startColumn": 1,
+	"endLineNumber": 1,
+	"endColumn": 43
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/9.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"TYPES\"",
+	"source": "abaplint",
+	"startLineNumber": 7,
+	"startColumn": 5,
+	"endLineNumber": 8,
+	"endColumn": 68
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/9.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "types_naming",
+		"target": {
+			"$mid": 1,
+			"path": "/types_naming/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Bad TYPES naming, expected \"^TY_.+$\", got \"player_type\"",
+	"source": "abaplint",
+	"startLineNumber": 7,
+	"startColumn": 12,
+	"endLineNumber": 7,
+	"endColumn": 23
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/9.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "unnecessary_chaining",
+		"target": {
+			"$mid": 1,
+			"path": "/unnecessary_chaining/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Unnecessary chaining",
+	"source": "abaplint",
+	"startLineNumber": 21,
+	"startColumn": 12,
+	"endLineNumber": 21,
+	"endColumn": 13
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/9.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"METHODS\"",
+	"source": "abaplint",
+	"startLineNumber": 30,
+	"startColumn": 5,
+	"endLineNumber": 34,
+	"endColumn": 41
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/9.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "unnecessary_chaining",
+		"target": {
+			"$mid": 1,
+			"path": "/unnecessary_chaining/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Unnecessary chaining",
+	"source": "abaplint",
+	"startLineNumber": 30,
+	"startColumn": 12,
+	"endLineNumber": 30,
+	"endColumn": 13
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/9.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"METHODS\"",
+	"source": "abaplint",
+	"startLineNumber": 36,
+	"startColumn": 5,
+	"endLineNumber": 41,
+	"endColumn": 31
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/9.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "unnecessary_chaining",
+		"target": {
+			"$mid": 1,
+			"path": "/unnecessary_chaining/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Unnecessary chaining",
+	"source": "abaplint",
+	"startLineNumber": 36,
+	"startColumn": 12,
+	"endLineNumber": 36,
+	"endColumn": 13
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/9.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"x_count\"",
+	"source": "abaplint",
+	"startLineNumber": 49,
+	"startColumn": 5,
+	"endLineNumber": 49,
+	"endColumn": 45
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/9.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "prefer_raise_exception_new",
+		"target": {
+			"$mid": 1,
+			"path": "/prefer_raise_exception_new/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Prefer RAISE EXCEPTION NEW to RAISE EXCEPTION TYPE",
+	"source": "abaplint",
+	"startLineNumber": 53,
+	"startColumn": 7,
+	"endLineNumber": 54,
+	"endColumn": 66
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/9.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"IF\"",
+	"source": "abaplint",
+	"startLineNumber": 79,
+	"startColumn": 7,
+	"endLineNumber": 79,
+	"endColumn": 117
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/9.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "colon_missing_space",
+		"target": {
+			"$mid": 1,
+			"path": "/colon_missing_space/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Missing space after the colon",
+	"source": "abaplint",
+	"startLineNumber": 79,
+	"startColumn": 22,
+	"endLineNumber": 79,
+	"endColumn": 23
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/9.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "unnecessary_chaining",
+		"target": {
+			"$mid": 1,
+			"path": "/unnecessary_chaining/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Unnecessary chaining",
+	"source": "abaplint",
+	"startLineNumber": 79,
+	"startColumn": 22,
+	"endLineNumber": 79,
+	"endColumn": 23
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/9.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "colon_missing_space",
+		"target": {
+			"$mid": 1,
+			"path": "/colon_missing_space/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Missing space after the colon",
+	"source": "abaplint",
+	"startLineNumber": 79,
+	"startColumn": 40,
+	"endLineNumber": 79,
+	"endColumn": 41
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/9.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "colon_missing_space",
+		"target": {
+			"$mid": 1,
+			"path": "/colon_missing_space/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Missing space after the colon",
+	"source": "abaplint",
+	"startLineNumber": 79,
+	"startColumn": 60,
+	"endLineNumber": 79,
+	"endColumn": 61
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/9.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "colon_missing_space",
+		"target": {
+			"$mid": 1,
+			"path": "/colon_missing_space/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Missing space after the colon",
+	"source": "abaplint",
+	"startLineNumber": 79,
+	"startColumn": 78,
+	"endLineNumber": 79,
+	"endColumn": 79
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/9.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "colon_missing_space",
+		"target": {
+			"$mid": 1,
+			"path": "/colon_missing_space/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Missing space after the colon",
+	"source": "abaplint",
+	"startLineNumber": 79,
+	"startColumn": 98,
+	"endLineNumber": 79,
+	"endColumn": 99
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/9.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "line_break_multiple_parameters",
+		"target": {
+			"$mid": 1,
+			"path": "/line_break_multiple_parameters/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Line break multiple parameters",
+	"source": "abaplint",
+	"startLineNumber": 95,
+	"startColumn": 54,
+	"endLineNumber": 95,
+	"endColumn": 59
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/9.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "line_break_multiple_parameters",
+		"target": {
+			"$mid": 1,
+			"path": "/line_break_multiple_parameters/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Line break multiple parameters",
+	"source": "abaplint",
+	"startLineNumber": 95,
+	"startColumn": 69,
+	"endLineNumber": 95,
+	"endColumn": 73
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/9.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "line_break_multiple_parameters",
+		"target": {
+			"$mid": 1,
+			"path": "/line_break_multiple_parameters/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Line break multiple parameters",
+	"source": "abaplint",
+	"startLineNumber": 96,
+	"startColumn": 54,
+	"endLineNumber": 96,
+	"endColumn": 59
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 5 - TicTacToe/3_GPT4_CC/9.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "line_break_multiple_parameters",
+		"target": {
+			"$mid": 1,
+			"path": "/line_break_multiple_parameters/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Line break multiple parameters",
+	"source": "abaplint",
+	"startLineNumber": 96,
+	"startColumn": 69,
+	"endLineNumber": 96,
+	"endColumn": 73
+}]

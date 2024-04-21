@@ -1,0 +1,3003 @@
+[{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/1.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "abapdoc",
+		"target": {
+			"$mid": 1,
+			"path": "/abapdoc/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Missing ABAP Doc for method hamming_distance (PUBLIC SECTION.)",
+	"source": "abaplint",
+	"startLineNumber": 3,
+	"startColumn": 13,
+	"endLineNumber": 3,
+	"endColumn": 29
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/1.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "local_variable_names",
+		"target": {
+			"$mid": 1,
+			"path": "/local_variable_names/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Local variable name must not match pattern ^L._.+$: lv_index",
+	"source": "abaplint",
+	"startLineNumber": 24,
+	"startColumn": 11,
+	"endLineNumber": 24,
+	"endColumn": 19
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/1.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_prefixes",
+		"target": {
+			"$mid": 1,
+			"path": "/no_prefixes/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Avoid hungarian notation",
+	"source": "abaplint",
+	"startLineNumber": 24,
+	"startColumn": 11,
+	"endLineNumber": 24,
+	"endColumn": 19
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/1.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "local_variable_names",
+		"target": {
+			"$mid": 1,
+			"path": "/local_variable_names/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Local variable name must not match pattern ^L._.+$: lv_count",
+	"source": "abaplint",
+	"startLineNumber": 25,
+	"startColumn": 11,
+	"endLineNumber": 25,
+	"endColumn": 19
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/1.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_prefixes",
+		"target": {
+			"$mid": 1,
+			"path": "/no_prefixes/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Avoid hungarian notation",
+	"source": "abaplint",
+	"startLineNumber": 25,
+	"startColumn": 11,
+	"endLineNumber": 25,
+	"endColumn": 19
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/1.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "line_break_multiple_parameters",
+		"target": {
+			"$mid": 1,
+			"path": "/line_break_multiple_parameters/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Line break multiple parameters",
+	"source": "abaplint",
+	"startLineNumber": 27,
+	"startColumn": 55,
+	"endLineNumber": 27,
+	"endColumn": 68
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/1.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "prefer_raise_exception_new",
+		"target": {
+			"$mid": 1,
+			"path": "/prefer_raise_exception_new/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Prefer RAISE EXCEPTION NEW to RAISE EXCEPTION TYPE",
+	"source": "abaplint",
+	"startLineNumber": 41,
+	"startColumn": 7,
+	"endLineNumber": 44,
+	"endColumn": 28
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/1.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "align_parameters",
+		"target": {
+			"$mid": 1,
+			"path": "/align_parameters/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Align parameters to column 20",
+	"source": "abaplint",
+	"startLineNumber": 43,
+	"startColumn": 18,
+	"endLineNumber": 43,
+	"endColumn": 68
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/10.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "abapdoc",
+		"target": {
+			"$mid": 1,
+			"path": "/abapdoc/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Missing ABAP Doc for method hamming_distance (PUBLIC SECTION.)",
+	"source": "abaplint",
+	"startLineNumber": 3,
+	"startColumn": 13,
+	"endLineNumber": 3,
+	"endColumn": 29
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/10.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "prefer_raise_exception_new",
+		"target": {
+			"$mid": 1,
+			"path": "/prefer_raise_exception_new/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Prefer RAISE EXCEPTION NEW to RAISE EXCEPTION TYPE",
+	"source": "abaplint",
+	"startLineNumber": 18,
+	"startColumn": 7,
+	"endLineNumber": 20,
+	"endColumn": 55
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/11.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "abapdoc",
+		"target": {
+			"$mid": 1,
+			"path": "/abapdoc/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Missing ABAP Doc for method hamming_distance (PUBLIC SECTION.)",
+	"source": "abaplint",
+	"startLineNumber": 3,
+	"startColumn": 13,
+	"endLineNumber": 3,
+	"endColumn": 29
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/11.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "prefer_raise_exception_new",
+		"target": {
+			"$mid": 1,
+			"path": "/prefer_raise_exception_new/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Prefer RAISE EXCEPTION NEW to RAISE EXCEPTION TYPE",
+	"source": "abaplint",
+	"startLineNumber": 17,
+	"startColumn": 7,
+	"endLineNumber": 19,
+	"endColumn": 59
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/11.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "uncaught_exception",
+		"target": {
+			"$mid": 1,
+			"path": "/uncaught_exception/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Uncaught exception CX_PARAMETER_INVALID",
+	"source": "abaplint",
+	"startLineNumber": 17,
+	"startColumn": 7,
+	"endLineNumber": 19,
+	"endColumn": 59
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/11.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "definitions_top",
+		"target": {
+			"$mid": 1,
+			"path": "/definitions_top/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Reorder definitions to top of routine",
+	"source": "abaplint",
+	"startLineNumber": 22,
+	"startColumn": 5,
+	"endLineNumber": 22,
+	"endColumn": 27
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/11.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "local_variable_names",
+		"target": {
+			"$mid": 1,
+			"path": "/local_variable_names/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Local variable name must not match pattern ^L._.+$: lv_index",
+	"source": "abaplint",
+	"startLineNumber": 22,
+	"startColumn": 11,
+	"endLineNumber": 22,
+	"endColumn": 19
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/11.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_prefixes",
+		"target": {
+			"$mid": 1,
+			"path": "/no_prefixes/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Avoid hungarian notation",
+	"source": "abaplint",
+	"startLineNumber": 22,
+	"startColumn": 11,
+	"endLineNumber": 22,
+	"endColumn": 19
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/11.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "local_variable_names",
+		"target": {
+			"$mid": 1,
+			"path": "/local_variable_names/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Local variable name must not match pattern ^L._.+$: lv_count",
+	"source": "abaplint",
+	"startLineNumber": 23,
+	"startColumn": 11,
+	"endLineNumber": 23,
+	"endColumn": 19
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/11.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_prefixes",
+		"target": {
+			"$mid": 1,
+			"path": "/no_prefixes/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Avoid hungarian notation",
+	"source": "abaplint",
+	"startLineNumber": 23,
+	"startColumn": 11,
+	"endLineNumber": 23,
+	"endColumn": 19
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/11.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "line_break_multiple_parameters",
+		"target": {
+			"$mid": 1,
+			"path": "/line_break_multiple_parameters/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Line break multiple parameters",
+	"source": "abaplint",
+	"startLineNumber": 27,
+	"startColumn": 40,
+	"endLineNumber": 27,
+	"endColumn": 43
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/11.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "line_break_multiple_parameters",
+		"target": {
+			"$mid": 1,
+			"path": "/line_break_multiple_parameters/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Line break multiple parameters",
+	"source": "abaplint",
+	"startLineNumber": 27,
+	"startColumn": 55,
+	"endLineNumber": 27,
+	"endColumn": 58
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/11.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "line_break_multiple_parameters",
+		"target": {
+			"$mid": 1,
+			"path": "/line_break_multiple_parameters/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Line break multiple parameters",
+	"source": "abaplint",
+	"startLineNumber": 28,
+	"startColumn": 41,
+	"endLineNumber": 28,
+	"endColumn": 44
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/11.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "line_break_multiple_parameters",
+		"target": {
+			"$mid": 1,
+			"path": "/line_break_multiple_parameters/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Line break multiple parameters",
+	"source": "abaplint",
+	"startLineNumber": 28,
+	"startColumn": 56,
+	"endLineNumber": 28,
+	"endColumn": 59
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/12.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "check_syntax",
+		"target": {
+			"$mid": 1,
+			"path": "/check_syntax/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Class \"ZCL_HAMMING\" already defined",
+	"source": "abaplint",
+	"startLineNumber": 1,
+	"startColumn": 1,
+	"endLineNumber": 1,
+	"endColumn": 6
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/12.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "abapdoc",
+		"target": {
+			"$mid": 1,
+			"path": "/abapdoc/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Missing ABAP Doc for method hamming_distance (PUBLIC SECTION.)",
+	"source": "abaplint",
+	"startLineNumber": 3,
+	"startColumn": 13,
+	"endLineNumber": 3,
+	"endColumn": 29
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/12.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "prefer_raise_exception_new",
+		"target": {
+			"$mid": 1,
+			"path": "/prefer_raise_exception_new/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Prefer RAISE EXCEPTION NEW to RAISE EXCEPTION TYPE",
+	"source": "abaplint",
+	"startLineNumber": 23,
+	"startColumn": 7,
+	"endLineNumber": 27,
+	"endColumn": 70
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/12.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "align_parameters",
+		"target": {
+			"$mid": 1,
+			"path": "/align_parameters/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Align parameters to column 20",
+	"source": "abaplint",
+	"startLineNumber": 25,
+	"startColumn": 18,
+	"endLineNumber": 25,
+	"endColumn": 59
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/13.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "abapdoc",
+		"target": {
+			"$mid": 1,
+			"path": "/abapdoc/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Missing ABAP Doc for method hamming_distance (PUBLIC SECTION.)",
+	"source": "abaplint",
+	"startLineNumber": 3,
+	"startColumn": 13,
+	"endLineNumber": 3,
+	"endColumn": 29
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/13.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "local_variable_names",
+		"target": {
+			"$mid": 1,
+			"path": "/local_variable_names/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Local variable name must not match pattern ^L._.+$: lv_length_first",
+	"source": "abaplint",
+	"startLineNumber": 16,
+	"startColumn": 11,
+	"endLineNumber": 16,
+	"endColumn": 26
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/13.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_prefixes",
+		"target": {
+			"$mid": 1,
+			"path": "/no_prefixes/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Avoid hungarian notation",
+	"source": "abaplint",
+	"startLineNumber": 16,
+	"startColumn": 11,
+	"endLineNumber": 16,
+	"endColumn": 26
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/13.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "local_variable_names",
+		"target": {
+			"$mid": 1,
+			"path": "/local_variable_names/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Local variable name must not match pattern ^L._.+$: lv_length_second",
+	"source": "abaplint",
+	"startLineNumber": 17,
+	"startColumn": 11,
+	"endLineNumber": 17,
+	"endColumn": 27
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/13.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_prefixes",
+		"target": {
+			"$mid": 1,
+			"path": "/no_prefixes/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Avoid hungarian notation",
+	"source": "abaplint",
+	"startLineNumber": 17,
+	"startColumn": 11,
+	"endLineNumber": 17,
+	"endColumn": 27
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/13.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "prefer_raise_exception_new",
+		"target": {
+			"$mid": 1,
+			"path": "/prefer_raise_exception_new/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Prefer RAISE EXCEPTION NEW to RAISE EXCEPTION TYPE",
+	"source": "abaplint",
+	"startLineNumber": 24,
+	"startColumn": 7,
+	"endLineNumber": 27,
+	"endColumn": 31
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/13.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "uncaught_exception",
+		"target": {
+			"$mid": 1,
+			"path": "/uncaught_exception/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Uncaught exception CX_PARAMETER_INVALID",
+	"source": "abaplint",
+	"startLineNumber": 24,
+	"startColumn": 7,
+	"endLineNumber": 27,
+	"endColumn": 31
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/13.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "align_parameters",
+		"target": {
+			"$mid": 1,
+			"path": "/align_parameters/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Align parameters to column 20",
+	"source": "abaplint",
+	"startLineNumber": 26,
+	"startColumn": 18,
+	"endLineNumber": 26,
+	"endColumn": 59
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/13.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "definitions_top",
+		"target": {
+			"$mid": 1,
+			"path": "/definitions_top/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Reorder definitions to top of routine",
+	"source": "abaplint",
+	"startLineNumber": 31,
+	"startColumn": 5,
+	"endLineNumber": 31,
+	"endColumn": 38
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/13.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "unnecessary_chaining",
+		"target": {
+			"$mid": 1,
+			"path": "/unnecessary_chaining/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Unnecessary chaining",
+	"source": "abaplint",
+	"startLineNumber": 31,
+	"startColumn": 9,
+	"endLineNumber": 31,
+	"endColumn": 10
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/13.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "local_variable_names",
+		"target": {
+			"$mid": 1,
+			"path": "/local_variable_names/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Local variable name must not match pattern ^L._.+$: lv_distance",
+	"source": "abaplint",
+	"startLineNumber": 31,
+	"startColumn": 11,
+	"endLineNumber": 31,
+	"endColumn": 22
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/13.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_prefixes",
+		"target": {
+			"$mid": 1,
+			"path": "/no_prefixes/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Avoid hungarian notation",
+	"source": "abaplint",
+	"startLineNumber": 31,
+	"startColumn": 11,
+	"endLineNumber": 31,
+	"endColumn": 22
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/14.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "abapdoc",
+		"target": {
+			"$mid": 1,
+			"path": "/abapdoc/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Missing ABAP Doc for method hamming_distance (PUBLIC SECTION.)",
+	"source": "abaplint",
+	"startLineNumber": 3,
+	"startColumn": 13,
+	"endLineNumber": 3,
+	"endColumn": 29
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/14.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "prefer_raise_exception_new",
+		"target": {
+			"$mid": 1,
+			"path": "/prefer_raise_exception_new/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Prefer RAISE EXCEPTION NEW to RAISE EXCEPTION TYPE",
+	"source": "abaplint",
+	"startLineNumber": 18,
+	"startColumn": 7,
+	"endLineNumber": 20,
+	"endColumn": 52
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/14.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "uncaught_exception",
+		"target": {
+			"$mid": 1,
+			"path": "/uncaught_exception/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Uncaught exception CX_PARAMETER_INVALID",
+	"source": "abaplint",
+	"startLineNumber": 18,
+	"startColumn": 7,
+	"endLineNumber": 20,
+	"endColumn": 52
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/14.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "unnecessary_return",
+		"target": {
+			"$mid": 1,
+			"path": "/unnecessary_return/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Unnecessary RETURN",
+	"source": "abaplint",
+	"startLineNumber": 34,
+	"startColumn": 5,
+	"endLineNumber": 34,
+	"endColumn": 12
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/15.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "abapdoc",
+		"target": {
+			"$mid": 1,
+			"path": "/abapdoc/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Missing ABAP Doc for method hamming_distance (PUBLIC SECTION.)",
+	"source": "abaplint",
+	"startLineNumber": 3,
+	"startColumn": 13,
+	"endLineNumber": 3,
+	"endColumn": 29
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/15.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "unnecessary_chaining",
+		"target": {
+			"$mid": 1,
+			"path": "/unnecessary_chaining/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Unnecessary chaining",
+	"source": "abaplint",
+	"startLineNumber": 16,
+	"startColumn": 9,
+	"endLineNumber": 16,
+	"endColumn": 10
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/15.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "local_variable_names",
+		"target": {
+			"$mid": 1,
+			"path": "/local_variable_names/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Local variable name must not match pattern ^L._.+$: lv_length",
+	"source": "abaplint",
+	"startLineNumber": 16,
+	"startColumn": 11,
+	"endLineNumber": 16,
+	"endColumn": 20
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/15.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_prefixes",
+		"target": {
+			"$mid": 1,
+			"path": "/no_prefixes/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Avoid hungarian notation",
+	"source": "abaplint",
+	"startLineNumber": 16,
+	"startColumn": 11,
+	"endLineNumber": 16,
+	"endColumn": 20
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/15.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "prefer_raise_exception_new",
+		"target": {
+			"$mid": 1,
+			"path": "/prefer_raise_exception_new/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Prefer RAISE EXCEPTION NEW to RAISE EXCEPTION TYPE",
+	"source": "abaplint",
+	"startLineNumber": 20,
+	"startColumn": 7,
+	"endLineNumber": 22,
+	"endColumn": 56
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/15.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "uncaught_exception",
+		"target": {
+			"$mid": 1,
+			"path": "/uncaught_exception/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Uncaught exception CX_PARAMETER_INVALID",
+	"source": "abaplint",
+	"startLineNumber": 20,
+	"startColumn": 7,
+	"endLineNumber": 22,
+	"endColumn": 56
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/16.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "exporting",
+		"target": {
+			"$mid": 1,
+			"path": "/exporting/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "The EXPORTING keyword can be omitted",
+	"source": "abaplint",
+	"startLineNumber": 9,
+	"startColumn": 25,
+	"endLineNumber": 9,
+	"endColumn": 34
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/16.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "line_break_multiple_parameters",
+		"target": {
+			"$mid": 1,
+			"path": "/line_break_multiple_parameters/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Line break multiple parameters",
+	"source": "abaplint",
+	"startLineNumber": 9,
+	"startColumn": 51,
+	"endLineNumber": 9,
+	"endColumn": 59
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/16.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "structure",
+		"target": {
+			"$mid": 1,
+			"path": "/structure/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Unexpected CLASSDEFINITION",
+	"source": "abaplint",
+	"startLineNumber": 13,
+	"startColumn": 1,
+	"endLineNumber": 13,
+	"endColumn": 38
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/16.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "prefer_raise_exception_new",
+		"target": {
+			"$mid": 1,
+			"path": "/prefer_raise_exception_new/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Prefer RAISE EXCEPTION NEW to RAISE EXCEPTION TYPE",
+	"source": "abaplint",
+	"startLineNumber": 35,
+	"startColumn": 7,
+	"endLineNumber": 36,
+	"endColumn": 63
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/17.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "abapdoc",
+		"target": {
+			"$mid": 1,
+			"path": "/abapdoc/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Missing ABAP Doc for method hamming_distance (PUBLIC SECTION.)",
+	"source": "abaplint",
+	"startLineNumber": 3,
+	"startColumn": 13,
+	"endLineNumber": 3,
+	"endColumn": 29
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/17.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "local_variable_names",
+		"target": {
+			"$mid": 1,
+			"path": "/local_variable_names/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Local variable name must not match pattern ^L._.+$: lv_length_first",
+	"source": "abaplint",
+	"startLineNumber": 16,
+	"startColumn": 11,
+	"endLineNumber": 16,
+	"endColumn": 26
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/17.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_prefixes",
+		"target": {
+			"$mid": 1,
+			"path": "/no_prefixes/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Avoid hungarian notation",
+	"source": "abaplint",
+	"startLineNumber": 16,
+	"startColumn": 11,
+	"endLineNumber": 16,
+	"endColumn": 26
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/17.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "local_variable_names",
+		"target": {
+			"$mid": 1,
+			"path": "/local_variable_names/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Local variable name must not match pattern ^L._.+$: lv_length_second",
+	"source": "abaplint",
+	"startLineNumber": 17,
+	"startColumn": 11,
+	"endLineNumber": 17,
+	"endColumn": 27
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/17.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_prefixes",
+		"target": {
+			"$mid": 1,
+			"path": "/no_prefixes/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Avoid hungarian notation",
+	"source": "abaplint",
+	"startLineNumber": 17,
+	"startColumn": 11,
+	"endLineNumber": 17,
+	"endColumn": 27
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/17.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "prefer_raise_exception_new",
+		"target": {
+			"$mid": 1,
+			"path": "/prefer_raise_exception_new/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Prefer RAISE EXCEPTION NEW to RAISE EXCEPTION TYPE",
+	"source": "abaplint",
+	"startLineNumber": 24,
+	"startColumn": 7,
+	"endLineNumber": 27,
+	"endColumn": 117
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/17.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "align_parameters",
+		"target": {
+			"$mid": 1,
+			"path": "/align_parameters/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Align parameters to column 20",
+	"source": "abaplint",
+	"startLineNumber": 26,
+	"startColumn": 18,
+	"endLineNumber": 26,
+	"endColumn": 51
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/17.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "local_variable_names",
+		"target": {
+			"$mid": 1,
+			"path": "/local_variable_names/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Local variable name must not match pattern ^L._.+$: lv_distance",
+	"source": "abaplint",
+	"startLineNumber": 31,
+	"startColumn": 10,
+	"endLineNumber": 31,
+	"endColumn": 21
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/17.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_prefixes",
+		"target": {
+			"$mid": 1,
+			"path": "/no_prefixes/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Avoid hungarian notation",
+	"source": "abaplint",
+	"startLineNumber": 31,
+	"startColumn": 10,
+	"endLineNumber": 31,
+	"endColumn": 21
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/17.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"DATA\"",
+	"source": "abaplint",
+	"startLineNumber": 32,
+	"startColumn": 5,
+	"endLineNumber": 32,
+	"endColumn": 27
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/18.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "structure",
+		"target": {
+			"$mid": 1,
+			"path": "/structure/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Expected ENDMETHOD",
+	"source": "abaplint",
+	"startLineNumber": 1,
+	"startColumn": 1,
+	"endLineNumber": 1,
+	"endColumn": 58
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/18.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "unnecessary_chaining",
+		"target": {
+			"$mid": 1,
+			"path": "/unnecessary_chaining/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Unnecessary chaining",
+	"source": "abaplint",
+	"startLineNumber": 16,
+	"startColumn": 9,
+	"endLineNumber": 16,
+	"endColumn": 10
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/18.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "prefer_raise_exception_new",
+		"target": {
+			"$mid": 1,
+			"path": "/prefer_raise_exception_new/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Prefer RAISE EXCEPTION NEW to RAISE EXCEPTION TYPE",
+	"source": "abaplint",
+	"startLineNumber": 21,
+	"startColumn": 7,
+	"endLineNumber": 22,
+	"endColumn": 60
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/18.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"LOOP\"",
+	"source": "abaplint",
+	"startLineNumber": 27,
+	"startColumn": 5,
+	"endLineNumber": 27,
+	"endColumn": 72
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/19.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "abapdoc",
+		"target": {
+			"$mid": 1,
+			"path": "/abapdoc/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Missing ABAP Doc for method hamming_distance (PUBLIC SECTION.)",
+	"source": "abaplint",
+	"startLineNumber": 3,
+	"startColumn": 13,
+	"endLineNumber": 3,
+	"endColumn": 29
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/19.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "local_variable_names",
+		"target": {
+			"$mid": 1,
+			"path": "/local_variable_names/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Local variable name must not match pattern ^L._.+$: lv_length1",
+	"source": "abaplint",
+	"startLineNumber": 15,
+	"startColumn": 11,
+	"endLineNumber": 15,
+	"endColumn": 21
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/19.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_prefixes",
+		"target": {
+			"$mid": 1,
+			"path": "/no_prefixes/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Avoid hungarian notation",
+	"source": "abaplint",
+	"startLineNumber": 15,
+	"startColumn": 11,
+	"endLineNumber": 15,
+	"endColumn": 21
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/19.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "local_variable_names",
+		"target": {
+			"$mid": 1,
+			"path": "/local_variable_names/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Local variable name must not match pattern ^L._.+$: lv_length2",
+	"source": "abaplint",
+	"startLineNumber": 16,
+	"startColumn": 11,
+	"endLineNumber": 16,
+	"endColumn": 21
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/19.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_prefixes",
+		"target": {
+			"$mid": 1,
+			"path": "/no_prefixes/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Avoid hungarian notation",
+	"source": "abaplint",
+	"startLineNumber": 16,
+	"startColumn": 11,
+	"endLineNumber": 16,
+	"endColumn": 21
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/19.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "local_variable_names",
+		"target": {
+			"$mid": 1,
+			"path": "/local_variable_names/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Local variable name must not match pattern ^L._.+$: lv_index",
+	"source": "abaplint",
+	"startLineNumber": 17,
+	"startColumn": 11,
+	"endLineNumber": 17,
+	"endColumn": 19
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/19.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_prefixes",
+		"target": {
+			"$mid": 1,
+			"path": "/no_prefixes/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Avoid hungarian notation",
+	"source": "abaplint",
+	"startLineNumber": 17,
+	"startColumn": 11,
+	"endLineNumber": 17,
+	"endColumn": 19
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/19.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "local_variable_names",
+		"target": {
+			"$mid": 1,
+			"path": "/local_variable_names/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Local variable name must not match pattern ^L._.+$: lv_counter",
+	"source": "abaplint",
+	"startLineNumber": 18,
+	"startColumn": 11,
+	"endLineNumber": 18,
+	"endColumn": 21
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/19.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_prefixes",
+		"target": {
+			"$mid": 1,
+			"path": "/no_prefixes/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Avoid hungarian notation",
+	"source": "abaplint",
+	"startLineNumber": 18,
+	"startColumn": 11,
+	"endLineNumber": 18,
+	"endColumn": 21
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/19.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "prefer_raise_exception_new",
+		"target": {
+			"$mid": 1,
+			"path": "/prefer_raise_exception_new/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Prefer RAISE EXCEPTION NEW to RAISE EXCEPTION TYPE",
+	"source": "abaplint",
+	"startLineNumber": 25,
+	"startColumn": 7,
+	"endLineNumber": 28,
+	"endColumn": 27
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/19.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "uncaught_exception",
+		"target": {
+			"$mid": 1,
+			"path": "/uncaught_exception/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Uncaught exception CX_PARAMETER_INVALID",
+	"source": "abaplint",
+	"startLineNumber": 25,
+	"startColumn": 7,
+	"endLineNumber": 28,
+	"endColumn": 27
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/19.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "align_parameters",
+		"target": {
+			"$mid": 1,
+			"path": "/align_parameters/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Align parameters to column 20",
+	"source": "abaplint",
+	"startLineNumber": 27,
+	"startColumn": 18,
+	"endLineNumber": 27,
+	"endColumn": 57
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/2.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "unnecessary_chaining",
+		"target": {
+			"$mid": 1,
+			"path": "/unnecessary_chaining/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Unnecessary chaining",
+	"source": "abaplint",
+	"startLineNumber": 3,
+	"startColumn": 12,
+	"endLineNumber": 3,
+	"endColumn": 13
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/2.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "abapdoc",
+		"target": {
+			"$mid": 1,
+			"path": "/abapdoc/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Missing ABAP Doc for method hamming_distance (PUBLIC SECTION.)",
+	"source": "abaplint",
+	"startLineNumber": 3,
+	"startColumn": 14,
+	"endLineNumber": 3,
+	"endColumn": 30
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/2.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "unnecessary_chaining",
+		"target": {
+			"$mid": 1,
+			"path": "/unnecessary_chaining/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Unnecessary chaining",
+	"source": "abaplint",
+	"startLineNumber": 13,
+	"startColumn": 10,
+	"endLineNumber": 13,
+	"endColumn": 11
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/2.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "types_naming",
+		"target": {
+			"$mid": 1,
+			"path": "/types_naming/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Bad TYPES naming, expected \"^TY_.+$\", got \"tt_chars\"",
+	"source": "abaplint",
+	"startLineNumber": 13,
+	"startColumn": 12,
+	"endLineNumber": 13,
+	"endColumn": 20
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/2.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "avoid_use",
+		"target": {
+			"$mid": 1,
+			"path": "/avoid_use/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Avoid use of DEFAULT KEY",
+	"source": "abaplint",
+	"startLineNumber": 13,
+	"startColumn": 54,
+	"endLineNumber": 13,
+	"endColumn": 61
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/2.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "local_variable_names",
+		"target": {
+			"$mid": 1,
+			"path": "/local_variable_names/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Local variable name must not match pattern ^L._.+$: lt_first_strand",
+	"source": "abaplint",
+	"startLineNumber": 19,
+	"startColumn": 11,
+	"endLineNumber": 19,
+	"endColumn": 26
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/2.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_prefixes",
+		"target": {
+			"$mid": 1,
+			"path": "/no_prefixes/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Avoid hungarian notation",
+	"source": "abaplint",
+	"startLineNumber": 19,
+	"startColumn": 11,
+	"endLineNumber": 19,
+	"endColumn": 26
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/2.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "local_variable_names",
+		"target": {
+			"$mid": 1,
+			"path": "/local_variable_names/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Local variable name must not match pattern ^L._.+$: lt_second_strand",
+	"source": "abaplint",
+	"startLineNumber": 20,
+	"startColumn": 11,
+	"endLineNumber": 20,
+	"endColumn": 27
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/2.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_prefixes",
+		"target": {
+			"$mid": 1,
+			"path": "/no_prefixes/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Avoid hungarian notation",
+	"source": "abaplint",
+	"startLineNumber": 20,
+	"startColumn": 11,
+	"endLineNumber": 20,
+	"endColumn": 27
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/2.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "prefer_raise_exception_new",
+		"target": {
+			"$mid": 1,
+			"path": "/prefer_raise_exception_new/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Prefer RAISE EXCEPTION NEW to RAISE EXCEPTION TYPE",
+	"source": "abaplint",
+	"startLineNumber": 28,
+	"startColumn": 7,
+	"endLineNumber": 29,
+	"endColumn": 61
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/2.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "uncaught_exception",
+		"target": {
+			"$mid": 1,
+			"path": "/uncaught_exception/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Uncaught exception CX_PARAMETER_INVALID",
+	"source": "abaplint",
+	"startLineNumber": 28,
+	"startColumn": 7,
+	"endLineNumber": 29,
+	"endColumn": 61
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/2.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_yoda_conditions",
+		"target": {
+			"$mid": 1,
+			"path": "/no_yoda_conditions/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "No Yoda conditions",
+	"source": "abaplint",
+	"startLineNumber": 33,
+	"startColumn": 55,
+	"endLineNumber": 33,
+	"endColumn": 88
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/2.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "whitespace_end",
+		"target": {
+			"$mid": 1,
+			"path": "/whitespace_end/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Remove whitespace at end of line",
+	"source": "abaplint",
+	"startLineNumber": 33,
+	"startColumn": 88,
+	"endLineNumber": 33,
+	"endColumn": 90
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/2.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "line_length",
+		"target": {
+			"$mid": 1,
+			"path": "/line_length/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Reduce line length to max 120, currently 123",
+	"source": "abaplint",
+	"startLineNumber": 34,
+	"startColumn": 1,
+	"endLineNumber": 34,
+	"endColumn": 125
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/20.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "abapdoc",
+		"target": {
+			"$mid": 1,
+			"path": "/abapdoc/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Missing ABAP Doc for method hamming_distance (PUBLIC SECTION.)",
+	"source": "abaplint",
+	"startLineNumber": 3,
+	"startColumn": 13,
+	"endLineNumber": 3,
+	"endColumn": 29
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/20.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "prefer_raise_exception_new",
+		"target": {
+			"$mid": 1,
+			"path": "/prefer_raise_exception_new/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Prefer RAISE EXCEPTION NEW to RAISE EXCEPTION TYPE",
+	"source": "abaplint",
+	"startLineNumber": 17,
+	"startColumn": 7,
+	"endLineNumber": 19,
+	"endColumn": 55
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/20.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "definitions_top",
+		"target": {
+			"$mid": 1,
+			"path": "/definitions_top/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Reorder definitions to top of routine",
+	"source": "abaplint",
+	"startLineNumber": 22,
+	"startColumn": 5,
+	"endLineNumber": 22,
+	"endColumn": 40
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/20.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "unnecessary_chaining",
+		"target": {
+			"$mid": 1,
+			"path": "/unnecessary_chaining/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Unnecessary chaining",
+	"source": "abaplint",
+	"startLineNumber": 22,
+	"startColumn": 9,
+	"endLineNumber": 22,
+	"endColumn": 10
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/20.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "local_variable_names",
+		"target": {
+			"$mid": 1,
+			"path": "/local_variable_names/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Local variable name must not match pattern ^L._.+$: lv_diff_count",
+	"source": "abaplint",
+	"startLineNumber": 22,
+	"startColumn": 11,
+	"endLineNumber": 22,
+	"endColumn": 24
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/20.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_prefixes",
+		"target": {
+			"$mid": 1,
+			"path": "/no_prefixes/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Avoid hungarian notation",
+	"source": "abaplint",
+	"startLineNumber": 22,
+	"startColumn": 11,
+	"endLineNumber": 22,
+	"endColumn": 24
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/21.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "check_syntax",
+		"target": {
+			"$mid": 1,
+			"path": "/check_syntax/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Class \"ZCL_HAMMING\" already defined",
+	"source": "abaplint",
+	"startLineNumber": 1,
+	"startColumn": 1,
+	"endLineNumber": 1,
+	"endColumn": 6
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/21.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "abapdoc",
+		"target": {
+			"$mid": 1,
+			"path": "/abapdoc/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Missing ABAP Doc for method hamming_distance (PUBLIC SECTION.)",
+	"source": "abaplint",
+	"startLineNumber": 3,
+	"startColumn": 13,
+	"endLineNumber": 3,
+	"endColumn": 29
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/21.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"RAISE\"",
+	"source": "abaplint",
+	"startLineNumber": 23,
+	"startColumn": 7,
+	"endLineNumber": 26,
+	"endColumn": 38
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/3.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "abapdoc",
+		"target": {
+			"$mid": 1,
+			"path": "/abapdoc/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Missing ABAP Doc for method hamming_distance (PUBLIC SECTION.)",
+	"source": "abaplint",
+	"startLineNumber": 3,
+	"startColumn": 13,
+	"endLineNumber": 3,
+	"endColumn": 29
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/3.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "prefer_raise_exception_new",
+		"target": {
+			"$mid": 1,
+			"path": "/prefer_raise_exception_new/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Prefer RAISE EXCEPTION NEW to RAISE EXCEPTION TYPE",
+	"source": "abaplint",
+	"startLineNumber": 17,
+	"startColumn": 7,
+	"endLineNumber": 20,
+	"endColumn": 76
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/3.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "align_parameters",
+		"target": {
+			"$mid": 1,
+			"path": "/align_parameters/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Align parameters to column 20",
+	"source": "abaplint",
+	"startLineNumber": 19,
+	"startColumn": 18,
+	"endLineNumber": 19,
+	"endColumn": 56
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/4.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "abapdoc",
+		"target": {
+			"$mid": 1,
+			"path": "/abapdoc/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Missing ABAP Doc for method hamming_distance (INTERFACES IF_T100_MESSAGE.)",
+	"source": "abaplint",
+	"startLineNumber": 4,
+	"startColumn": 13,
+	"endLineNumber": 4,
+	"endColumn": 29
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/4.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "local_variable_names",
+		"target": {
+			"$mid": 1,
+			"path": "/local_variable_names/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Local variable name must not match pattern ^L._.+$: lv_len1",
+	"source": "abaplint",
+	"startLineNumber": 16,
+	"startColumn": 11,
+	"endLineNumber": 16,
+	"endColumn": 18
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/4.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_prefixes",
+		"target": {
+			"$mid": 1,
+			"path": "/no_prefixes/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Avoid hungarian notation",
+	"source": "abaplint",
+	"startLineNumber": 16,
+	"startColumn": 11,
+	"endLineNumber": 16,
+	"endColumn": 18
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/4.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "local_variable_names",
+		"target": {
+			"$mid": 1,
+			"path": "/local_variable_names/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Local variable name must not match pattern ^L._.+$: lv_len2",
+	"source": "abaplint",
+	"startLineNumber": 17,
+	"startColumn": 11,
+	"endLineNumber": 17,
+	"endColumn": 18
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/4.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_prefixes",
+		"target": {
+			"$mid": 1,
+			"path": "/no_prefixes/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Avoid hungarian notation",
+	"source": "abaplint",
+	"startLineNumber": 17,
+	"startColumn": 11,
+	"endLineNumber": 17,
+	"endColumn": 18
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/4.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "prefer_raise_exception_new",
+		"target": {
+			"$mid": 1,
+			"path": "/prefer_raise_exception_new/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Prefer RAISE EXCEPTION NEW to RAISE EXCEPTION TYPE",
+	"source": "abaplint",
+	"startLineNumber": 23,
+	"startColumn": 7,
+	"endLineNumber": 26,
+	"endColumn": 58
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/4.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "local_variable_names",
+		"target": {
+			"$mid": 1,
+			"path": "/local_variable_names/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Local variable name must not match pattern ^L._.+$: lv_distance",
+	"source": "abaplint",
+	"startLineNumber": 29,
+	"startColumn": 10,
+	"endLineNumber": 29,
+	"endColumn": 21
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/4.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_prefixes",
+		"target": {
+			"$mid": 1,
+			"path": "/no_prefixes/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Avoid hungarian notation",
+	"source": "abaplint",
+	"startLineNumber": 29,
+	"startColumn": 10,
+	"endLineNumber": 29,
+	"endColumn": 21
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/4.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_inline_in_optional_branches",
+		"target": {
+			"$mid": 1,
+			"path": "/no_inline_in_optional_branches/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Don't declare inline in optional branches",
+	"source": "abaplint",
+	"startLineNumber": 32,
+	"startColumn": 7,
+	"endLineNumber": 32,
+	"endColumn": 11
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/4.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "local_variable_names",
+		"target": {
+			"$mid": 1,
+			"path": "/local_variable_names/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Local variable name must not match pattern ^L._.+$: lv_index",
+	"source": "abaplint",
+	"startLineNumber": 32,
+	"startColumn": 12,
+	"endLineNumber": 32,
+	"endColumn": 20
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/4.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_prefixes",
+		"target": {
+			"$mid": 1,
+			"path": "/no_prefixes/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Avoid hungarian notation",
+	"source": "abaplint",
+	"startLineNumber": 32,
+	"startColumn": 12,
+	"endLineNumber": 32,
+	"endColumn": 20
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/5.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "check_syntax",
+		"target": {
+			"$mid": 1,
+			"path": "/check_syntax/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Class \"ZCL_HAMMING\" already defined",
+	"source": "abaplint",
+	"startLineNumber": 1,
+	"startColumn": 1,
+	"endLineNumber": 1,
+	"endColumn": 6
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/5.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "abapdoc",
+		"target": {
+			"$mid": 1,
+			"path": "/abapdoc/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Missing ABAP Doc for method hamming_distance (PUBLIC SECTION.)",
+	"source": "abaplint",
+	"startLineNumber": 3,
+	"startColumn": 13,
+	"endLineNumber": 3,
+	"endColumn": 29
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/5.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "local_variable_names",
+		"target": {
+			"$mid": 1,
+			"path": "/local_variable_names/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Local variable name must not match pattern ^L._.+$: lv_length_first",
+	"source": "abaplint",
+	"startLineNumber": 16,
+	"startColumn": 11,
+	"endLineNumber": 16,
+	"endColumn": 26
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/5.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_prefixes",
+		"target": {
+			"$mid": 1,
+			"path": "/no_prefixes/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Avoid hungarian notation",
+	"source": "abaplint",
+	"startLineNumber": 16,
+	"startColumn": 11,
+	"endLineNumber": 16,
+	"endColumn": 26
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/5.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "local_variable_names",
+		"target": {
+			"$mid": 1,
+			"path": "/local_variable_names/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Local variable name must not match pattern ^L._.+$: lv_length_second",
+	"source": "abaplint",
+	"startLineNumber": 17,
+	"startColumn": 11,
+	"endLineNumber": 17,
+	"endColumn": 27
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/5.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_prefixes",
+		"target": {
+			"$mid": 1,
+			"path": "/no_prefixes/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Avoid hungarian notation",
+	"source": "abaplint",
+	"startLineNumber": 17,
+	"startColumn": 11,
+	"endLineNumber": 17,
+	"endColumn": 27
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/5.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "prefer_raise_exception_new",
+		"target": {
+			"$mid": 1,
+			"path": "/prefer_raise_exception_new/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Prefer RAISE EXCEPTION NEW to RAISE EXCEPTION TYPE",
+	"source": "abaplint",
+	"startLineNumber": 24,
+	"startColumn": 7,
+	"endLineNumber": 26,
+	"endColumn": 52
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/6.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "abapdoc",
+		"target": {
+			"$mid": 1,
+			"path": "/abapdoc/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Missing ABAP Doc for method hamming_distance (PUBLIC SECTION.)",
+	"source": "abaplint",
+	"startLineNumber": 4,
+	"startColumn": 13,
+	"endLineNumber": 4,
+	"endColumn": 29
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/6.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "local_variable_names",
+		"target": {
+			"$mid": 1,
+			"path": "/local_variable_names/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Local variable name must not match pattern ^L._.+$: lv_length_first",
+	"source": "abaplint",
+	"startLineNumber": 19,
+	"startColumn": 11,
+	"endLineNumber": 19,
+	"endColumn": 26
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/6.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_prefixes",
+		"target": {
+			"$mid": 1,
+			"path": "/no_prefixes/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Avoid hungarian notation",
+	"source": "abaplint",
+	"startLineNumber": 19,
+	"startColumn": 11,
+	"endLineNumber": 19,
+	"endColumn": 26
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/6.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "local_variable_names",
+		"target": {
+			"$mid": 1,
+			"path": "/local_variable_names/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Local variable name must not match pattern ^L._.+$: lv_length_second",
+	"source": "abaplint",
+	"startLineNumber": 20,
+	"startColumn": 11,
+	"endLineNumber": 20,
+	"endColumn": 27
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/6.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_prefixes",
+		"target": {
+			"$mid": 1,
+			"path": "/no_prefixes/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Avoid hungarian notation",
+	"source": "abaplint",
+	"startLineNumber": 20,
+	"startColumn": 11,
+	"endLineNumber": 20,
+	"endColumn": 27
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/6.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "prefer_raise_exception_new",
+		"target": {
+			"$mid": 1,
+			"path": "/prefer_raise_exception_new/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Prefer RAISE EXCEPTION NEW to RAISE EXCEPTION TYPE",
+	"source": "abaplint",
+	"startLineNumber": 26,
+	"startColumn": 7,
+	"endLineNumber": 28,
+	"endColumn": 55
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/6.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "check_comments",
+		"target": {
+			"$mid": 1,
+			"path": "/check_comments/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Do not use end of line comments - move comment to previous row instead",
+	"source": "abaplint",
+	"startLineNumber": 31,
+	"startColumn": 17,
+	"endLineNumber": 31,
+	"endColumn": 46
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/7.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "abapdoc",
+		"target": {
+			"$mid": 1,
+			"path": "/abapdoc/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Missing ABAP Doc for method hamming_distance (PUBLIC SECTION.)",
+	"source": "abaplint",
+	"startLineNumber": 3,
+	"startColumn": 13,
+	"endLineNumber": 3,
+	"endColumn": 29
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/7.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "prefer_raise_exception_new",
+		"target": {
+			"$mid": 1,
+			"path": "/prefer_raise_exception_new/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Prefer RAISE EXCEPTION NEW to RAISE EXCEPTION TYPE",
+	"source": "abaplint",
+	"startLineNumber": 17,
+	"startColumn": 7,
+	"endLineNumber": 20,
+	"endColumn": 27
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/7.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "uncaught_exception",
+		"target": {
+			"$mid": 1,
+			"path": "/uncaught_exception/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Uncaught exception CX_PARAMETER_INVALID",
+	"source": "abaplint",
+	"startLineNumber": 17,
+	"startColumn": 7,
+	"endLineNumber": 20,
+	"endColumn": 27
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/7.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "align_parameters",
+		"target": {
+			"$mid": 1,
+			"path": "/align_parameters/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Align parameters to column 20",
+	"source": "abaplint",
+	"startLineNumber": 19,
+	"startColumn": 18,
+	"endLineNumber": 19,
+	"endColumn": 51
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/7.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "local_variable_names",
+		"target": {
+			"$mid": 1,
+			"path": "/local_variable_names/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Local variable name must not match pattern ^L._.+$: lv_distance",
+	"source": "abaplint",
+	"startLineNumber": 23,
+	"startColumn": 10,
+	"endLineNumber": 23,
+	"endColumn": 21
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/7.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_prefixes",
+		"target": {
+			"$mid": 1,
+			"path": "/no_prefixes/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Avoid hungarian notation",
+	"source": "abaplint",
+	"startLineNumber": 23,
+	"startColumn": 10,
+	"endLineNumber": 23,
+	"endColumn": 21
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/7.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"DATA\"",
+	"source": "abaplint",
+	"startLineNumber": 24,
+	"startColumn": 5,
+	"endLineNumber": 24,
+	"endColumn": 27
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/8.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "unnecessary_chaining",
+		"target": {
+			"$mid": 1,
+			"path": "/unnecessary_chaining/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Unnecessary chaining",
+	"source": "abaplint",
+	"startLineNumber": 3,
+	"startColumn": 12,
+	"endLineNumber": 3,
+	"endColumn": 13
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/8.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "abapdoc",
+		"target": {
+			"$mid": 1,
+			"path": "/abapdoc/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Missing ABAP Doc for method hamming_distance (PUBLIC SECTION.)",
+	"source": "abaplint",
+	"startLineNumber": 3,
+	"startColumn": 14,
+	"endLineNumber": 3,
+	"endColumn": 30
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/8.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "unnecessary_chaining",
+		"target": {
+			"$mid": 1,
+			"path": "/unnecessary_chaining/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Unnecessary chaining",
+	"source": "abaplint",
+	"startLineNumber": 13,
+	"startColumn": 12,
+	"endLineNumber": 13,
+	"endColumn": 13
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/8.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "method_parameter_names",
+		"target": {
+			"$mid": 1,
+			"path": "/method_parameter_names/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Method parameter name must not match pattern ^I._.+$: iv_strand1",
+	"source": "abaplint",
+	"startLineNumber": 15,
+	"startColumn": 9,
+	"endLineNumber": 15,
+	"endColumn": 19
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/8.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_prefixes",
+		"target": {
+			"$mid": 1,
+			"path": "/no_prefixes/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Avoid hungarian notation",
+	"source": "abaplint",
+	"startLineNumber": 15,
+	"startColumn": 9,
+	"endLineNumber": 15,
+	"endColumn": 19
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/8.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "method_parameter_names",
+		"target": {
+			"$mid": 1,
+			"path": "/method_parameter_names/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Method parameter name must not match pattern ^I._.+$: iv_strand2",
+	"source": "abaplint",
+	"startLineNumber": 16,
+	"startColumn": 9,
+	"endLineNumber": 16,
+	"endColumn": 19
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/8.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_prefixes",
+		"target": {
+			"$mid": 1,
+			"path": "/no_prefixes/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Avoid hungarian notation",
+	"source": "abaplint",
+	"startLineNumber": 16,
+	"startColumn": 9,
+	"endLineNumber": 16,
+	"endColumn": 19
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/8.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "line_break_multiple_parameters",
+		"target": {
+			"$mid": 1,
+			"path": "/line_break_multiple_parameters/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Line break multiple parameters",
+	"source": "abaplint",
+	"startLineNumber": 25,
+	"startColumn": 48,
+	"endLineNumber": 25,
+	"endColumn": 58
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/8.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "definitions_top",
+		"target": {
+			"$mid": 1,
+			"path": "/definitions_top/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Reorder definitions to top of routine",
+	"source": "abaplint",
+	"startLineNumber": 28,
+	"startColumn": 5,
+	"endLineNumber": 28,
+	"endColumn": 40
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/8.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "unnecessary_chaining",
+		"target": {
+			"$mid": 1,
+			"path": "/unnecessary_chaining/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Unnecessary chaining",
+	"source": "abaplint",
+	"startLineNumber": 28,
+	"startColumn": 9,
+	"endLineNumber": 28,
+	"endColumn": 10
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/8.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "local_variable_names",
+		"target": {
+			"$mid": 1,
+			"path": "/local_variable_names/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Local variable name must not match pattern ^L._.+$: lv_diff_count",
+	"source": "abaplint",
+	"startLineNumber": 28,
+	"startColumn": 11,
+	"endLineNumber": 28,
+	"endColumn": 24
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/8.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_prefixes",
+		"target": {
+			"$mid": 1,
+			"path": "/no_prefixes/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Avoid hungarian notation",
+	"source": "abaplint",
+	"startLineNumber": 28,
+	"startColumn": 11,
+	"endLineNumber": 28,
+	"endColumn": 24
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/8.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "prefer_raise_exception_new",
+		"target": {
+			"$mid": 1,
+			"path": "/prefer_raise_exception_new/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Prefer RAISE EXCEPTION NEW to RAISE EXCEPTION TYPE",
+	"source": "abaplint",
+	"startLineNumber": 44,
+	"startColumn": 7,
+	"endLineNumber": 47,
+	"endColumn": 53
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/8.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "align_parameters",
+		"target": {
+			"$mid": 1,
+			"path": "/align_parameters/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Align parameters to column 20",
+	"source": "abaplint",
+	"startLineNumber": 46,
+	"startColumn": 18,
+	"endLineNumber": 46,
+	"endColumn": 56
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/9.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "abapdoc",
+		"target": {
+			"$mid": 1,
+			"path": "/abapdoc/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Missing ABAP Doc for method hamming_distance (PUBLIC SECTION.)",
+	"source": "abaplint",
+	"startLineNumber": 3,
+	"startColumn": 13,
+	"endLineNumber": 3,
+	"endColumn": 29
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/9.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "local_variable_names",
+		"target": {
+			"$mid": 1,
+			"path": "/local_variable_names/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Local variable name must not match pattern ^L._.+$: lv_length1",
+	"source": "abaplint",
+	"startLineNumber": 15,
+	"startColumn": 11,
+	"endLineNumber": 15,
+	"endColumn": 21
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/9.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_prefixes",
+		"target": {
+			"$mid": 1,
+			"path": "/no_prefixes/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Avoid hungarian notation",
+	"source": "abaplint",
+	"startLineNumber": 15,
+	"startColumn": 11,
+	"endLineNumber": 15,
+	"endColumn": 21
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/9.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "local_variable_names",
+		"target": {
+			"$mid": 1,
+			"path": "/local_variable_names/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Local variable name must not match pattern ^L._.+$: lv_length2",
+	"source": "abaplint",
+	"startLineNumber": 16,
+	"startColumn": 11,
+	"endLineNumber": 16,
+	"endColumn": 21
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/9.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_prefixes",
+		"target": {
+			"$mid": 1,
+			"path": "/no_prefixes/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Avoid hungarian notation",
+	"source": "abaplint",
+	"startLineNumber": 16,
+	"startColumn": 11,
+	"endLineNumber": 16,
+	"endColumn": 21
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/9.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "prefer_raise_exception_new",
+		"target": {
+			"$mid": 1,
+			"path": "/prefer_raise_exception_new/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Prefer RAISE EXCEPTION NEW to RAISE EXCEPTION TYPE",
+	"source": "abaplint",
+	"startLineNumber": 22,
+	"startColumn": 7,
+	"endLineNumber": 24,
+	"endColumn": 52
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/9.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "local_variable_names",
+		"target": {
+			"$mid": 1,
+			"path": "/local_variable_names/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Local variable name must not match pattern ^L._.+$: lv_distance",
+	"source": "abaplint",
+	"startLineNumber": 27,
+	"startColumn": 10,
+	"endLineNumber": 27,
+	"endColumn": 21
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 3 - DNA/3_GPT4_CC/9.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_prefixes",
+		"target": {
+			"$mid": 1,
+			"path": "/no_prefixes/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Avoid hungarian notation",
+	"source": "abaplint",
+	"startLineNumber": 27,
+	"startColumn": 10,
+	"endLineNumber": 27,
+	"endColumn": 21
+}]

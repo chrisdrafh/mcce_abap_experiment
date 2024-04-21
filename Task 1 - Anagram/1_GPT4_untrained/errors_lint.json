@@ -1,0 +1,3934 @@
+[{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/1.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "abapdoc",
+		"target": {
+			"$mid": 1,
+			"path": "/abapdoc/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Missing ABAP Doc for method anagram (PUBLIC SECTION.)",
+	"source": "abaplint",
+	"startLineNumber": 7,
+	"startColumn": 13,
+	"endLineNumber": 7,
+	"endColumn": 20
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/1.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "prefer_inline",
+		"target": {
+			"$mid": 1,
+			"path": "/prefer_inline/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Prefer Inline Declarations, NORMALIZED_INPUT",
+	"source": "abaplint",
+	"startLineNumber": 26,
+	"startColumn": 10,
+	"endLineNumber": 26,
+	"endColumn": 26
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/1.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_inline_in_optional_branches",
+		"target": {
+			"$mid": 1,
+			"path": "/no_inline_in_optional_branches/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Don't declare inline in optional branches",
+	"source": "abaplint",
+	"startLineNumber": 29,
+	"startColumn": 29,
+	"endLineNumber": 29,
+	"endColumn": 33
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/1.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"SORT\"",
+	"source": "abaplint",
+	"startLineNumber": 43,
+	"startColumn": 5,
+	"endLineNumber": 43,
+	"endColumn": 41
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/10.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "abapdoc",
+		"target": {
+			"$mid": 1,
+			"path": "/abapdoc/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Missing ABAP Doc for method anagram (PUBLIC SECTION.)",
+	"source": "abaplint",
+	"startLineNumber": 7,
+	"startColumn": 13,
+	"endLineNumber": 7,
+	"endColumn": 20
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/10.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "method_parameter_names",
+		"target": {
+			"$mid": 1,
+			"path": "/method_parameter_names/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Method parameter name must not match pattern ^I._.+$: iv_str",
+	"source": "abaplint",
+	"startLineNumber": 18,
+	"startColumn": 9,
+	"endLineNumber": 18,
+	"endColumn": 15
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/10.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_prefixes",
+		"target": {
+			"$mid": 1,
+			"path": "/no_prefixes/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Avoid hungarian notation",
+	"source": "abaplint",
+	"startLineNumber": 18,
+	"startColumn": 9,
+	"endLineNumber": 18,
+	"endColumn": 15
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/10.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "method_parameter_names",
+		"target": {
+			"$mid": 1,
+			"path": "/method_parameter_names/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Method parameter name must not match pattern ^R._.+$: rv_str",
+	"source": "abaplint",
+	"startLineNumber": 20,
+	"startColumn": 15,
+	"endLineNumber": 20,
+	"endColumn": 21
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/10.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_prefixes",
+		"target": {
+			"$mid": 1,
+			"path": "/no_prefixes/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Avoid hungarian notation",
+	"source": "abaplint",
+	"startLineNumber": 20,
+	"startColumn": 15,
+	"endLineNumber": 20,
+	"endColumn": 21
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/10.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "unnecessary_chaining",
+		"target": {
+			"$mid": 1,
+			"path": "/unnecessary_chaining/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Unnecessary chaining",
+	"source": "abaplint",
+	"startLineNumber": 28,
+	"startColumn": 9,
+	"endLineNumber": 28,
+	"endColumn": 10
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/10.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "local_variable_names",
+		"target": {
+			"$mid": 1,
+			"path": "/local_variable_names/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Local variable name must not match pattern ^L._.+$: lv_input_normalized",
+	"source": "abaplint",
+	"startLineNumber": 28,
+	"startColumn": 11,
+	"endLineNumber": 28,
+	"endColumn": 30
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/10.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_prefixes",
+		"target": {
+			"$mid": 1,
+			"path": "/no_prefixes/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Avoid hungarian notation",
+	"source": "abaplint",
+	"startLineNumber": 28,
+	"startColumn": 11,
+	"endLineNumber": 28,
+	"endColumn": 30
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/10.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_inline_in_optional_branches",
+		"target": {
+			"$mid": 1,
+			"path": "/no_inline_in_optional_branches/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Don't declare inline in optional branches",
+	"source": "abaplint",
+	"startLineNumber": 34,
+	"startColumn": 29,
+	"endLineNumber": 34,
+	"endColumn": 33
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/10.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "local_variable_names",
+		"target": {
+			"$mid": 1,
+			"path": "/local_variable_names/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Local variable name must not match pattern ^L._.+$: lv_candidate",
+	"source": "abaplint",
+	"startLineNumber": 34,
+	"startColumn": 34,
+	"endLineNumber": 34,
+	"endColumn": 46
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/10.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_prefixes",
+		"target": {
+			"$mid": 1,
+			"path": "/no_prefixes/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Avoid hungarian notation",
+	"source": "abaplint",
+	"startLineNumber": 34,
+	"startColumn": 34,
+	"endLineNumber": 34,
+	"endColumn": 46
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/10.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "check_comments",
+		"target": {
+			"$mid": 1,
+			"path": "/check_comments/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Do not use end of line comments - move comment to previous row instead",
+	"source": "abaplint",
+	"startLineNumber": 37,
+	"startColumn": 19,
+	"endLineNumber": 37,
+	"endColumn": 45
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/10.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "check_syntax",
+		"target": {
+			"$mid": 1,
+			"path": "/check_syntax/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Method \"sort\" not found, methodCallChain",
+	"source": "abaplint",
+	"startLineNumber": 41,
+	"startColumn": 7,
+	"endLineNumber": 41,
+	"endColumn": 9
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/10.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "check_syntax",
+		"target": {
+			"$mid": 1,
+			"path": "/check_syntax/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "\"lv_candidate\" not found, findTop",
+	"source": "abaplint",
+	"startLineNumber": 50,
+	"startColumn": 5,
+	"endLineNumber": 50,
+	"endColumn": 11
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/10.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "check_syntax",
+		"target": {
+			"$mid": 1,
+			"path": "/check_syntax/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "SORT, must be a internal table",
+	"source": "abaplint",
+	"startLineNumber": 52,
+	"startColumn": 5,
+	"endLineNumber": 52,
+	"endColumn": 9
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/11.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "structure",
+		"target": {
+			"$mid": 1,
+			"path": "/structure/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Expected ENDMETHOD",
+	"source": "abaplint",
+	"startLineNumber": 1,
+	"startColumn": 1,
+	"endLineNumber": 1,
+	"endColumn": 29
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/11.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "unnecessary_chaining",
+		"target": {
+			"$mid": 1,
+			"path": "/unnecessary_chaining/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Unnecessary chaining",
+	"source": "abaplint",
+	"startLineNumber": 28,
+	"startColumn": 9,
+	"endLineNumber": 28,
+	"endColumn": 10
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/11.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"IF\"",
+	"source": "abaplint",
+	"startLineNumber": 32,
+	"startColumn": 7,
+	"endLineNumber": 32,
+	"endColumn": 99
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/11.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "unnecessary_chaining",
+		"target": {
+			"$mid": 1,
+			"path": "/unnecessary_chaining/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Unnecessary chaining",
+	"source": "abaplint",
+	"startLineNumber": 53,
+	"startColumn": 9,
+	"endLineNumber": 53,
+	"endColumn": 10
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/11.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "fully_type_itabs",
+		"target": {
+			"$mid": 1,
+			"path": "/fully_type_itabs/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Specify table type",
+	"source": "abaplint",
+	"startLineNumber": 53,
+	"startColumn": 20,
+	"endLineNumber": 53,
+	"endColumn": 39
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/11.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "unnecessary_chaining",
+		"target": {
+			"$mid": 1,
+			"path": "/unnecessary_chaining/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Unnecessary chaining",
+	"source": "abaplint",
+	"startLineNumber": 54,
+	"startColumn": 18,
+	"endLineNumber": 54,
+	"endColumn": 19
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/12.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "abapdoc",
+		"target": {
+			"$mid": 1,
+			"path": "/abapdoc/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Missing ABAP Doc for method anagram (PUBLIC SECTION.)",
+	"source": "abaplint",
+	"startLineNumber": 7,
+	"startColumn": 13,
+	"endLineNumber": 7,
+	"endColumn": 20
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/12.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "method_parameter_names",
+		"target": {
+			"$mid": 1,
+			"path": "/method_parameter_names/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Method parameter name must not match pattern ^I._.+$: iv_string",
+	"source": "abaplint",
+	"startLineNumber": 18,
+	"startColumn": 9,
+	"endLineNumber": 18,
+	"endColumn": 18
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/12.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_prefixes",
+		"target": {
+			"$mid": 1,
+			"path": "/no_prefixes/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Avoid hungarian notation",
+	"source": "abaplint",
+	"startLineNumber": 18,
+	"startColumn": 9,
+	"endLineNumber": 18,
+	"endColumn": 18
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/12.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "method_parameter_names",
+		"target": {
+			"$mid": 1,
+			"path": "/method_parameter_names/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Method parameter name must not match pattern ^R._.+$: rv_string",
+	"source": "abaplint",
+	"startLineNumber": 20,
+	"startColumn": 15,
+	"endLineNumber": 20,
+	"endColumn": 24
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/12.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_prefixes",
+		"target": {
+			"$mid": 1,
+			"path": "/no_prefixes/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Avoid hungarian notation",
+	"source": "abaplint",
+	"startLineNumber": 20,
+	"startColumn": 15,
+	"endLineNumber": 20,
+	"endColumn": 24
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/12.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "local_variable_names",
+		"target": {
+			"$mid": 1,
+			"path": "/local_variable_names/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Local variable name must not match pattern ^L._.+$: lv_normalized_input",
+	"source": "abaplint",
+	"startLineNumber": 26,
+	"startColumn": 11,
+	"endLineNumber": 26,
+	"endColumn": 30
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/12.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_prefixes",
+		"target": {
+			"$mid": 1,
+			"path": "/no_prefixes/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Avoid hungarian notation",
+	"source": "abaplint",
+	"startLineNumber": 26,
+	"startColumn": 11,
+	"endLineNumber": 26,
+	"endColumn": 30
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/12.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "local_variable_names",
+		"target": {
+			"$mid": 1,
+			"path": "/local_variable_names/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Local variable name must not match pattern ^L._.+$: lv_normalized_candidate",
+	"source": "abaplint",
+	"startLineNumber": 27,
+	"startColumn": 11,
+	"endLineNumber": 27,
+	"endColumn": 34
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/12.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_prefixes",
+		"target": {
+			"$mid": 1,
+			"path": "/no_prefixes/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Avoid hungarian notation",
+	"source": "abaplint",
+	"startLineNumber": 27,
+	"startColumn": 11,
+	"endLineNumber": 27,
+	"endColumn": 34
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/12.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_inline_in_optional_branches",
+		"target": {
+			"$mid": 1,
+			"path": "/no_inline_in_optional_branches/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Don't declare inline in optional branches",
+	"source": "abaplint",
+	"startLineNumber": 33,
+	"startColumn": 29,
+	"endLineNumber": 33,
+	"endColumn": 33
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/12.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "local_variable_names",
+		"target": {
+			"$mid": 1,
+			"path": "/local_variable_names/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Local variable name must not match pattern ^L._.+$: lv_candidate",
+	"source": "abaplint",
+	"startLineNumber": 33,
+	"startColumn": 34,
+	"endLineNumber": 33,
+	"endColumn": 46
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/12.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_prefixes",
+		"target": {
+			"$mid": 1,
+			"path": "/no_prefixes/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Avoid hungarian notation",
+	"source": "abaplint",
+	"startLineNumber": 33,
+	"startColumn": 34,
+	"endLineNumber": 33,
+	"endColumn": 46
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/12.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"DATA\"",
+	"source": "abaplint",
+	"startLineNumber": 46,
+	"startColumn": 5,
+	"endLineNumber": 46,
+	"endColumn": 45
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/12.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "unnecessary_chaining",
+		"target": {
+			"$mid": 1,
+			"path": "/unnecessary_chaining/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Unnecessary chaining",
+	"source": "abaplint",
+	"startLineNumber": 46,
+	"startColumn": 9,
+	"endLineNumber": 46,
+	"endColumn": 10
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/12.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "check_syntax",
+		"target": {
+			"$mid": 1,
+			"path": "/check_syntax/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "\"lt_chars\" not found, Target",
+	"source": "abaplint",
+	"startLineNumber": 49,
+	"startColumn": 5,
+	"endLineNumber": 49,
+	"endColumn": 13
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/12.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "check_syntax",
+		"target": {
+			"$mid": 1,
+			"path": "/check_syntax/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "\"lt_chars\" not found, Target",
+	"source": "abaplint",
+	"startLineNumber": 51,
+	"startColumn": 5,
+	"endLineNumber": 51,
+	"endColumn": 9
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/12.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "check_syntax",
+		"target": {
+			"$mid": 1,
+			"path": "/check_syntax/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Method \"vertical_to_horizontal\" not found, methodCallChain",
+	"source": "abaplint",
+	"startLineNumber": 53,
+	"startColumn": 5,
+	"endLineNumber": 53,
+	"endColumn": 14
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/13.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "abapdoc",
+		"target": {
+			"$mid": 1,
+			"path": "/abapdoc/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Missing ABAP Doc for method anagram (PUBLIC SECTION.)",
+	"source": "abaplint",
+	"startLineNumber": 7,
+	"startColumn": 13,
+	"endLineNumber": 7,
+	"endColumn": 20
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/13.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "prefer_inline",
+		"target": {
+			"$mid": 1,
+			"path": "/prefer_inline/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Prefer Inline Declarations, NORMALIZED_INPUT",
+	"source": "abaplint",
+	"startLineNumber": 24,
+	"startColumn": 11,
+	"endLineNumber": 24,
+	"endColumn": 27
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/13.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "prefer_inline",
+		"target": {
+			"$mid": 1,
+			"path": "/prefer_inline/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Prefer Inline Declarations, NORMALIZED_CANDIDATE",
+	"source": "abaplint",
+	"startLineNumber": 25,
+	"startColumn": 11,
+	"endLineNumber": 25,
+	"endColumn": 31
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/13.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_inline_in_optional_branches",
+		"target": {
+			"$mid": 1,
+			"path": "/no_inline_in_optional_branches/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Don't declare inline in optional branches",
+	"source": "abaplint",
+	"startLineNumber": 31,
+	"startColumn": 29,
+	"endLineNumber": 31,
+	"endColumn": 33
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/13.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"SORT\"",
+	"source": "abaplint",
+	"startLineNumber": 46,
+	"startColumn": 5,
+	"endLineNumber": 46,
+	"endColumn": 34
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/14.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "structure",
+		"target": {
+			"$mid": 1,
+			"path": "/structure/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Expected ENDMETHOD",
+	"source": "abaplint",
+	"startLineNumber": 1,
+	"startColumn": 1,
+	"endLineNumber": 1,
+	"endColumn": 29
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/14.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"DATA\"",
+	"source": "abaplint",
+	"startLineNumber": 39,
+	"startColumn": 5,
+	"endLineNumber": 39,
+	"endColumn": 45
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/14.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "unnecessary_chaining",
+		"target": {
+			"$mid": 1,
+			"path": "/unnecessary_chaining/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Unnecessary chaining",
+	"source": "abaplint",
+	"startLineNumber": 39,
+	"startColumn": 9,
+	"endLineNumber": 39,
+	"endColumn": 10
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/14.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"CONCATENATE\"",
+	"source": "abaplint",
+	"startLineNumber": 50,
+	"startColumn": 7,
+	"endLineNumber": 50,
+	"endColumn": 34
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/15.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "structure",
+		"target": {
+			"$mid": 1,
+			"path": "/structure/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Expected ENDMETHOD",
+	"source": "abaplint",
+	"startLineNumber": 1,
+	"startColumn": 1,
+	"endLineNumber": 1,
+	"endColumn": 29
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/15.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"IF\"",
+	"source": "abaplint",
+	"startLineNumber": 31,
+	"startColumn": 7,
+	"endLineNumber": 31,
+	"endColumn": 76
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/15.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"DATA\"",
+	"source": "abaplint",
+	"startLineNumber": 38,
+	"startColumn": 5,
+	"endLineNumber": 38,
+	"endColumn": 40
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/15.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"DATA\"",
+	"source": "abaplint",
+	"startLineNumber": 39,
+	"startColumn": 5,
+	"endLineNumber": 39,
+	"endColumn": 40
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/16.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "structure",
+		"target": {
+			"$mid": 1,
+			"path": "/structure/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Expected ENDMETHOD",
+	"source": "abaplint",
+	"startLineNumber": 1,
+	"startColumn": 1,
+	"endLineNumber": 1,
+	"endColumn": 29
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/16.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "unnecessary_chaining",
+		"target": {
+			"$mid": 1,
+			"path": "/unnecessary_chaining/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Unnecessary chaining",
+	"source": "abaplint",
+	"startLineNumber": 7,
+	"startColumn": 12,
+	"endLineNumber": 7,
+	"endColumn": 13
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/16.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"IF\"",
+	"source": "abaplint",
+	"startLineNumber": 35,
+	"startColumn": 7,
+	"endLineNumber": 35,
+	"endColumn": 97
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/16.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "fully_type_itabs",
+		"target": {
+			"$mid": 1,
+			"path": "/fully_type_itabs/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Specify table type",
+	"source": "abaplint",
+	"startLineNumber": 53,
+	"startColumn": 20,
+	"endLineNumber": 53,
+	"endColumn": 39
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/17.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "abapdoc",
+		"target": {
+			"$mid": 1,
+			"path": "/abapdoc/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Missing ABAP Doc for method anagram (PUBLIC SECTION.)",
+	"source": "abaplint",
+	"startLineNumber": 7,
+	"startColumn": 13,
+	"endLineNumber": 7,
+	"endColumn": 20
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/17.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "whitespace_end",
+		"target": {
+			"$mid": 1,
+			"path": "/whitespace_end/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Remove whitespace at end of line",
+	"source": "abaplint",
+	"startLineNumber": 13,
+	"startColumn": 1,
+	"endLineNumber": 13,
+	"endColumn": 3
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/17.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "whitespace_end",
+		"target": {
+			"$mid": 1,
+			"path": "/whitespace_end/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Remove whitespace at end of line",
+	"source": "abaplint",
+	"startLineNumber": 15,
+	"startColumn": 1,
+	"endLineNumber": 15,
+	"endColumn": 3
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/17.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "method_parameter_names",
+		"target": {
+			"$mid": 1,
+			"path": "/method_parameter_names/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Method parameter name must not match pattern ^I._.+$: iv_word",
+	"source": "abaplint",
+	"startLineNumber": 19,
+	"startColumn": 9,
+	"endLineNumber": 19,
+	"endColumn": 16
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/17.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_prefixes",
+		"target": {
+			"$mid": 1,
+			"path": "/no_prefixes/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Avoid hungarian notation",
+	"source": "abaplint",
+	"startLineNumber": 19,
+	"startColumn": 9,
+	"endLineNumber": 19,
+	"endColumn": 16
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/17.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "method_parameter_names",
+		"target": {
+			"$mid": 1,
+			"path": "/method_parameter_names/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Method parameter name must not match pattern ^R._.+$: rv_normalized",
+	"source": "abaplint",
+	"startLineNumber": 21,
+	"startColumn": 15,
+	"endLineNumber": 21,
+	"endColumn": 28
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/17.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_prefixes",
+		"target": {
+			"$mid": 1,
+			"path": "/no_prefixes/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Avoid hungarian notation",
+	"source": "abaplint",
+	"startLineNumber": 21,
+	"startColumn": 15,
+	"endLineNumber": 21,
+	"endColumn": 28
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/17.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "unnecessary_chaining",
+		"target": {
+			"$mid": 1,
+			"path": "/unnecessary_chaining/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Unnecessary chaining",
+	"source": "abaplint",
+	"startLineNumber": 26,
+	"startColumn": 9,
+	"endLineNumber": 26,
+	"endColumn": 10
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/17.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_inline_in_optional_branches",
+		"target": {
+			"$mid": 1,
+			"path": "/no_inline_in_optional_branches/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Don't declare inline in optional branches",
+	"source": "abaplint",
+	"startLineNumber": 29,
+	"startColumn": 29,
+	"endLineNumber": 29,
+	"endColumn": 33
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/17.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_yoda_conditions",
+		"target": {
+			"$mid": 1,
+			"path": "/no_yoda_conditions/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "No Yoda conditions",
+	"source": "abaplint",
+	"startLineNumber": 30,
+	"startColumn": 10,
+	"endLineNumber": 30,
+	"endColumn": 56
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/17.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "unnecessary_chaining",
+		"target": {
+			"$mid": 1,
+			"path": "/unnecessary_chaining/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Unnecessary chaining",
+	"source": "abaplint",
+	"startLineNumber": 37,
+	"startColumn": 9,
+	"endLineNumber": 37,
+	"endColumn": 10
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/17.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "local_variable_names",
+		"target": {
+			"$mid": 1,
+			"path": "/local_variable_names/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Local variable name must not match pattern ^L._.+$: lt_chars",
+	"source": "abaplint",
+	"startLineNumber": 37,
+	"startColumn": 11,
+	"endLineNumber": 37,
+	"endColumn": 19
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/17.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_prefixes",
+		"target": {
+			"$mid": 1,
+			"path": "/no_prefixes/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Avoid hungarian notation",
+	"source": "abaplint",
+	"startLineNumber": 37,
+	"startColumn": 11,
+	"endLineNumber": 37,
+	"endColumn": 19
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/17.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "fully_type_itabs",
+		"target": {
+			"$mid": 1,
+			"path": "/fully_type_itabs/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Specify table type",
+	"source": "abaplint",
+	"startLineNumber": 37,
+	"startColumn": 20,
+	"endLineNumber": 37,
+	"endColumn": 39
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/17.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "check_syntax",
+		"target": {
+			"$mid": 1,
+			"path": "/check_syntax/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "\"lv_normalized\" not found, Target",
+	"source": "abaplint",
+	"startLineNumber": 40,
+	"startColumn": 5,
+	"endLineNumber": 40,
+	"endColumn": 18
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/17.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "check_syntax",
+		"target": {
+			"$mid": 1,
+			"path": "/check_syntax/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "\"lv_normalized\" not found, findTop",
+	"source": "abaplint",
+	"startLineNumber": 41,
+	"startColumn": 5,
+	"endLineNumber": 41,
+	"endColumn": 13
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/18.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "structure",
+		"target": {
+			"$mid": 1,
+			"path": "/structure/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Expected ENDMETHOD",
+	"source": "abaplint",
+	"startLineNumber": 1,
+	"startColumn": 1,
+	"endLineNumber": 1,
+	"endColumn": 29
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/18.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "unnecessary_chaining",
+		"target": {
+			"$mid": 1,
+			"path": "/unnecessary_chaining/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Unnecessary chaining",
+	"source": "abaplint",
+	"startLineNumber": 34,
+	"startColumn": 9,
+	"endLineNumber": 34,
+	"endColumn": 10
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/18.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"IF\"",
+	"source": "abaplint",
+	"startLineNumber": 38,
+	"startColumn": 7,
+	"endLineNumber": 39,
+	"endColumn": 29
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/18.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"SORT\"",
+	"source": "abaplint",
+	"startLineNumber": 50,
+	"startColumn": 5,
+	"endLineNumber": 50,
+	"endColumn": 61
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/19.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "structure",
+		"target": {
+			"$mid": 1,
+			"path": "/structure/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Expected ENDMETHOD",
+	"source": "abaplint",
+	"startLineNumber": 1,
+	"startColumn": 1,
+	"endLineNumber": 1,
+	"endColumn": 29
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/19.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "unnecessary_chaining",
+		"target": {
+			"$mid": 1,
+			"path": "/unnecessary_chaining/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Unnecessary chaining",
+	"source": "abaplint",
+	"startLineNumber": 25,
+	"startColumn": 9,
+	"endLineNumber": 25,
+	"endColumn": 10
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/19.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"IF\"",
+	"source": "abaplint",
+	"startLineNumber": 31,
+	"startColumn": 7,
+	"endLineNumber": 31,
+	"endColumn": 92
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/19.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "unnecessary_chaining",
+		"target": {
+			"$mid": 1,
+			"path": "/unnecessary_chaining/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Unnecessary chaining",
+	"source": "abaplint",
+	"startLineNumber": 38,
+	"startColumn": 9,
+	"endLineNumber": 38,
+	"endColumn": 10
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/19.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "fully_type_itabs",
+		"target": {
+			"$mid": 1,
+			"path": "/fully_type_itabs/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Specify table type",
+	"source": "abaplint",
+	"startLineNumber": 38,
+	"startColumn": 20,
+	"endLineNumber": 38,
+	"endColumn": 39
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/19.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"EXPORTING\"",
+	"source": "abaplint",
+	"startLineNumber": 52,
+	"startColumn": 3,
+	"endLineNumber": 56,
+	"endColumn": 35
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/2.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "structure",
+		"target": {
+			"$mid": 1,
+			"path": "/structure/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Expected ENDMETHOD",
+	"source": "abaplint",
+	"startLineNumber": 1,
+	"startColumn": 1,
+	"endLineNumber": 1,
+	"endColumn": 29
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/2.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "types_naming",
+		"target": {
+			"$mid": 1,
+			"path": "/types_naming/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Bad TYPES naming, expected \"^TY_.+$\", got \"tt_candidates\"",
+	"source": "abaplint",
+	"startLineNumber": 10,
+	"startColumn": 12,
+	"endLineNumber": 10,
+	"endColumn": 25
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/2.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "avoid_use",
+		"target": {
+			"$mid": 1,
+			"path": "/avoid_use/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Avoid use of DEFAULT KEY",
+	"source": "abaplint",
+	"startLineNumber": 10,
+	"startColumn": 67,
+	"endLineNumber": 10,
+	"endColumn": 74
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/2.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"IF\"",
+	"source": "abaplint",
+	"startLineNumber": 33,
+	"startColumn": 7,
+	"endLineNumber": 33,
+	"endColumn": 46
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/2.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"SORT\"",
+	"source": "abaplint",
+	"startLineNumber": 51,
+	"startColumn": 5,
+	"endLineNumber": 51,
+	"endColumn": 69
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/2.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"SORT\"",
+	"source": "abaplint",
+	"startLineNumber": 52,
+	"startColumn": 5,
+	"endLineNumber": 52,
+	"endColumn": 69
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/20.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_prefixes",
+		"target": {
+			"$mid": 1,
+			"path": "/no_prefixes/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Avoid hungarian notation",
+	"source": "abaplint",
+	"startLineNumber": 7,
+	"startColumn": 21,
+	"endLineNumber": 7,
+	"endColumn": 33
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/20.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "types_naming",
+		"target": {
+			"$mid": 1,
+			"path": "/types_naming/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Bad TYPES naming, expected \"^TY_.+$\", got \"tt_sort_char\"",
+	"source": "abaplint",
+	"startLineNumber": 10,
+	"startColumn": 12,
+	"endLineNumber": 10,
+	"endColumn": 24
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/20.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "abapdoc",
+		"target": {
+			"$mid": 1,
+			"path": "/abapdoc/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Missing ABAP Doc for method anagram ()",
+	"source": "abaplint",
+	"startLineNumber": 12,
+	"startColumn": 13,
+	"endLineNumber": 12,
+	"endColumn": 20
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/20.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "method_parameter_names",
+		"target": {
+			"$mid": 1,
+			"path": "/method_parameter_names/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Method parameter name must not match pattern ^I._.+$: iv_string",
+	"source": "abaplint",
+	"startLineNumber": 23,
+	"startColumn": 9,
+	"endLineNumber": 23,
+	"endColumn": 18
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/20.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_prefixes",
+		"target": {
+			"$mid": 1,
+			"path": "/no_prefixes/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Avoid hungarian notation",
+	"source": "abaplint",
+	"startLineNumber": 23,
+	"startColumn": 9,
+	"endLineNumber": 23,
+	"endColumn": 18
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/20.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "method_parameter_names",
+		"target": {
+			"$mid": 1,
+			"path": "/method_parameter_names/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Method parameter name must not match pattern ^R._.+$: rv_string",
+	"source": "abaplint",
+	"startLineNumber": 25,
+	"startColumn": 15,
+	"endLineNumber": 25,
+	"endColumn": 24
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/20.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_prefixes",
+		"target": {
+			"$mid": 1,
+			"path": "/no_prefixes/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Avoid hungarian notation",
+	"source": "abaplint",
+	"startLineNumber": 25,
+	"startColumn": 15,
+	"endLineNumber": 25,
+	"endColumn": 24
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/20.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "unnecessary_chaining",
+		"target": {
+			"$mid": 1,
+			"path": "/unnecessary_chaining/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Unnecessary chaining",
+	"source": "abaplint",
+	"startLineNumber": 31,
+	"startColumn": 9,
+	"endLineNumber": 31,
+	"endColumn": 10
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/20.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "local_variable_names",
+		"target": {
+			"$mid": 1,
+			"path": "/local_variable_names/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Local variable name must not match pattern ^L._.+$: lv_input_sorted",
+	"source": "abaplint",
+	"startLineNumber": 31,
+	"startColumn": 11,
+	"endLineNumber": 31,
+	"endColumn": 26
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/20.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_prefixes",
+		"target": {
+			"$mid": 1,
+			"path": "/no_prefixes/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Avoid hungarian notation",
+	"source": "abaplint",
+	"startLineNumber": 31,
+	"startColumn": 11,
+	"endLineNumber": 31,
+	"endColumn": 26
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/20.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "prefer_inline",
+		"target": {
+			"$mid": 1,
+			"path": "/prefer_inline/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Prefer Inline Declarations, LV_INPUT_SORTED",
+	"source": "abaplint",
+	"startLineNumber": 31,
+	"startColumn": 11,
+	"endLineNumber": 31,
+	"endColumn": 26
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/20.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_inline_in_optional_branches",
+		"target": {
+			"$mid": 1,
+			"path": "/no_inline_in_optional_branches/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Don't declare inline in optional branches",
+	"source": "abaplint",
+	"startLineNumber": 36,
+	"startColumn": 29,
+	"endLineNumber": 36,
+	"endColumn": 33
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/20.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "local_variable_names",
+		"target": {
+			"$mid": 1,
+			"path": "/local_variable_names/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Local variable name must not match pattern ^L._.+$: lv_candidate",
+	"source": "abaplint",
+	"startLineNumber": 36,
+	"startColumn": 34,
+	"endLineNumber": 36,
+	"endColumn": 46
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/20.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_prefixes",
+		"target": {
+			"$mid": 1,
+			"path": "/no_prefixes/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Avoid hungarian notation",
+	"source": "abaplint",
+	"startLineNumber": 36,
+	"startColumn": 34,
+	"endLineNumber": 36,
+	"endColumn": 46
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/20.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "local_variable_names",
+		"target": {
+			"$mid": 1,
+			"path": "/local_variable_names/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Local variable name must not match pattern ^L._.+$: lt_char_table",
+	"source": "abaplint",
+	"startLineNumber": 44,
+	"startColumn": 11,
+	"endLineNumber": 44,
+	"endColumn": 24
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/20.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_prefixes",
+		"target": {
+			"$mid": 1,
+			"path": "/no_prefixes/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Avoid hungarian notation",
+	"source": "abaplint",
+	"startLineNumber": 44,
+	"startColumn": 11,
+	"endLineNumber": 44,
+	"endColumn": 24
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/20.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "local_variable_names",
+		"target": {
+			"$mid": 1,
+			"path": "/local_variable_names/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Local variable name must not match pattern ^L._.+$: lv_char",
+	"source": "abaplint",
+	"startLineNumber": 45,
+	"startColumn": 11,
+	"endLineNumber": 45,
+	"endColumn": 18
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/20.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_prefixes",
+		"target": {
+			"$mid": 1,
+			"path": "/no_prefixes/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Avoid hungarian notation",
+	"source": "abaplint",
+	"startLineNumber": 45,
+	"startColumn": 11,
+	"endLineNumber": 45,
+	"endColumn": 18
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/21.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "abapdoc",
+		"target": {
+			"$mid": 1,
+			"path": "/abapdoc/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Missing ABAP Doc for method anagram (PUBLIC SECTION.)",
+	"source": "abaplint",
+	"startLineNumber": 7,
+	"startColumn": 13,
+	"endLineNumber": 7,
+	"endColumn": 20
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/21.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "unnecessary_chaining",
+		"target": {
+			"$mid": 1,
+			"path": "/unnecessary_chaining/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Unnecessary chaining",
+	"source": "abaplint",
+	"startLineNumber": 20,
+	"startColumn": 9,
+	"endLineNumber": 20,
+	"endColumn": 10
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/21.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "local_variable_names",
+		"target": {
+			"$mid": 1,
+			"path": "/local_variable_names/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Local variable name must not match pattern ^L._.+$: lv_input_sorted",
+	"source": "abaplint",
+	"startLineNumber": 20,
+	"startColumn": 11,
+	"endLineNumber": 20,
+	"endColumn": 26
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/21.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_prefixes",
+		"target": {
+			"$mid": 1,
+			"path": "/no_prefixes/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Avoid hungarian notation",
+	"source": "abaplint",
+	"startLineNumber": 20,
+	"startColumn": 11,
+	"endLineNumber": 20,
+	"endColumn": 26
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/21.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "unnecessary_chaining",
+		"target": {
+			"$mid": 1,
+			"path": "/unnecessary_chaining/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Unnecessary chaining",
+	"source": "abaplint",
+	"startLineNumber": 21,
+	"startColumn": 9,
+	"endLineNumber": 21,
+	"endColumn": 10
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/21.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "local_variable_names",
+		"target": {
+			"$mid": 1,
+			"path": "/local_variable_names/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Local variable name must not match pattern ^L._.+$: lv_candidate_sorted",
+	"source": "abaplint",
+	"startLineNumber": 21,
+	"startColumn": 11,
+	"endLineNumber": 21,
+	"endColumn": 30
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/21.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_prefixes",
+		"target": {
+			"$mid": 1,
+			"path": "/no_prefixes/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Avoid hungarian notation",
+	"source": "abaplint",
+	"startLineNumber": 21,
+	"startColumn": 11,
+	"endLineNumber": 21,
+	"endColumn": 30
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/21.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "unnecessary_chaining",
+		"target": {
+			"$mid": 1,
+			"path": "/unnecessary_chaining/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Unnecessary chaining",
+	"source": "abaplint",
+	"startLineNumber": 22,
+	"startColumn": 18,
+	"endLineNumber": 22,
+	"endColumn": 19
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/21.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "check_syntax",
+		"target": {
+			"$mid": 1,
+			"path": "/check_syntax/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "SORT, must be a internal table",
+	"source": "abaplint",
+	"startLineNumber": 26,
+	"startColumn": 5,
+	"endLineNumber": 26,
+	"endColumn": 9
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/21.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_inline_in_optional_branches",
+		"target": {
+			"$mid": 1,
+			"path": "/no_inline_in_optional_branches/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Don't declare inline in optional branches",
+	"source": "abaplint",
+	"startLineNumber": 30,
+	"startColumn": 7,
+	"endLineNumber": 30,
+	"endColumn": 11
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/21.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "local_variable_names",
+		"target": {
+			"$mid": 1,
+			"path": "/local_variable_names/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Local variable name must not match pattern ^L._.+$: lv_candidate",
+	"source": "abaplint",
+	"startLineNumber": 30,
+	"startColumn": 12,
+	"endLineNumber": 30,
+	"endColumn": 24
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/21.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_prefixes",
+		"target": {
+			"$mid": 1,
+			"path": "/no_prefixes/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Avoid hungarian notation",
+	"source": "abaplint",
+	"startLineNumber": 30,
+	"startColumn": 12,
+	"endLineNumber": 30,
+	"endColumn": 24
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/21.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "whitespace_end",
+		"target": {
+			"$mid": 1,
+			"path": "/whitespace_end/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Remove whitespace at end of line",
+	"source": "abaplint",
+	"startLineNumber": 31,
+	"startColumn": 1,
+	"endLineNumber": 31,
+	"endColumn": 7
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/21.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "whitespace_end",
+		"target": {
+			"$mid": 1,
+			"path": "/whitespace_end/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Remove whitespace at end of line",
+	"source": "abaplint",
+	"startLineNumber": 36,
+	"startColumn": 1,
+	"endLineNumber": 36,
+	"endColumn": 7
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/21.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "check_syntax",
+		"target": {
+			"$mid": 1,
+			"path": "/check_syntax/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "SORT, must be a internal table",
+	"source": "abaplint",
+	"startLineNumber": 39,
+	"startColumn": 7,
+	"endLineNumber": 39,
+	"endColumn": 11
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/3.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "abapdoc",
+		"target": {
+			"$mid": 1,
+			"path": "/abapdoc/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Missing ABAP Doc for method anagram (PUBLIC SECTION.)",
+	"source": "abaplint",
+	"startLineNumber": 7,
+	"startColumn": 13,
+	"endLineNumber": 7,
+	"endColumn": 20
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/3.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "prefer_inline",
+		"target": {
+			"$mid": 1,
+			"path": "/prefer_inline/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Prefer Inline Declarations, NORMALIZED_INPUT",
+	"source": "abaplint",
+	"startLineNumber": 25,
+	"startColumn": 11,
+	"endLineNumber": 25,
+	"endColumn": 27
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/3.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "prefer_inline",
+		"target": {
+			"$mid": 1,
+			"path": "/prefer_inline/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Prefer Inline Declarations, NORMALIZED_CANDIDATE",
+	"source": "abaplint",
+	"startLineNumber": 26,
+	"startColumn": 11,
+	"endLineNumber": 26,
+	"endColumn": 31
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/3.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_inline_in_optional_branches",
+		"target": {
+			"$mid": 1,
+			"path": "/no_inline_in_optional_branches/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Don't declare inline in optional branches",
+	"source": "abaplint",
+	"startLineNumber": 32,
+	"startColumn": 29,
+	"endLineNumber": 32,
+	"endColumn": 33
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/3.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_inline_in_optional_branches",
+		"target": {
+			"$mid": 1,
+			"path": "/no_inline_in_optional_branches/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Don't declare inline in optional branches",
+	"source": "abaplint",
+	"startLineNumber": 52,
+	"startColumn": 29,
+	"endLineNumber": 52,
+	"endColumn": 33
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/4.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "abapdoc",
+		"target": {
+			"$mid": 1,
+			"path": "/abapdoc/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Missing ABAP Doc for method anagram (PUBLIC SECTION.)",
+	"source": "abaplint",
+	"startLineNumber": 7,
+	"startColumn": 13,
+	"endLineNumber": 7,
+	"endColumn": 20
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/4.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "unnecessary_chaining",
+		"target": {
+			"$mid": 1,
+			"path": "/unnecessary_chaining/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Unnecessary chaining",
+	"source": "abaplint",
+	"startLineNumber": 27,
+	"startColumn": 9,
+	"endLineNumber": 27,
+	"endColumn": 10
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/4.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_inline_in_optional_branches",
+		"target": {
+			"$mid": 1,
+			"path": "/no_inline_in_optional_branches/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Don't declare inline in optional branches",
+	"source": "abaplint",
+	"startLineNumber": 31,
+	"startColumn": 29,
+	"endLineNumber": 31,
+	"endColumn": 33
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/4.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"DATA\"",
+	"source": "abaplint",
+	"startLineNumber": 42,
+	"startColumn": 5,
+	"endLineNumber": 42,
+	"endColumn": 47
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/4.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "check_syntax",
+		"target": {
+			"$mid": 1,
+			"path": "/check_syntax/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "\"sorted_characters\" not found, Target",
+	"source": "abaplint",
+	"startLineNumber": 45,
+	"startColumn": 7,
+	"endLineNumber": 45,
+	"endColumn": 13
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/4.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "check_syntax",
+		"target": {
+			"$mid": 1,
+			"path": "/check_syntax/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "\"sorted_characters\" not found, Target",
+	"source": "abaplint",
+	"startLineNumber": 48,
+	"startColumn": 5,
+	"endLineNumber": 48,
+	"endColumn": 9
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/4.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "check_syntax",
+		"target": {
+			"$mid": 1,
+			"path": "/check_syntax/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "\"sorted_characters\" not found, findTop",
+	"source": "abaplint",
+	"startLineNumber": 51,
+	"startColumn": 5,
+	"endLineNumber": 51,
+	"endColumn": 9
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/4.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_inline_in_optional_branches",
+		"target": {
+			"$mid": 1,
+			"path": "/no_inline_in_optional_branches/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Don't declare inline in optional branches",
+	"source": "abaplint",
+	"startLineNumber": 51,
+	"startColumn": 36,
+	"endLineNumber": 51,
+	"endColumn": 40
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/5.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "abapdoc",
+		"target": {
+			"$mid": 1,
+			"path": "/abapdoc/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Missing ABAP Doc for method anagram (PUBLIC SECTION.)",
+	"source": "abaplint",
+	"startLineNumber": 7,
+	"startColumn": 13,
+	"endLineNumber": 7,
+	"endColumn": 20
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/5.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "whitespace_end",
+		"target": {
+			"$mid": 1,
+			"path": "/whitespace_end/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Remove whitespace at end of line",
+	"source": "abaplint",
+	"startLineNumber": 29,
+	"startColumn": 1,
+	"endLineNumber": 29,
+	"endColumn": 5
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/5.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_inline_in_optional_branches",
+		"target": {
+			"$mid": 1,
+			"path": "/no_inline_in_optional_branches/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Don't declare inline in optional branches",
+	"source": "abaplint",
+	"startLineNumber": 37,
+	"startColumn": 29,
+	"endLineNumber": 37,
+	"endColumn": 33
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/5.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"normalized_candidate\"",
+	"source": "abaplint",
+	"startLineNumber": 39,
+	"startColumn": 7,
+	"endLineNumber": 39,
+	"endColumn": 58
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/5.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "unnecessary_chaining",
+		"target": {
+			"$mid": 1,
+			"path": "/unnecessary_chaining/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Unnecessary chaining",
+	"source": "abaplint",
+	"startLineNumber": 48,
+	"startColumn": 9,
+	"endLineNumber": 48,
+	"endColumn": 10
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/5.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "local_variable_names",
+		"target": {
+			"$mid": 1,
+			"path": "/local_variable_names/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Local variable name must not match pattern ^L._.+$: lt_chars",
+	"source": "abaplint",
+	"startLineNumber": 48,
+	"startColumn": 11,
+	"endLineNumber": 48,
+	"endColumn": 19
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/5.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_prefixes",
+		"target": {
+			"$mid": 1,
+			"path": "/no_prefixes/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Avoid hungarian notation",
+	"source": "abaplint",
+	"startLineNumber": 48,
+	"startColumn": 11,
+	"endLineNumber": 48,
+	"endColumn": 19
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/5.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "fully_type_itabs",
+		"target": {
+			"$mid": 1,
+			"path": "/fully_type_itabs/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Specify table key",
+	"source": "abaplint",
+	"startLineNumber": 48,
+	"startColumn": 20,
+	"endLineNumber": 48,
+	"endColumn": 48
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/5.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "check_syntax",
+		"target": {
+			"$mid": 1,
+			"path": "/check_syntax/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Method \"string_to_table\" not found, methodCallChain",
+	"source": "abaplint",
+	"startLineNumber": 52,
+	"startColumn": 5,
+	"endLineNumber": 52,
+	"endColumn": 13
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/5.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "check_syntax",
+		"target": {
+			"$mid": 1,
+			"path": "/check_syntax/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Method \"table_to_string\" not found, methodCallChain",
+	"source": "abaplint",
+	"startLineNumber": 56,
+	"startColumn": 5,
+	"endLineNumber": 56,
+	"endColumn": 11
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/6.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "abapdoc",
+		"target": {
+			"$mid": 1,
+			"path": "/abapdoc/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Missing ABAP Doc for method anagram (PUBLIC SECTION.)",
+	"source": "abaplint",
+	"startLineNumber": 7,
+	"startColumn": 13,
+	"endLineNumber": 7,
+	"endColumn": 20
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/6.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "unnecessary_chaining",
+		"target": {
+			"$mid": 1,
+			"path": "/unnecessary_chaining/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Unnecessary chaining",
+	"source": "abaplint",
+	"startLineNumber": 24,
+	"startColumn": 9,
+	"endLineNumber": 24,
+	"endColumn": 10
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/6.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_inline_in_optional_branches",
+		"target": {
+			"$mid": 1,
+			"path": "/no_inline_in_optional_branches/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Don't declare inline in optional branches",
+	"source": "abaplint",
+	"startLineNumber": 27,
+	"startColumn": 29,
+	"endLineNumber": 27,
+	"endColumn": 33
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/6.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_yoda_conditions",
+		"target": {
+			"$mid": 1,
+			"path": "/no_yoda_conditions/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "No Yoda conditions",
+	"source": "abaplint",
+	"startLineNumber": 28,
+	"startColumn": 10,
+	"endLineNumber": 28,
+	"endColumn": 50
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/6.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "unnecessary_chaining",
+		"target": {
+			"$mid": 1,
+			"path": "/unnecessary_chaining/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Unnecessary chaining",
+	"source": "abaplint",
+	"startLineNumber": 36,
+	"startColumn": 9,
+	"endLineNumber": 36,
+	"endColumn": 10
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/6.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "fully_type_itabs",
+		"target": {
+			"$mid": 1,
+			"path": "/fully_type_itabs/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Specify table key",
+	"source": "abaplint",
+	"startLineNumber": 36,
+	"startColumn": 22,
+	"endLineNumber": 36,
+	"endColumn": 48
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/6.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "check_syntax",
+		"target": {
+			"$mid": 1,
+			"path": "/check_syntax/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Sorted table, already sorted",
+	"source": "abaplint",
+	"startLineNumber": 43,
+	"startColumn": 5,
+	"endLineNumber": 43,
+	"endColumn": 9
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/6.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_inline_in_optional_branches",
+		"target": {
+			"$mid": 1,
+			"path": "/no_inline_in_optional_branches/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Don't declare inline in optional branches",
+	"source": "abaplint",
+	"startLineNumber": 46,
+	"startColumn": 29,
+	"endLineNumber": 46,
+	"endColumn": 33
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/7.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "abapdoc",
+		"target": {
+			"$mid": 1,
+			"path": "/abapdoc/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Missing ABAP Doc for method anagram (PUBLIC SECTION.)",
+	"source": "abaplint",
+	"startLineNumber": 7,
+	"startColumn": 13,
+	"endLineNumber": 7,
+	"endColumn": 20
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/7.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "unnecessary_chaining",
+		"target": {
+			"$mid": 1,
+			"path": "/unnecessary_chaining/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Unnecessary chaining",
+	"source": "abaplint",
+	"startLineNumber": 26,
+	"startColumn": 9,
+	"endLineNumber": 26,
+	"endColumn": 10
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/7.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "prefer_inline",
+		"target": {
+			"$mid": 1,
+			"path": "/prefer_inline/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Prefer Inline Declarations, NORMALIZED_INPUT",
+	"source": "abaplint",
+	"startLineNumber": 26,
+	"startColumn": 11,
+	"endLineNumber": 26,
+	"endColumn": 27
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/7.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_inline_in_optional_branches",
+		"target": {
+			"$mid": 1,
+			"path": "/no_inline_in_optional_branches/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Don't declare inline in optional branches",
+	"source": "abaplint",
+	"startLineNumber": 30,
+	"startColumn": 29,
+	"endLineNumber": 30,
+	"endColumn": 33
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/7.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "unnecessary_chaining",
+		"target": {
+			"$mid": 1,
+			"path": "/unnecessary_chaining/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Unnecessary chaining",
+	"source": "abaplint",
+	"startLineNumber": 40,
+	"startColumn": 9,
+	"endLineNumber": 40,
+	"endColumn": 10
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/7.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "fully_type_itabs",
+		"target": {
+			"$mid": 1,
+			"path": "/fully_type_itabs/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Specify table type",
+	"source": "abaplint",
+	"startLineNumber": 40,
+	"startColumn": 22,
+	"endLineNumber": 40,
+	"endColumn": 41
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/7.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_inline_in_optional_branches",
+		"target": {
+			"$mid": 1,
+			"path": "/no_inline_in_optional_branches/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Don't declare inline in optional branches",
+	"source": "abaplint",
+	"startLineNumber": 51,
+	"startColumn": 29,
+	"endLineNumber": 51,
+	"endColumn": 33
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/8.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "abapdoc",
+		"target": {
+			"$mid": 1,
+			"path": "/abapdoc/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Missing ABAP Doc for method anagram (PUBLIC SECTION.)",
+	"source": "abaplint",
+	"startLineNumber": 7,
+	"startColumn": 13,
+	"endLineNumber": 7,
+	"endColumn": 20
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/8.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "method_parameter_names",
+		"target": {
+			"$mid": 1,
+			"path": "/method_parameter_names/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Method parameter name must not match pattern ^I._.+$: iv_string",
+	"source": "abaplint",
+	"startLineNumber": 18,
+	"startColumn": 9,
+	"endLineNumber": 18,
+	"endColumn": 18
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/8.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_prefixes",
+		"target": {
+			"$mid": 1,
+			"path": "/no_prefixes/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Avoid hungarian notation",
+	"source": "abaplint",
+	"startLineNumber": 18,
+	"startColumn": 9,
+	"endLineNumber": 18,
+	"endColumn": 18
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/8.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "method_parameter_names",
+		"target": {
+			"$mid": 1,
+			"path": "/method_parameter_names/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Method parameter name must not match pattern ^R._.+$: rv_string",
+	"source": "abaplint",
+	"startLineNumber": 20,
+	"startColumn": 15,
+	"endLineNumber": 20,
+	"endColumn": 24
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/8.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_prefixes",
+		"target": {
+			"$mid": 1,
+			"path": "/no_prefixes/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Avoid hungarian notation",
+	"source": "abaplint",
+	"startLineNumber": 20,
+	"startColumn": 15,
+	"endLineNumber": 20,
+	"endColumn": 24
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/8.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "local_variable_names",
+		"target": {
+			"$mid": 1,
+			"path": "/local_variable_names/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Local variable name must not match pattern ^L._.+$: lv_norm_input",
+	"source": "abaplint",
+	"startLineNumber": 26,
+	"startColumn": 11,
+	"endLineNumber": 26,
+	"endColumn": 24
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/8.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_prefixes",
+		"target": {
+			"$mid": 1,
+			"path": "/no_prefixes/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Avoid hungarian notation",
+	"source": "abaplint",
+	"startLineNumber": 26,
+	"startColumn": 11,
+	"endLineNumber": 26,
+	"endColumn": 24
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/8.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "local_variable_names",
+		"target": {
+			"$mid": 1,
+			"path": "/local_variable_names/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Local variable name must not match pattern ^L._.+$: lt_result",
+	"source": "abaplint",
+	"startLineNumber": 27,
+	"startColumn": 11,
+	"endLineNumber": 27,
+	"endColumn": 20
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/8.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_prefixes",
+		"target": {
+			"$mid": 1,
+			"path": "/no_prefixes/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Avoid hungarian notation",
+	"source": "abaplint",
+	"startLineNumber": 27,
+	"startColumn": 11,
+	"endLineNumber": 27,
+	"endColumn": 20
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/8.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_inline_in_optional_branches",
+		"target": {
+			"$mid": 1,
+			"path": "/no_inline_in_optional_branches/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Don't declare inline in optional branches",
+	"source": "abaplint",
+	"startLineNumber": 31,
+	"startColumn": 29,
+	"endLineNumber": 31,
+	"endColumn": 33
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/8.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "local_variable_names",
+		"target": {
+			"$mid": 1,
+			"path": "/local_variable_names/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Local variable name must not match pattern ^L._.+$: lv_candidate",
+	"source": "abaplint",
+	"startLineNumber": 31,
+	"startColumn": 34,
+	"endLineNumber": 31,
+	"endColumn": 46
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/8.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_prefixes",
+		"target": {
+			"$mid": 1,
+			"path": "/no_prefixes/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Avoid hungarian notation",
+	"source": "abaplint",
+	"startLineNumber": 31,
+	"startColumn": 34,
+	"endLineNumber": 31,
+	"endColumn": 46
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/8.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "unnecessary_chaining",
+		"target": {
+			"$mid": 1,
+			"path": "/unnecessary_chaining/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Unnecessary chaining",
+	"source": "abaplint",
+	"startLineNumber": 42,
+	"startColumn": 9,
+	"endLineNumber": 42,
+	"endColumn": 10
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/8.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "local_variable_names",
+		"target": {
+			"$mid": 1,
+			"path": "/local_variable_names/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Local variable name must not match pattern ^L._.+$: lv_sorted",
+	"source": "abaplint",
+	"startLineNumber": 42,
+	"startColumn": 11,
+	"endLineNumber": 42,
+	"endColumn": 20
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/8.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_prefixes",
+		"target": {
+			"$mid": 1,
+			"path": "/no_prefixes/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Avoid hungarian notation",
+	"source": "abaplint",
+	"startLineNumber": 42,
+	"startColumn": 11,
+	"endLineNumber": 42,
+	"endColumn": 20
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/8.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "check_syntax",
+		"target": {
+			"$mid": 1,
+			"path": "/check_syntax/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Method \"string_to_char_table\" not found, methodCallChain",
+	"source": "abaplint",
+	"startLineNumber": 48,
+	"startColumn": 5,
+	"endLineNumber": 48,
+	"endColumn": 9
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/8.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "local_variable_names",
+		"target": {
+			"$mid": 1,
+			"path": "/local_variable_names/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Local variable name must not match pattern ^L._.+$: lt_chars",
+	"source": "abaplint",
+	"startLineNumber": 48,
+	"startColumn": 10,
+	"endLineNumber": 48,
+	"endColumn": 18
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/8.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_prefixes",
+		"target": {
+			"$mid": 1,
+			"path": "/no_prefixes/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Avoid hungarian notation",
+	"source": "abaplint",
+	"startLineNumber": 48,
+	"startColumn": 10,
+	"endLineNumber": 48,
+	"endColumn": 18
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/8.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "check_syntax",
+		"target": {
+			"$mid": 1,
+			"path": "/check_syntax/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "\"lt_chars\" not found, Target",
+	"source": "abaplint",
+	"startLineNumber": 49,
+	"startColumn": 5,
+	"endLineNumber": 49,
+	"endColumn": 9
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/8.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "check_syntax",
+		"target": {
+			"$mid": 1,
+			"path": "/check_syntax/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Method \"char_table_to_string\" not found, methodCallChain",
+	"source": "abaplint",
+	"startLineNumber": 50,
+	"startColumn": 5,
+	"endLineNumber": 50,
+	"endColumn": 14
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/9.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_prefixes",
+		"target": {
+			"$mid": 1,
+			"path": "/no_prefixes/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Avoid hungarian notation",
+	"source": "abaplint",
+	"startLineNumber": 7,
+	"startColumn": 21,
+	"endLineNumber": 7,
+	"endColumn": 28
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/9.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "types_naming",
+		"target": {
+			"$mid": 1,
+			"path": "/types_naming/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Bad TYPES naming, expected \"^TY_.+$\", got \"tt_word\"",
+	"source": "abaplint",
+	"startLineNumber": 11,
+	"startColumn": 12,
+	"endLineNumber": 11,
+	"endColumn": 19
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/9.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "abapdoc",
+		"target": {
+			"$mid": 1,
+			"path": "/abapdoc/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Missing ABAP Doc for method anagram ()",
+	"source": "abaplint",
+	"startLineNumber": 13,
+	"startColumn": 13,
+	"endLineNumber": 13,
+	"endColumn": 20
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/9.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "method_parameter_names",
+		"target": {
+			"$mid": 1,
+			"path": "/method_parameter_names/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Method parameter name must not match pattern ^I._.+$: iv_word",
+	"source": "abaplint",
+	"startLineNumber": 24,
+	"startColumn": 9,
+	"endLineNumber": 24,
+	"endColumn": 16
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/9.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_prefixes",
+		"target": {
+			"$mid": 1,
+			"path": "/no_prefixes/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Avoid hungarian notation",
+	"source": "abaplint",
+	"startLineNumber": 24,
+	"startColumn": 9,
+	"endLineNumber": 24,
+	"endColumn": 16
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/9.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "method_parameter_names",
+		"target": {
+			"$mid": 1,
+			"path": "/method_parameter_names/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Method parameter name must not match pattern ^R._.+$: rv_sorted",
+	"source": "abaplint",
+	"startLineNumber": 26,
+	"startColumn": 15,
+	"endLineNumber": 26,
+	"endColumn": 24
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/9.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_prefixes",
+		"target": {
+			"$mid": 1,
+			"path": "/no_prefixes/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Avoid hungarian notation",
+	"source": "abaplint",
+	"startLineNumber": 26,
+	"startColumn": 15,
+	"endLineNumber": 26,
+	"endColumn": 24
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/9.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "local_variable_names",
+		"target": {
+			"$mid": 1,
+			"path": "/local_variable_names/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Local variable name must not match pattern ^L._.+$: lv_input_sorted",
+	"source": "abaplint",
+	"startLineNumber": 32,
+	"startColumn": 11,
+	"endLineNumber": 32,
+	"endColumn": 26
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/9.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_prefixes",
+		"target": {
+			"$mid": 1,
+			"path": "/no_prefixes/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Avoid hungarian notation",
+	"source": "abaplint",
+	"startLineNumber": 32,
+	"startColumn": 11,
+	"endLineNumber": 32,
+	"endColumn": 26
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/9.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "local_variable_names",
+		"target": {
+			"$mid": 1,
+			"path": "/local_variable_names/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Local variable name must not match pattern ^L._.+$: lt_words",
+	"source": "abaplint",
+	"startLineNumber": 33,
+	"startColumn": 11,
+	"endLineNumber": 33,
+	"endColumn": 19
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/9.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_prefixes",
+		"target": {
+			"$mid": 1,
+			"path": "/no_prefixes/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Avoid hungarian notation",
+	"source": "abaplint",
+	"startLineNumber": 33,
+	"startColumn": 11,
+	"endLineNumber": 33,
+	"endColumn": 19
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/9.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "local_variable_names",
+		"target": {
+			"$mid": 1,
+			"path": "/local_variable_names/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Local variable name must not match pattern ^L._.+$: ls_word",
+	"source": "abaplint",
+	"startLineNumber": 34,
+	"startColumn": 11,
+	"endLineNumber": 34,
+	"endColumn": 18
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/9.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_prefixes",
+		"target": {
+			"$mid": 1,
+			"path": "/no_prefixes/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Avoid hungarian notation",
+	"source": "abaplint",
+	"startLineNumber": 34,
+	"startColumn": 11,
+	"endLineNumber": 34,
+	"endColumn": 18
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/9.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_inline_in_optional_branches",
+		"target": {
+			"$mid": 1,
+			"path": "/no_inline_in_optional_branches/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Don't declare inline in optional branches",
+	"source": "abaplint",
+	"startLineNumber": 40,
+	"startColumn": 29,
+	"endLineNumber": 40,
+	"endColumn": 33
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/9.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "local_variable_names",
+		"target": {
+			"$mid": 1,
+			"path": "/local_variable_names/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Local variable name must not match pattern ^L._.+$: lv_candidate",
+	"source": "abaplint",
+	"startLineNumber": 40,
+	"startColumn": 34,
+	"endLineNumber": 40,
+	"endColumn": 46
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/9.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_prefixes",
+		"target": {
+			"$mid": 1,
+			"path": "/no_prefixes/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Avoid hungarian notation",
+	"source": "abaplint",
+	"startLineNumber": 40,
+	"startColumn": 34,
+	"endLineNumber": 40,
+	"endColumn": 46
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/9.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "local_variable_names",
+		"target": {
+			"$mid": 1,
+			"path": "/local_variable_names/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Local variable name must not match pattern ^L._.+$: lv_chars",
+	"source": "abaplint",
+	"startLineNumber": 55,
+	"startColumn": 10,
+	"endLineNumber": 55,
+	"endColumn": 18
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/9.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_prefixes",
+		"target": {
+			"$mid": 1,
+			"path": "/no_prefixes/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Avoid hungarian notation",
+	"source": "abaplint",
+	"startLineNumber": 55,
+	"startColumn": 10,
+	"endLineNumber": 55,
+	"endColumn": 18
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/9.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "parser_error",
+		"target": {
+			"$mid": 1,
+			"path": "/parser_error/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Statement does not exist in ABAPv758(or a parser error), \"DATA\"",
+	"source": "abaplint",
+	"startLineNumber": 56,
+	"startColumn": 5,
+	"endLineNumber": 56,
+	"endColumn": 46
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/9.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "check_syntax",
+		"target": {
+			"$mid": 1,
+			"path": "/check_syntax/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "\"lt_chars\" not found, Target",
+	"source": "abaplint",
+	"startLineNumber": 58,
+	"startColumn": 7,
+	"endLineNumber": 58,
+	"endColumn": 13
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/9.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "check_syntax",
+		"target": {
+			"$mid": 1,
+			"path": "/check_syntax/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "\"lt_chars\" not found, Target",
+	"source": "abaplint",
+	"startLineNumber": 60,
+	"startColumn": 5,
+	"endLineNumber": 60,
+	"endColumn": 9
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/9.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "check_syntax",
+		"target": {
+			"$mid": 1,
+			"path": "/check_syntax/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "\"lt_chars\" not found, findTop",
+	"source": "abaplint",
+	"startLineNumber": 62,
+	"startColumn": 5,
+	"endLineNumber": 62,
+	"endColumn": 9
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/9.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_inline_in_optional_branches",
+		"target": {
+			"$mid": 1,
+			"path": "/no_inline_in_optional_branches/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Don't declare inline in optional branches",
+	"source": "abaplint",
+	"startLineNumber": 62,
+	"startColumn": 27,
+	"endLineNumber": 62,
+	"endColumn": 31
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/9.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "local_variable_names",
+		"target": {
+			"$mid": 1,
+			"path": "/local_variable_names/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Local variable name must not match pattern ^L._.+$: lv_char",
+	"source": "abaplint",
+	"startLineNumber": 62,
+	"startColumn": 32,
+	"endLineNumber": 62,
+	"endColumn": 39
+},{
+	"resource": "/c:/Users/chris/Documents/vscode/mcce_abap_experiment/Task 1 - Anagram/1_GPT4_untrained/9.clas.abap",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no_prefixes",
+		"target": {
+			"$mid": 1,
+			"path": "/no_prefixes/",
+			"scheme": "https",
+			"authority": "rules.abaplint.org"
+		}
+	},
+	"severity": 8,
+	"message": "Avoid hungarian notation",
+	"source": "abaplint",
+	"startLineNumber": 62,
+	"startColumn": 32,
+	"endLineNumber": 62,
+	"endColumn": 39
+}]
